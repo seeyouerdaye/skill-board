@@ -1,0 +1,36 @@
+name: daily-collect
+
+on:
+  schedule:
+    - cron: "0 22 * * *"   # UTC 22:00 = 北京时间每天 06:00
+  workflow_dispatch: {}     # 支持手动触发补数据
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 采集 skills.sh + GitHub 榜单
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # 内置 token，无需手动配置
+        run: python collector.py
+
+      - name: 提交数据
+        run: |
+          git config user.name  "skill-board-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "数据无变化，跳过提交"
+          else
+            git commit -m "data: $(TZ=Asia/Shanghai date +%F) 每日更新"
+            git push
+          fi
