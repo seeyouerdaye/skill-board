@@ -1,0 +1,481 @@
+{
+ "generated_at": "2026-10-16T10:19:31+08:00",
+ "skills": {
+  "trending": [
+   {
+    "name": "ui-taste",
+    "repo": "uizze.sh",
+    "url": "https://www.skills.sh/site/uizze.sh/ui-taste",
+    "installs": "34.1K",
+    "installs_n": 34100,
+    "desc": ""
+   },
+   {
+    "name": "ai-image-generation",
+    "repo": "magentosh/superpowers",
+    "url": "https://www.skills.sh/magentosh/superpowers/ai-image-generation",
+    "installs": "29.6K",
+    "installs_n": 29600,
+    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+   },
+   {
+    "name": "hyperframes-cli",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-cli",
+    "installs": "29.6K",
+    "installs_n": 29600,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "design-mobile-apps",
+    "repo": "designed-by-ai/skills",
+    "url": "https://www.skills.sh/designed-by-ai/skills/design-mobile-apps",
+    "installs": "21.3K",
+    "installs_n": 21300,
+    "desc": "Agent skills"
+   },
+   {
+    "name": "ios-design",
+    "repo": "uizze.sh",
+    "url": "https://www.skills.sh/site/uizze.sh/ios-design",
+    "installs": "20.5K",
+    "installs_n": 20500,
+    "desc": ""
+   },
+   {
+    "name": "media-use",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/media-use",
+    "installs": "20.5K",
+    "installs_n": 20500,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "uizze-ui",
+    "repo": "uizze/uizze",
+    "url": "https://www.skills.sh/uizze/uizze/uizze-ui",
+    "installs": "20.2K",
+    "installs_n": 20200,
+    "desc": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens."
+   },
+   {
+    "name": "hyperframes-audio",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-audio",
+    "installs": "19.1K",
+    "installs_n": 19100,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "find-skills",
+    "repo": "vercel-labs/skills",
+    "url": "https://www.skills.sh/vercel-labs/skills/find-skills",
+    "installs": "18.9K",
+    "installs_n": 18900,
+    "desc": "The open agent skills tool - npx skills"
+   },
+   {
+    "name": "general-video",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/general-video",
+    "installs": "17.6K",
+    "installs_n": 17600,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "image-to-video",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/image-to-video",
+    "installs": "14.7K",
+    "installs_n": 14700,
+    "desc": ""
+   },
+   {
+    "name": "reddit-automation",
+    "repo": "flowkit-labs/skills",
+    "url": "https://www.skills.sh/flowkit-labs/skills/reddit-automation",
+    "installs": "14.6K",
+    "installs_n": 14600,
+    "desc": ""
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/ai-video-generation",
+    "installs": "14.6K",
+    "installs_n": 14600,
+    "desc": ""
+   },
+   {
+    "name": "product-launch-video",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/product-launch-video",
+    "installs": "12.3K",
+    "installs_n": 12300,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "agent-browser",
+    "repo": "vercel-labs/agent-browser",
+    "url": "https://www.skills.sh/vercel-labs/agent-browser/agent-browser",
+    "installs": "11.9K",
+    "installs_n": 11900,
+    "desc": "Browser automation CLI for AI agents"
+   },
+   {
+    "name": "faceless-explainer",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/faceless-explainer",
+    "installs": "11.8K",
+    "installs_n": 11800,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "motion-graphics",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/motion-graphics",
+    "installs": "10.9K",
+    "installs_n": 10900,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "music-to-video",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/music-to-video",
+    "installs": "10.4K",
+    "installs_n": 10400,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "101-skills/superpowers",
+    "url": "https://www.skills.sh/101-skills/superpowers/ai-video-generation",
+    "installs": "10.1K",
+    "installs_n": 10100,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "twitter-automation",
+    "repo": "bankai-skills/superpowers",
+    "url": "https://www.skills.sh/bankai-skills/superpowers/twitter-automation",
+    "installs": "9.9K",
+    "installs_n": 9900,
+    "desc": "Agent superpowers"
+   }
+  ],
+  "hot": [
+   {
+    "name": "neon-realtime",
+    "repo": "neondatabase/agent-skills",
+    "url": "https://www.skills.sh/neondatabase/agent-skills/neon-realtime",
+    "installs": "8",
+    "installs_n": 8,
+    "desc": "Agent Skills for Neon Severless Postgres"
+   },
+   {
+    "name": "gateway-workers",
+    "repo": "cloudflare/skills",
+    "url": "https://www.skills.sh/cloudflare/skills/gateway-workers",
+    "installs": "6",
+    "installs_n": 6,
+    "desc": "Skills for teaching agents how to build on Cloudflare."
+   },
+   {
+    "name": "principle-migrate-callers-then-delete-legacy-apis",
+    "repo": "michael-denyer/pstack-claude",
+    "url": "https://www.skills.sh/michael-denyer/pstack-claude/principle-migrate-callers-then-delete-legacy-apis",
+    "installs": "3",
+    "installs_n": 3,
+    "desc": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses."
+   },
+   {
+    "name": "pipefy-ai-agents",
+    "repo": "pipefy/ai-toolkit",
+    "url": "https://www.skills.sh/pipefy/ai-toolkit/pipefy-ai-agents",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "MCP server, CLI, and agent skills for Pipefy."
+   },
+   {
+    "name": "comentarios",
+    "repo": "andreoliveiras/skills-de-conteudo",
+    "url": "https://www.skills.sh/andreoliveiras/skills-de-conteudo/comentarios",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "5 skills que transformam o Claude no seu time de conteúdo do Instagram: reel renderizado, carrossel, legenda, perfil e comentários."
+   },
+   {
+    "name": "no-comments",
+    "repo": "michael-denyer/pstack-claude",
+    "url": "https://www.skills.sh/michael-denyer/pstack-claude/no-comments",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses."
+   },
+   {
+    "name": "swarm",
+    "repo": "michael-denyer/pstack-claude",
+    "url": "https://www.skills.sh/michael-denyer/pstack-claude/swarm",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses."
+   },
+   {
+    "name": "self-media-content-brief",
+    "repo": "yanhua1010/self-media-content-workflow",
+    "url": "https://www.skills.sh/yanhua1010/self-media-content-workflow/self-media-content-brief",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "通用、模块化的自媒体内容生产与经营 Skills / A modular, tool-agnostic self-media content skill suite"
+   },
+   {
+    "name": "principle-laziness-protocol",
+    "repo": "michael-denyer/pstack-claude",
+    "url": "https://www.skills.sh/michael-denyer/pstack-claude/principle-laziness-protocol",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses."
+   },
+   {
+    "name": "pipefy-members-email-webhooks",
+    "repo": "pipefy/ai-toolkit",
+    "url": "https://www.skills.sh/pipefy/ai-toolkit/pipefy-members-email-webhooks",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "MCP server, CLI, and agent skills for Pipefy."
+   },
+   {
+    "name": "principle-fix-root-causes",
+    "repo": "michael-denyer/pstack-claude",
+    "url": "https://www.skills.sh/michael-denyer/pstack-claude/principle-fix-root-causes",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses."
+   },
+   {
+    "name": "correct",
+    "repo": "michael-denyer/pstack-claude",
+    "url": "https://www.skills.sh/michael-denyer/pstack-claude/correct",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses."
+   },
+   {
+    "name": "automate-me",
+    "repo": "michael-denyer/pstack-claude",
+    "url": "https://www.skills.sh/michael-denyer/pstack-claude/automate-me",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses."
+   },
+   {
+    "name": "reel",
+    "repo": "andreoliveiras/skills-de-conteudo",
+    "url": "https://www.skills.sh/andreoliveiras/skills-de-conteudo/reel",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "5 skills que transformam o Claude no seu time de conteúdo do Instagram: reel renderizado, carrossel, legenda, perfil e comentários."
+   },
+   {
+    "name": "hwpx",
+    "repo": "jkf87/hwpx-skill",
+    "url": "https://www.skills.sh/jkf87/hwpx-skill/hwpx",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "AI 에이전트용 HWPX(.hwpx) 문서 생성 스킬 - 한컴오피스 한글 문서를 마크다운/텍스트/URL에서 자동 생성"
+   },
+   {
+    "name": "perfil",
+    "repo": "andreoliveiras/skills-de-conteudo",
+    "url": "https://www.skills.sh/andreoliveiras/skills-de-conteudo/perfil",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "5 skills que transformam o Claude no seu time de conteúdo do Instagram: reel renderizado, carrossel, legenda, perfil e comentários."
+   },
+   {
+    "name": "principle-redesign-from-first-principles",
+    "repo": "michael-denyer/pstack-claude",
+    "url": "https://www.skills.sh/michael-denyer/pstack-claude/principle-redesign-from-first-principles",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses."
+   },
+   {
+    "name": "pipefy-building",
+    "repo": "pipefy/ai-toolkit",
+    "url": "https://www.skills.sh/pipefy/ai-toolkit/pipefy-building",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "MCP server, CLI, and agent skills for Pipefy."
+   },
+   {
+    "name": "pipefy-process-impact",
+    "repo": "pipefy/ai-toolkit",
+    "url": "https://www.skills.sh/pipefy/ai-toolkit/pipefy-process-impact",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "MCP server, CLI, and agent skills for Pipefy."
+   },
+   {
+    "name": "google-news",
+    "repo": "fetcher-sh/fetcher-skills",
+    "url": "https://www.skills.sh/fetcher-sh/fetcher-skills/google-news",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": ""
+   }
+  ]
+ },
+ "projects": [
+  {
+   "name": "freeCodeCamp/freeCodeCamp",
+   "stars": 457126,
+   "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+   "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+   "delta": null
+  },
+  {
+   "name": "EbookFoundation/free-programming-books",
+   "stars": 399145,
+   "desc": ":books: Freely available programming books",
+   "url": "https://github.com/EbookFoundation/free-programming-books",
+   "delta": null
+  },
+  {
+   "name": "openclaw/openclaw",
+   "stars": 392130,
+   "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+   "url": "https://github.com/openclaw/openclaw",
+   "delta": null
+  },
+  {
+   "name": "morluto/rea",
+   "stars": 272363,
+   "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "url": "https://github.com/morluto/rea",
+   "delta": null
+  },
+  {
+   "name": "NousResearch/hermes-agent",
+   "stars": 254142,
+   "desc": "The agent that grows with you",
+   "url": "https://github.com/NousResearch/hermes-agent",
+   "delta": null
+  },
+  {
+   "name": "TheAlgorithms/Python",
+   "stars": 225288,
+   "desc": "All Algorithms implemented in Python",
+   "url": "https://github.com/TheAlgorithms/Python",
+   "delta": null
+  },
+  {
+   "name": "anomalyco/opencode",
+   "stars": 213955,
+   "desc": "The open source coding agent.",
+   "url": "https://github.com/anomalyco/opencode",
+   "delta": null
+  },
+  {
+   "name": "n8n-io/n8n",
+   "stars": 207548,
+   "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+   "url": "https://github.com/n8n-io/n8n",
+   "delta": null
+  },
+  {
+   "name": "tensorflow/tensorflow",
+   "stars": 200986,
+   "desc": "An Open Source Machine Learning Framework for Everyone",
+   "url": "https://github.com/tensorflow/tensorflow",
+   "delta": null
+  },
+  {
+   "name": "microsoft/vscode",
+   "stars": 193659,
+   "desc": "Visual Studio Code",
+   "url": "https://github.com/microsoft/vscode",
+   "delta": null
+  },
+  {
+   "name": "firecrawl/firecrawl",
+   "stars": 191924,
+   "desc": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+   "url": "https://github.com/firecrawl/firecrawl",
+   "delta": null
+  },
+  {
+   "name": "Significant-Gravitas/AutoGPT",
+   "stars": 187599,
+   "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+   "url": "https://github.com/Significant-Gravitas/AutoGPT",
+   "delta": null
+  },
+  {
+   "name": "ollama/ollama",
+   "stars": 183349,
+   "desc": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+   "url": "https://github.com/ollama/ollama",
+   "delta": null
+  },
+  {
+   "name": "flutter/flutter",
+   "stars": 180231,
+   "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+   "url": "https://github.com/flutter/flutter",
+   "delta": null
+  },
+  {
+   "name": "huggingface/transformers",
+   "stars": 167735,
+   "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+   "url": "https://github.com/huggingface/transformers",
+   "delta": null
+  },
+  {
+   "name": "langgenius/dify",
+   "stars": 158593,
+   "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+   "url": "https://github.com/langgenius/dify",
+   "delta": null
+  },
+  {
+   "name": "open-webui/open-webui",
+   "stars": 155832,
+   "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+   "url": "https://github.com/open-webui/open-webui",
+   "delta": null
+  },
+  {
+   "name": "langflow-ai/langflow",
+   "stars": 155722,
+   "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+   "url": "https://github.com/langflow-ai/langflow",
+   "delta": null
+  },
+  {
+   "name": "farion1231/cc-switch",
+   "stars": 144800,
+   "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+   "url": "https://github.com/farion1231/cc-switch",
+   "delta": null
+  },
+  {
+   "name": "vercel/next.js",
+   "stars": 143028,
+   "desc": "The React Framework",
+   "url": "https://github.com/vercel/next.js",
+   "delta": null
+  }
+ ],
+ "meta": {
+  "alerts": [],
+  "pool_size": 199,
+  "projects_by_delta": false,
+  "sources": [
+   "https://www.skills.sh/trending",
+   "https://www.skills.sh/hot",
+   "GitHub Search API (stars>500 pushed>1d / created>30d stars>100)"
+  ]
+ }
+}
