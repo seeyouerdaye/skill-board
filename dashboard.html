@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GitHub 热门 Skill 看板</title>
+<style>
+:root{
+  --bg:#F7F6F2; --card:#FFFFFF; --ink:#2F4A3F; --soft:#7C8478;
+  --accent:#DD7A34; --link:#3E86C9; --line:#E8E6DE; --new:#EAF3DE; --newink:#3B6D11;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:"PingFang SC","Microsoft YaHei",system-ui,sans-serif;line-height:1.6}
+.wrap{max-width:880px;margin:0 auto;padding:28px 18px 60px}
+header h1{font-size:26px;font-weight:700;letter-spacing:.5px}
+header .sub{color:var(--soft);font-size:13px;margin-top:4px}
+.alert{margin-top:12px;background:#FCEBEB;color:#A32D2D;border:1px solid #F0C4C4;border-radius:10px;padding:8px 14px;font-size:13px}
+.tabs{display:flex;gap:8px;margin:22px 0 14px;flex-wrap:wrap}
+.tab{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;
+     padding:8px 18px;font-size:14px;cursor:pointer;transition:all .15s}
+.tab.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.board{display:flex;flex-direction:column;gap:10px}
+.row{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;display:flex;gap:14px;align-items:flex-start}
+.rank{flex:0 0 34px;height:34px;border-radius:50%;display:flex;align-items:center;justify-content:center;
+      font-weight:700;font-size:15px;background:var(--bg);color:var(--soft)}
+.rank.r1{background:var(--accent);color:#fff}.rank.r2{background:#EF9F27;color:#fff}.rank.r3{background:#C0A35B;color:#fff}
+.main{flex:1;min-width:0}
+.titleline{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.name{font-size:16.5px;font-weight:700;color:var(--ink);text-decoration:none}
+.name:hover{color:var(--link)}
+.repo{font-family:ui-monospace,Consolas,monospace;font-size:12.5px;color:var(--soft)}
+.metric{margin-left:auto;flex:0 0 auto;text-align:right}
+.metric .big{font-size:18px;font-weight:700;color:var(--ink)}
+.metric .cap{font-size:11px;color:var(--soft)}
+.delta{color:var(--newink);font-size:12px;font-weight:600}
+.badge{display:inline-block;background:var(--new);color:var(--newink);font-size:11px;border-radius:6px;padding:1px 7px;margin-left:6px;vertical-align:1px}
+.desc{font-size:13px;color:var(--ink);margin-top:5px}
+.zh{font-size:13.5px;color:var(--ink);margin-top:4px;font-weight:500}
+.zh::before{content:"简介 · ";color:var(--soft);font-weight:400;font-size:12px}
+.solve{font-size:13px;margin-top:4px;color:var(--accent)}
+.solve::before{content:"💪 对你：";font-weight:600}
+footer{margin-top:26px;color:var(--soft);font-size:12px;border-top:1px solid var(--line);padding-top:14px}
+footer a{color:var(--link);text-decoration:none}
+.loading{color:var(--soft);padding:40px 0;text-align:center}
+@media(max-width:560px){.row{flex-wrap:wrap}.metric{width:100%;text-align:left;display:flex;gap:8px;align-items:baseline}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🔥 GitHub 热门 Skill 看板</h1>
+    <div class="sub" id="genat">数据加载中…</div>
+  </header>
+  <div class="alert" id="alerts" style="display:none"></div>
+  <div class="tabs" id="tabs"></div>
+  <div class="board" id="board"><div class="loading">拉取数据中…</div></div>
+  <footer>
+    数据源：<a href="https://www.skills.sh/trending" target="_blank">skills.sh Trending(24h)</a> ·
+    <a href="https://www.skills.sh/hot" target="_blank">skills.sh Hot</a> · GitHub Search API。
+    「💪 对你」由 agent 增量生成（<code>data/solves.json</code>，缺省不显示）。每天北京时间 06:00 由 GitHub Actions 自动更新。
+  </footer>
+</div>
+
+<script>
+const CONFIG = { REMOTE_DATA_URL: "" };  // 可选：填 raw.githubusercontent.com/.../latest.json 作为远程源
+const $ = s => document.querySelector(s);
+
+function metricHTML(item, kind){
+  if (kind === "proj"){
+    const d = item.delta;
+    return `<div class="metric"><div class="big">★ ${item.stars.toLocaleString()}</div>
+      <div class="cap">${d!=null ? `<span class="delta">+${d.toLocaleString()} 昨日</span>` : "总星标（明日起显示增量）"}</div></div>`;
+  }
+  return `<div class="metric"><div class="big">${item.installs || "–"}</div><div class="cap">装机量</div></div>`;
+}
+
+function rowsHTML(items, kind, prevKeys){
+  return items.map((it,i)=>{
+    const key = kind==="proj" ? it.name : `${it.repo}/${it.name}`;
+    const isNew = prevKeys && !prevKeys.has(key);
+    const href = it.url;
+    const zh = window.__ZH__ ? (window.__ZH__[key] || window.__ZH__[it.repo] || "") : "";
+    return `<div class="row">
+      <div class="rank r${i<3?i+1:""}">${i+1}</div>
+      <div class="main">
+        <div class="titleline">
+          <a class="name" href="${href}" target="_blank">${it.name}${isNew?'<span class="badge">🆕 新上榜</span>':""}</a>
+          ${it.repo?`<span class="repo">${it.repo}</span>`:""}
+        </div>
+        ${it.desc?`<div class="desc">${it.desc}</div>`:""}
+        ${zh?`<div class="zh">${zh}</div>`:""}
+        ${window.__SOLVES__ && (window.__SOLVES__[key]||window.__SOLVES__[it.repo])
+          ? `<div class="solve">${(window.__SOLVES__[key]||window.__SOLVES__[it.repo]).replace(/</g,"&lt;")}</div>`:""}
+      </div>
+      ${metricHTML(it, kind)}
+    </div>`;
+  }).join("");
+}
+
+async function fetchJSON(url){
+  const r = await fetch(url + (url.includes("?")?"&":"?") + "t=" + Date.now(), {cache:"no-store"});
+  if(!r.ok) throw new Error(r.status);
+  return r.json();
+}
+
+const BOARDS = [
+  {id:"trending", label:"Skill · Trending 24h", kind:"skill"},
+  {id:"hot",      label:"Skill · Hot 今日",     kind:"skill"},
+  {id:"projects", label:"项目榜 · 昨日增量",     kind:"proj"},
+];
+let CUR = "trending";
+
+function renderTabs(){
+  $("#tabs").innerHTML = BOARDS.map(b=>
+    `<button class="tab ${b.id===CUR?"on":""}" data-b="${b.id}">${b.label}</button>`).join("");
+  document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{CUR=t.dataset.b;renderTabs();renderBoard();});
+}
+
+function renderBoard(){
+  const d = window.__DATA__;
+  const b = BOARDS.find(x=>x.id===CUR);
+  const items = (b.kind==="proj" ? d.projects : d.skills[b.id]) || [];
+  const prevKeys = window.__PREV__ ? new Set((b.kind==="proj"
+      ? (window.__PREV__.projects||[]).map(p=>p.name)
+      : (window.__PREV__.skills?.[b.id]||[]).map(s=>s.repo+"/"+s.name))) : null;
+  $("#board").innerHTML = items.length
+    ? rowsHTML(items, b.kind, prevKeys)
+    : '<div class="loading">本榜暂无数据</div>';
+}
+
+(async function init(){
+  let data = null;
+  for (const url of [CONFIG.REMOTE_DATA_URL, "data/latest.json"].filter(Boolean)){
+    try { data = await fetchJSON(url); break; } catch(e){}
+  }
+  if(!data){ $("#board").innerHTML = '<div class="loading">❌ 拿不到数据：请通过本地服务器或发布的在线链接打开</div>'; return; }
+  window.__DATA__ = data;
+  $("#genat").textContent = "数据生成于 " + data.generated_at.replace("T"," ").replace(/\+.*/,"") + "（北京时间）";
+
+  if(data.meta?.alerts?.length){
+    $("#alerts").style.display = "block";
+    $("#alerts").textContent = "⚠️ " + data.meta.alerts.join("；");
+  }
+
+  try { window.__SOLVES__ = await fetchJSON("data/solves.json"); } catch(e){}
+  try { window.__ZH__ = await fetchJSON("data/zh-intro.json"); } catch(e){}
+  const y = new Date(Date.parse(data.generated_at) - 86400000);
+  const yStr = y.toISOString().slice(0,10);
+  try { window.__PREV__ = await fetchJSON(`data/${yStr}.json`); } catch(e){}
+
+  renderTabs();
+  renderBoard();
+})();
+</script>
+</body>
+</html>
