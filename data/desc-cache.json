@@ -1,0 +1,20 @@
+{
+ "magentosh/superpowers": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents",
+ "heygen-com/hyperframes": "Write HTML. Render video. Built for agents.",
+ "designed-by-ai/skills": "Agent skills",
+ "uizze/uizze": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens.",
+ "vercel-labs/skills": "The open agent skills tool - npx skills",
+ "gencraft-labs/skills": "",
+ "flowkit-labs/skills": "",
+ "vercel-labs/agent-browser": "Browser automation CLI for AI agents",
+ "101-skills/superpowers": "Agent superpowers",
+ "bankai-skills/superpowers": "Agent superpowers",
+ "neondatabase/agent-skills": "Agent Skills for Neon Severless Postgres",
+ "cloudflare/skills": "Skills for teaching agents how to build on Cloudflare.",
+ "michael-denyer/pstack-claude": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+ "pipefy/ai-toolkit": "MCP server, CLI, and agent skills for Pipefy.",
+ "andreoliveiras/skills-de-conteudo": "5 skills que transformam o Claude no seu time de conteúdo do Instagram: reel renderizado, carrossel, legenda, perfil e comentários.",
+ "yanhua1010/self-media-content-workflow": "通用、模块化的自媒体内容生产与经营 Skills / A modular, tool-agnostic self-media content skill suite",
+ "jkf87/hwpx-skill": "AI 에이전트용 HWPX(.hwpx) 문서 생성 스킬 - 한컴오피스 한글 문서를 마크다운/텍스트/URL에서 자동 생성",
+ "fetcher-sh/fetcher-skills": ""
+}
