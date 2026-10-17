@@ -29,5 +29,19 @@
  "pierrecomputer/pierre": "pierre’s open source code",
  "harperfast/skills": "Developer skills for building with Harper. Auto-generated from the documentation.",
  "apidojo-io/apidojo-skills": "",
- "mempalace/mempalace": "The best-benchmarked open-source AI memory system. And it's free."
+ "mempalace/mempalace": "The best-benchmarked open-source AI memory system. And it's free.",
+ "skills-shell/superpowers": "Agent superpowers",
+ "qu-skills/superpowers": "Agent superpowers",
+ "stablyai/orca": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+ "vercel-labs/json-render": "The Generative UI framework",
+ "schpet/linear-cli": "linear without leaving the command line: list, start, and create PRs for linear issues. agent friendly.",
+ "vercel/ai": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+ "vercel/turborepo": "Build system optimized for JavaScript and TypeScript, written in Rust",
+ "stripe/link-cli": "Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase.",
+ "convex/agent-skills": "Convex Skills for Agents",
+ "better-auth/skills": "",
+ "dmmulroy/anti-slop": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+ "kotot/byted-ark-seedream-skill": "豆包 Seedream AI 图片生成 Skill - 火山方舟 Agent Plan 专属版本：文生图/连贯组图/图生图、流式输出、提示词智能优化、联网搜索",
+ "kotot/byted-web-search": "Mirror of byted-web-search skill from bytedance/agentkit-samples (Apache-2.0)",
+ "github/awesome-copilot": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot."
 }
