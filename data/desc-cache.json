@@ -16,5 +16,18 @@
  "andreoliveiras/skills-de-conteudo": "5 skills que transformam o Claude no seu time de conteúdo do Instagram: reel renderizado, carrossel, legenda, perfil e comentários.",
  "yanhua1010/self-media-content-workflow": "通用、模块化的自媒体内容生产与经营 Skills / A modular, tool-agnostic self-media content skill suite",
  "jkf87/hwpx-skill": "AI 에이전트용 HWPX(.hwpx) 문서 생성 스킬 - 한컴오피스 한글 문서를 마크다운/텍스트/URL에서 자동 생성",
- "fetcher-sh/fetcher-skills": ""
+ "fetcher-sh/fetcher-skills": "",
+ "lllllllama/rigorpilot-skills": "README-first research reproduction skills with bounded execution, auditable evidence, and byte-preserving README annotations.",
+ "xixu-me/skills": "Agent Skills maintained by me for practical engineering work",
+ "iksangyoo-sys/koreport-skill": "한국 기업의 의사결정용, 설득형 보고서 작성 스킬입니다.",
+ "openai/skills": "Skills Catalog for Codex",
+ "firecrawl/skills": "Firecrawl agent skills for Claude Code, Codex and Cursor: web search, scraping, crawling and browser interaction. Firecrawl is the most complete web data API for AI agents.",
+ "leonchaox/qinyan-academic-skills": "A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientific writing, grant development, bioinformatics, drug discovery, clinical research, machine learning, and data analysis.",
+ "aj-geddes/useful-ai-prompts": "A curated collection of useful AI prompts for various tasks and use cases",
+ "chiroro-jr/pencil-design-skill": "Agent skill for designing UIs in Pencil (.pen files) and generating production code (React/Next.js + Tailwind v4 + shadcn/ui)",
+ "liyue-aigc/seedance-2-5-video-director": "Seedance 2.5 视频导演 Skill：提示词、脚本、诊断、人物锁定、续写、编辑、转场与首次使用指导",
+ "pierrecomputer/pierre": "pierre’s open source code",
+ "harperfast/skills": "Developer skills for building with Harper. Auto-generated from the documentation.",
+ "apidojo-io/apidojo-skills": "",
+ "mempalace/mempalace": "The best-benchmarked open-source AI memory system. And it's free."
 }
