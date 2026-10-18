@@ -1,471 +1,471 @@
 {
- "generated_at": "2026-10-18T07:43:40+08:00",
+ "generated_at": "2026-10-19T07:53:15+08:00",
  "skills": {
   "trending": [
    {
     "name": "ai-image-generation",
     "repo": "magentosh/superpowers",
     "url": "https://www.skills.sh/magentosh/superpowers/ai-image-generation",
-    "installs": "29.2K",
-    "installs_n": 29200,
+    "installs": "29.9K",
+    "installs_n": 29900,
     "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
    },
    {
-    "name": "hyperframes",
+    "name": "media-use",
     "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes",
-    "installs": "18.7K",
-    "installs_n": 18700,
-    "desc": "Write HTML. Render video. Built for agents."
-   },
-   {
-    "name": "hyperframes-core",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-core",
-    "installs": "18.2K",
-    "installs_n": 18200,
+    "url": "https://www.skills.sh/heygen-com/hyperframes/media-use",
+    "installs": "20.2K",
+    "installs_n": 20200,
     "desc": "Write HTML. Render video. Built for agents."
    },
    {
     "name": "design-mobile-apps",
     "repo": "designed-by-ai/skills",
     "url": "https://www.skills.sh/designed-by-ai/skills/design-mobile-apps",
-    "installs": "17.2K",
-    "installs_n": 17200,
+    "installs": "18.4K",
+    "installs_n": 18400,
     "desc": "Agent skills"
    },
    {
-    "name": "hyperframes-cli",
+    "name": "hyperframes",
     "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-cli",
-    "installs": "15.2K",
-    "installs_n": 15200,
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes",
+    "installs": "17.8K",
+    "installs_n": 17800,
     "desc": "Write HTML. Render video. Built for agents."
    },
    {
-    "name": "video-edit",
-    "repo": "gencraft-labs/skills",
-    "url": "https://www.skills.sh/gencraft-labs/skills/video-edit",
-    "installs": "15.2K",
-    "installs_n": 15200,
-    "desc": ""
+    "name": "hyperframes-core",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-core",
+    "installs": "17.3K",
+    "installs_n": 17300,
+    "desc": "Write HTML. Render video. Built for agents."
    },
    {
-    "name": "ai-music",
-    "repo": "gencraft-labs/skills",
-    "url": "https://www.skills.sh/gencraft-labs/skills/ai-music",
-    "installs": "15.2K",
-    "installs_n": 15200,
+    "name": "reddit-automation",
+    "repo": "flowkit-labs/skills",
+    "url": "https://www.skills.sh/flowkit-labs/skills/reddit-automation",
+    "installs": "15.6K",
+    "installs_n": 15600,
     "desc": ""
    },
    {
     "name": "ai-image-generation",
     "repo": "gencraft-labs/skills",
     "url": "https://www.skills.sh/gencraft-labs/skills/ai-image-generation",
-    "installs": "15.1K",
-    "installs_n": 15100,
+    "installs": "15.6K",
+    "installs_n": 15600,
     "desc": ""
    },
    {
-    "name": "reddit-automation",
-    "repo": "flowkit-labs/skills",
-    "url": "https://www.skills.sh/flowkit-labs/skills/reddit-automation",
-    "installs": "15.1K",
-    "installs_n": 15100,
-    "desc": ""
-   },
-   {
-    "name": "image-to-video",
-    "repo": "gencraft-labs/skills",
-    "url": "https://www.skills.sh/gencraft-labs/skills/image-to-video",
-    "installs": "15.1K",
-    "installs_n": 15100,
-    "desc": ""
-   },
-   {
-    "name": "ai-video-generation",
-    "repo": "gencraft-labs/skills",
-    "url": "https://www.skills.sh/gencraft-labs/skills/ai-video-generation",
-    "installs": "15.0K",
-    "installs_n": 15000,
-    "desc": ""
+    "name": "hyperframes-cli",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-cli",
+    "installs": "15.3K",
+    "installs_n": 15300,
+    "desc": "Write HTML. Render video. Built for agents."
    },
    {
     "name": "hyperframes-animation",
     "repo": "heygen-com/hyperframes",
     "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-animation",
-    "installs": "14.4K",
-    "installs_n": 14400,
+    "installs": "15.3K",
+    "installs_n": 15300,
     "desc": "Write HTML. Render video. Built for agents."
    },
    {
     "name": "find-skills",
     "repo": "vercel-labs/skills",
     "url": "https://www.skills.sh/vercel-labs/skills/find-skills",
-    "installs": "14.3K",
-    "installs_n": 14300,
+    "installs": "15.0K",
+    "installs_n": 15000,
     "desc": "The open agent skills tool - npx skills"
    },
    {
     "name": "hyperframes-creative",
     "repo": "heygen-com/hyperframes",
     "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-creative",
-    "installs": "13.7K",
-    "installs_n": 13700,
+    "installs": "14.2K",
+    "installs_n": 14200,
     "desc": "Write HTML. Render video. Built for agents."
    },
    {
-    "name": "twitter-automation",
-    "repo": "skills-shell/superpowers",
-    "url": "https://www.skills.sh/skills-shell/superpowers/twitter-automation",
-    "installs": "9.8K",
-    "installs_n": 9800,
-    "desc": "Agent superpowers"
-   },
-   {
-    "name": "ai-video-generation",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/ai-video-generation",
-    "installs": "9.8K",
-    "installs_n": 9800,
-    "desc": "Agent superpowers"
+    "name": "ai-avatar-video",
+    "repo": "its-a-skill-issue/superpowers",
+    "url": "https://www.skills.sh/its-a-skill-issue/superpowers/ai-avatar-video",
+    "installs": "10.1K",
+    "installs_n": 10100,
+    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
    },
    {
     "name": "ai-video-generation",
     "repo": "101-skills/superpowers",
     "url": "https://www.skills.sh/101-skills/superpowers/ai-video-generation",
-    "installs": "9.7K",
-    "installs_n": 9700,
+    "installs": "10.0K",
+    "installs_n": 10000,
     "desc": "Agent superpowers"
    },
    {
     "name": "ai-video-generation",
     "repo": "bankai-skills/superpowers",
     "url": "https://www.skills.sh/bankai-skills/superpowers/ai-video-generation",
-    "installs": "9.7K",
-    "installs_n": 9700,
+    "installs": "10.0K",
+    "installs_n": 10000,
     "desc": "Agent superpowers"
    },
    {
     "name": "ai-image-generation",
     "repo": "101-skills/superpowers",
     "url": "https://www.skills.sh/101-skills/superpowers/ai-image-generation",
-    "installs": "9.7K",
-    "installs_n": 9700,
+    "installs": "10.0K",
+    "installs_n": 10000,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "ai-avatar-video",
+    "repo": "101-skills/superpowers",
+    "url": "https://www.skills.sh/101-skills/superpowers/ai-avatar-video",
+    "installs": "10.0K",
+    "installs_n": 10000,
     "desc": "Agent superpowers"
    },
    {
     "name": "twitter-automation",
     "repo": "101-skills/superpowers",
     "url": "https://www.skills.sh/101-skills/superpowers/twitter-automation",
-    "installs": "9.7K",
-    "installs_n": 9700,
+    "installs": "10.0K",
+    "installs_n": 10000,
     "desc": "Agent superpowers"
+   },
+   {
+    "name": "ai-avatar-video",
+    "repo": "qu-skills/superpowers",
+    "url": "https://www.skills.sh/qu-skills/superpowers/ai-avatar-video",
+    "installs": "10.0K",
+    "installs_n": 10000,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "twitter-automation",
+    "repo": "skills-shell/superpowers",
+    "url": "https://www.skills.sh/skills-shell/superpowers/twitter-automation",
+    "installs": "9.9K",
+    "installs_n": 9900,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "general-video",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/general-video",
+    "installs": "9.0K",
+    "installs_n": 9000,
+    "desc": "Write HTML. Render video. Built for agents."
    }
   ],
   "hot": [
    {
-    "name": "explore-code",
-    "repo": "lllllllama/rigorpilot-skills",
-    "url": "https://www.skills.sh/lllllllama/rigorpilot-skills/explore-code",
-    "installs": "68",
-    "installs_n": 68,
-    "desc": "README-first research reproduction skills with bounded execution, auditable evidence, and byte-preserving README annotations."
+    "name": "media-use",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/media-use",
+    "installs": "609",
+    "installs_n": 609,
+    "desc": "Write HTML. Render video. Built for agents."
    },
    {
-    "name": "computer-use",
-    "repo": "stablyai/orca",
-    "url": "https://www.skills.sh/stablyai/orca/computer-use",
-    "installs": "89",
-    "installs_n": 89,
-    "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+    "name": "agent-browser",
+    "repo": "vercel-labs/agent-browser",
+    "url": "https://www.skills.sh/vercel-labs/agent-browser/agent-browser",
+    "installs": "299",
+    "installs_n": 299,
+    "desc": "Browser automation CLI for AI agents"
    },
    {
     "name": "orca-cli",
     "repo": "stablyai/orca",
     "url": "https://www.skills.sh/stablyai/orca/orca-cli",
-    "installs": "107",
-    "installs_n": 107,
+    "installs": "260",
+    "installs_n": 260,
     "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+   },
+   {
+    "name": "slideshow",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/slideshow",
+    "installs": "158",
+    "installs_n": 158,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "notion-api",
+    "repo": "intellectronica/agent-skills",
+    "url": "https://www.skills.sh/intellectronica/agent-skills/notion-api",
+    "installs": "55",
+    "installs_n": 55,
+    "desc": "@intellectronica's agent skills"
    },
    {
     "name": "orchestration",
     "repo": "stablyai/orca",
     "url": "https://www.skills.sh/stablyai/orca/orchestration",
-    "installs": "116",
-    "installs_n": 116,
+    "installs": "269",
+    "installs_n": 269,
     "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
    },
    {
-    "name": "core",
-    "repo": "vercel-labs/json-render",
-    "url": "https://www.skills.sh/vercel-labs/json-render/core",
-    "installs": "14",
-    "installs_n": 14,
-    "desc": "The Generative UI framework"
+    "name": "wind-mcp-skill",
+    "repo": "wind-alice/alicemarket",
+    "url": "https://www.skills.sh/wind-alice/alicemarket/wind-mcp-skill",
+    "installs": "64",
+    "installs_n": 64,
+    "desc": "将 Wind 丰富的金融数据、专业工具、技能Skill与专家Agent能力开放给各类 Agent 和智能应用。通过 MCP、Skill、API 等标准化方式，为不同场景下的 Agent 提供股票、债券、基金、期货、期权、宏观、行业、新闻、研报、会议等全市场、全资产、全品类资讯能力。不仅支持行情、财务、新闻、公告、研报、会议等资讯的查询能力；更可将Wind Alice的多专家Agent能力全面输出，让你的Agent与AI系统直接完成行业与公司分析、资产分析与策略回测、估值与建模计算、风险识别、报告生成等复杂专业任务。让每一个需要金融能力的 Agent 都能够快速连接 Wind，获得可信的金融数据与专业技能。"
    },
    {
-    "name": "react",
-    "repo": "vercel-labs/json-render",
-    "url": "https://www.skills.sh/vercel-labs/json-render/react",
-    "installs": "14",
-    "installs_n": 14,
-    "desc": "The Generative UI framework"
-   },
-   {
-    "name": "linear-cli",
-    "repo": "schpet/linear-cli",
-    "url": "https://www.skills.sh/schpet/linear-cli/linear-cli",
-    "installs": "14",
-    "installs_n": 14,
-    "desc": "linear without leaving the command line: list, start, and create PRs for linear issues. agent friendly."
-   },
-   {
-    "name": "ai-sdk",
-    "repo": "vercel/ai",
-    "url": "https://www.skills.sh/vercel/ai/ai-sdk",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents"
-   },
-   {
-    "name": "turborepo",
-    "repo": "vercel/turborepo",
-    "url": "https://www.skills.sh/vercel/turborepo/turborepo",
-    "installs": "16",
-    "installs_n": 16,
-    "desc": "Build system optimized for JavaScript and TypeScript, written in Rust"
-   },
-   {
-    "name": "financial-insights",
-    "repo": "stripe/link-cli",
-    "url": "https://www.skills.sh/stripe/link-cli/financial-insights",
-    "installs": "32",
-    "installs_n": 32,
-    "desc": "Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase."
-   },
-   {
-    "name": "create-payment-credential",
-    "repo": "stripe/link-cli",
-    "url": "https://www.skills.sh/stripe/link-cli/create-payment-credential",
-    "installs": "32",
-    "installs_n": 32,
-    "desc": "Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase."
-   },
-   {
-    "name": "use-link-identity",
-    "repo": "stripe/link-cli",
-    "url": "https://www.skills.sh/stripe/link-cli/use-link-identity",
-    "installs": "32",
-    "installs_n": 32,
-    "desc": "Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase."
-   },
-   {
-    "name": "orca-linear",
-    "repo": "stablyai/orca",
-    "url": "https://www.skills.sh/stablyai/orca/orca-linear",
-    "installs": "15",
-    "installs_n": 15,
-    "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
-   },
-   {
-    "name": "convex-add",
-    "repo": "convex/agent-skills",
-    "url": "https://www.skills.sh/convex/agent-skills/convex-add",
-    "installs": "8",
-    "installs_n": 8,
-    "desc": "Convex Skills for Agents"
-   },
-   {
-    "name": "email-and-password-best-practices",
-    "repo": "better-auth/skills",
-    "url": "https://www.skills.sh/better-auth/skills/email-and-password-best-practices",
-    "installs": "11",
-    "installs_n": 11,
+    "name": "sentry-cli",
+    "repo": "sentry/dev",
+    "url": "https://www.skills.sh/sentry/dev/sentry-cli",
+    "installs": "56",
+    "installs_n": 56,
     "desc": ""
    },
    {
-    "name": "better-auth-best-practices",
-    "repo": "better-auth/skills",
-    "url": "https://www.skills.sh/better-auth/skills/better-auth-best-practices",
+    "name": "faceless-explainer",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/faceless-explainer",
+    "installs": "198",
+    "installs_n": 198,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "limrun-android-emulator",
+    "repo": "limrun-inc/skills",
+    "url": "https://www.skills.sh/limrun-inc/skills/limrun-android-emulator",
+    "installs": "65",
+    "installs_n": 65,
+    "desc": ""
+   },
+   {
+    "name": "unslop",
+    "repo": "backnotprop/pstack",
+    "url": "https://www.skills.sh/backnotprop/pstack/unslop",
+    "installs": "14",
+    "installs_n": 14,
+    "desc": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+   },
+   {
+    "name": "computer-use",
+    "repo": "stablyai/orca",
+    "url": "https://www.skills.sh/stablyai/orca/computer-use",
+    "installs": "185",
+    "installs_n": 185,
+    "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+   },
+   {
+    "name": "interrogate",
+    "repo": "backnotprop/pstack",
+    "url": "https://www.skills.sh/backnotprop/pstack/interrogate",
     "installs": "13",
     "installs_n": 13,
-    "desc": ""
+    "desc": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
    },
    {
-    "name": "install-anti-slop",
-    "repo": "dmmulroy/anti-slop",
-    "url": "https://www.skills.sh/dmmulroy/anti-slop/install-anti-slop",
-    "installs": "12",
-    "installs_n": 12,
-    "desc": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns"
+    "name": "teach",
+    "repo": "backnotprop/pstack",
+    "url": "https://www.skills.sh/backnotprop/pstack/teach",
+    "installs": "13",
+    "installs_n": 13,
+    "desc": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
    },
    {
-    "name": "byted-ark-seedream-skill",
-    "repo": "kotot/byted-ark-seedream-skill",
-    "url": "https://www.skills.sh/kotot/byted-ark-seedream-skill/byted-ark-seedream-skill",
-    "installs": "6",
-    "installs_n": 6,
-    "desc": "豆包 Seedream AI 图片生成 Skill - 火山方舟 Agent Plan 专属版本：文生图/连贯组图/图生图、流式输出、提示词智能优化、联网搜索"
+    "name": "architect",
+    "repo": "backnotprop/pstack",
+    "url": "https://www.skills.sh/backnotprop/pstack/architect",
+    "installs": "13",
+    "installs_n": 13,
+    "desc": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
    },
    {
-    "name": "byted-web-search",
-    "repo": "kotot/byted-web-search",
-    "url": "https://www.skills.sh/kotot/byted-web-search/byted-web-search",
-    "installs": "6",
-    "installs_n": 6,
-    "desc": "Mirror of byted-web-search skill from bytedance/agentkit-samples (Apache-2.0)"
+    "name": "setup-pre-commit",
+    "repo": "mattpocock/skills",
+    "url": "https://www.skills.sh/mattpocock/skills/setup-pre-commit",
+    "installs": "81",
+    "installs_n": 81,
+    "desc": "Skills for Real Engineers. Straight from my .agents directory."
    },
    {
-    "name": "multi-stage-dockerfile",
-    "repo": "github/awesome-copilot",
-    "url": "https://www.skills.sh/github/awesome-copilot/multi-stage-dockerfile",
-    "installs": "7",
-    "installs_n": 7,
-    "desc": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot."
+    "name": "last30days",
+    "repo": "mvanhorn/last30days-skill",
+    "url": "https://www.skills.sh/mvanhorn/last30days-skill/last30days",
+    "installs": "16",
+    "installs_n": 16,
+    "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+   },
+   {
+    "name": "principle-type-system-discipline",
+    "repo": "backnotprop/pstack",
+    "url": "https://www.skills.sh/backnotprop/pstack/principle-type-system-discipline",
+    "installs": "13",
+    "installs_n": 13,
+    "desc": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+   },
+   {
+    "name": "chief-of-staff",
+    "repo": "mattpocock/skills",
+    "url": "https://www.skills.sh/mattpocock/skills/chief-of-staff",
+    "installs": "80",
+    "installs_n": 80,
+    "desc": "Skills for Real Engineers. Straight from my .agents directory."
+   },
+   {
+    "name": "brand",
+    "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "url": "https://www.skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/brand",
+    "installs": "15",
+    "installs_n": 15,
+    "desc": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms."
    }
   ]
  },
  "projects": [
   {
    "name": "Ebony-Vinyl/dsh-our-free-model",
-   "stars": 21760,
+   "stars": 24724,
    "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
    "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
-   "delta": 2459
+   "delta": 2964
   },
   {
-   "name": "storytold/photocraft",
-   "stars": 66375,
-   "desc": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-   "url": "https://github.com/storytold/photocraft",
-   "delta": 1382
+   "name": "KnifeLemon/Filee",
+   "stars": 4030,
+   "desc": "Free, open-source file converter. Convert 180+ formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+   "url": "https://github.com/KnifeLemon/Filee",
+   "delta": 1903
   },
   {
    "name": "tangency-labs/solidcraft",
-   "stars": 4266,
+   "stars": 5653,
    "desc": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
    "url": "https://github.com/tangency-labs/solidcraft",
-   "delta": 1170
+   "delta": 1387
+  },
+  {
+   "name": "storytold/photocraft",
+   "stars": 67452,
+   "desc": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+   "url": "https://github.com/storytold/photocraft",
+   "delta": 1077
   },
   {
    "name": "wheresryan22/anatomy",
-   "stars": 15087,
+   "stars": 15984,
    "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
    "url": "https://github.com/wheresryan22/anatomy",
-   "delta": 1141
+   "delta": 897
   },
   {
    "name": "yetone/magpie",
-   "stars": 15037,
+   "stars": 15917,
    "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
    "url": "https://github.com/yetone/magpie",
-   "delta": 863
+   "delta": 880
   },
   {
    "name": "Droid-Deck/DroidDeck",
-   "stars": 10166,
+   "stars": 10809,
    "desc": "DroidDeck brings the SteamOS experience to Android",
    "url": "https://github.com/Droid-Deck/DroidDeck",
-   "delta": 652
+   "delta": 643
   },
   {
    "name": "Niko1221/Strata",
-   "stars": 26882,
+   "stars": 27448,
    "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
    "url": "https://github.com/Niko1221/Strata",
-   "delta": 636
-  },
-  {
-   "name": "storytold/pdfcraft",
-   "stars": 15489,
-   "desc": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
-   "url": "https://github.com/storytold/pdfcraft",
-   "delta": 488
-  },
-  {
-   "name": "storytold/figcraft",
-   "stars": 2446,
-   "desc": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
-   "url": "https://github.com/storytold/figcraft",
-   "delta": 426
-  },
-  {
-   "name": "Saffsanity/sill",
-   "stars": 3169,
-   "desc": "Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.",
-   "url": "https://github.com/Saffsanity/sill",
-   "delta": 396
-  },
-  {
-   "name": "storytold/wordcraft",
-   "stars": 14046,
-   "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-   "url": "https://github.com/storytold/wordcraft",
-   "delta": 379
-  },
-  {
-   "name": "storytold/filmcraft",
-   "stars": 14567,
-   "desc": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
-   "url": "https://github.com/storytold/filmcraft",
-   "delta": 353
-  },
-  {
-   "name": "HeyPuter/everything",
-   "stars": 2047,
-   "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
-   "url": "https://github.com/HeyPuter/everything",
-   "delta": 322
+   "delta": 566
   },
   {
    "name": "yihui-dev/awesome-opus5-5-videos",
-   "stars": 5787,
+   "stars": 6238,
    "desc": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
-   "delta": 309
+   "delta": 451
   },
   {
-   "name": "Jakeschincariol/replica-skill",
-   "stars": 3165,
-   "desc": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-   "url": "https://github.com/Jakeschincariol/replica-skill",
-   "delta": 261
+   "name": "storytold/pdfcraft",
+   "stars": 15884,
+   "desc": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
+   "url": "https://github.com/storytold/pdfcraft",
+   "delta": 395
   },
   {
-   "name": "storytold/lightcraft",
-   "stars": 13471,
-   "desc": "LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
-   "url": "https://github.com/storytold/lightcraft",
-   "delta": 247
+   "name": "storytold/wordcraft",
+   "stars": 14384,
+   "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+   "url": "https://github.com/storytold/wordcraft",
+   "delta": 338
   },
   {
-   "name": "ARahim3/DigUp",
-   "stars": 4567,
-   "desc": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
-   "url": "https://github.com/ARahim3/DigUp",
-   "delta": 247
+   "name": "deeplethe/solid-glass",
+   "stars": 2015,
+   "desc": "A design system for AI applications. Material, physical, tactile, technical.",
+   "url": "https://github.com/deeplethe/solid-glass",
+   "delta": 327
+  },
+  {
+   "name": "storytold/filmcraft",
+   "stars": 14837,
+   "desc": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
+   "url": "https://github.com/storytold/filmcraft",
+   "delta": 270
   },
   {
    "name": "T-Auto/dsh-ops",
-   "stars": 2810,
+   "stars": 3064,
    "desc": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
    "url": "https://github.com/T-Auto/dsh-ops",
-   "delta": 245
+   "delta": 254
   },
   {
-   "name": "ahwootech/BRUTAL",
-   "stars": 1790,
-   "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
-   "url": "https://github.com/ahwootech/BRUTAL",
-   "delta": 237
+   "name": "Saffsanity/sill",
+   "stars": 3420,
+   "desc": "Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.",
+   "url": "https://github.com/Saffsanity/sill",
+   "delta": 251
   },
   {
-   "name": "Fei2411/DeepSeek-Bot",
-   "stars": 2367,
-   "desc": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
-   "url": "https://github.com/Fei2411/DeepSeek-Bot",
+   "name": "Jakeschincariol/replica-skill",
+   "stars": 3400,
+   "desc": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+   "url": "https://github.com/Jakeschincariol/replica-skill",
+   "delta": 235
+  },
+  {
+   "name": "ARahim3/DigUp",
+   "stars": 4793,
+   "desc": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
+   "url": "https://github.com/ARahim3/DigUp",
    "delta": 226
+  },
+  {
+   "name": "storytold/lightcraft",
+   "stars": 13688,
+   "desc": "LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
+   "url": "https://github.com/storytold/lightcraft",
+   "delta": 217
+  },
+  {
+   "name": "storytold/cadcraft",
+   "stars": 5771,
+   "desc": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+   "url": "https://github.com/storytold/cadcraft",
+   "delta": 190
+  },
+  {
+   "name": "storytold/figcraft",
+   "stars": 2634,
+   "desc": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+   "url": "https://github.com/storytold/figcraft",
+   "delta": 188
   }
  ],
  "meta": {

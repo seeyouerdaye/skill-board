@@ -43,5 +43,14 @@
  "dmmulroy/anti-slop": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
  "kotot/byted-ark-seedream-skill": "豆包 Seedream AI 图片生成 Skill - 火山方舟 Agent Plan 专属版本：文生图/连贯组图/图生图、流式输出、提示词智能优化、联网搜索",
  "kotot/byted-web-search": "Mirror of byted-web-search skill from bytedance/agentkit-samples (Apache-2.0)",
- "github/awesome-copilot": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot."
+ "github/awesome-copilot": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+ "its-a-skill-issue/superpowers": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents",
+ "intellectronica/agent-skills": "@intellectronica's agent skills",
+ "wind-alice/alicemarket": "将 Wind 丰富的金融数据、专业工具、技能Skill与专家Agent能力开放给各类 Agent 和智能应用。通过 MCP、Skill、API 等标准化方式，为不同场景下的 Agent 提供股票、债券、基金、期货、期权、宏观、行业、新闻、研报、会议等全市场、全资产、全品类资讯能力。不仅支持行情、财务、新闻、公告、研报、会议等资讯的查询能力；更可将Wind Alice的多专家Agent能力全面输出，让你的Agent与AI系统直接完成行业与公司分析、资产分析与策略回测、估值与建模计算、风险识别、报告生成等复杂专业任务。让每一个需要金融能力的 Agent 都能够快速连接 Wind，获得可信的金融数据与专业技能。",
+ "sentry/dev": "",
+ "limrun-inc/skills": "",
+ "backnotprop/pstack": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering",
+ "mattpocock/skills": "Skills for Real Engineers. Straight from my .agents directory.",
+ "mvanhorn/last30days-skill": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+ "nextlevelbuilder/ui-ux-pro-max-skill": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms."
 }
