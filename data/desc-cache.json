@@ -52,5 +52,11 @@
  "backnotprop/pstack": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering",
  "mattpocock/skills": "Skills for Real Engineers. Straight from my .agents directory.",
  "mvanhorn/last30days-skill": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
- "nextlevelbuilder/ui-ux-pro-max-skill": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms."
+ "nextlevelbuilder/ui-ux-pro-max-skill": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+ "leonxlnx/taste-skill": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+ "vercel-labs/agent-skills": "Vercel's official collection of agent skills",
+ "momentic-ai/skills": "Agent skills and MCP servers that teach coding agents to write, run, and repair Momentic tests.",
+ "obra/superpowers": "An agentic skills framework & software development methodology that works.",
+ "prisma/skills": "",
+ "mastra-ai/skills": "Official agent skills for coding agents working with the Mastra AI framework"
 }
