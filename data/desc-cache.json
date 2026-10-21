@@ -58,5 +58,20 @@
  "momentic-ai/skills": "Agent skills and MCP servers that teach coding agents to write, run, and repair Momentic tests.",
  "obra/superpowers": "An agentic skills framework & software development methodology that works.",
  "prisma/skills": "",
- "mastra-ai/skills": "Official agent skills for coding agents working with the Mastra AI framework"
+ "mastra-ai/skills": "Official agent skills for coding agents working with the Mastra AI framework",
+ "jeffallan/claude-skills": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+ "interfacex-co-jp/genshijin": "genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。",
+ "greptileai/skills": "Agent skill for checking PR review comments, status checks, and description completeness",
+ "brianlovin/agent-config": "My coding agent config",
+ "wshobson/agents": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+ "shopify/shopify-ai-toolkit": "Agent plugins/extensions for CLIs and IDEs",
+ "riekelt/principal-engineer": "Engineering discipline for agents: ground before coding, no silent error swallows, one source of truth, verify before claiming done",
+ "bmad-code-org/bmad-method": "Breakthrough Method for Agile Ai Driven Development",
+ "anthropics/knowledge-work-plugins": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+ "xirothedev/skills": "NestJS API best-practice skill and adapter pack for coding agents.",
+ "nodnarbnitram/claude-code-extensions": "These are a collection of extension for Claude Code that can typically also be used in opencode.",
+ "blacktwist/social-media-skills": "AI agent skills for social media content strategy, creation, and analysis across text-first platforms",
+ "getsentry/skills": "Agent Skills used by the Sentry team for development.",
+ "mobbin/skills": "Official Mobbin skills for designing and building UI with Mobbin, the industry standard in UI & UX design references for mobile apps, web apps, and websites",
+ "ibelick/ui-skills": "Skills for Design Engineers"
 }

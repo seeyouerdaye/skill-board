@@ -1,471 +1,471 @@
 {
- "generated_at": "2026-10-20T08:53:55+08:00",
+ "generated_at": "2026-10-21T08:21:53+08:00",
  "skills": {
   "trending": [
+   {
+    "name": "ui-taste",
+    "repo": "uizze.sh",
+    "url": "https://www.skills.sh/site/uizze.sh/ui-taste",
+    "installs": "30.4K",
+    "installs_n": 30400,
+    "desc": ""
+   },
    {
     "name": "media-use",
     "repo": "heygen-com/hyperframes",
     "url": "https://www.skills.sh/heygen-com/hyperframes/media-use",
-    "installs": "27.5K",
-    "installs_n": 27500,
-    "desc": "Write HTML. Render video. Built for agents."
-   },
-   {
-    "name": "ai-image-generation",
-    "repo": "magentosh/superpowers",
-    "url": "https://www.skills.sh/magentosh/superpowers/ai-image-generation",
-    "installs": "22.9K",
-    "installs_n": 22900,
-    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
-   },
-   {
-    "name": "hyperframes-core",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-core",
-    "installs": "20.9K",
-    "installs_n": 20900,
+    "installs": "25.7K",
+    "installs_n": 25700,
     "desc": "Write HTML. Render video. Built for agents."
    },
    {
     "name": "design-mobile-apps",
     "repo": "designed-by-ai/skills",
     "url": "https://www.skills.sh/designed-by-ai/skills/design-mobile-apps",
-    "installs": "19.7K",
-    "installs_n": 19700,
+    "installs": "22.4K",
+    "installs_n": 22400,
     "desc": "Agent skills"
+   },
+   {
+    "name": "hyperframes-core",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-core",
+    "installs": "20.6K",
+    "installs_n": 20600,
+    "desc": "Write HTML. Render video. Built for agents."
    },
    {
     "name": "find-skills",
     "repo": "vercel-labs/skills",
     "url": "https://www.skills.sh/vercel-labs/skills/find-skills",
-    "installs": "19.5K",
-    "installs_n": 19500,
+    "installs": "19.3K",
+    "installs_n": 19300,
     "desc": "The open agent skills tool - npx skills"
    },
    {
-    "name": "ui-taste",
-    "repo": "uizze.sh",
-    "url": "https://www.skills.sh/site/uizze.sh/ui-taste",
-    "installs": "18.6K",
-    "installs_n": 18600,
-    "desc": ""
+    "name": "ai-image-generation",
+    "repo": "magentosh/superpowers",
+    "url": "https://www.skills.sh/magentosh/superpowers/ai-image-generation",
+    "installs": "19.2K",
+    "installs_n": 19200,
+    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
    },
    {
     "name": "hyperframes-creative",
     "repo": "heygen-com/hyperframes",
     "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-creative",
-    "installs": "17.7K",
-    "installs_n": 17700,
+    "installs": "19.0K",
+    "installs_n": 19000,
     "desc": "Write HTML. Render video. Built for agents."
    },
    {
     "name": "hyperframes-studio",
     "repo": "heygen-com/hyperframes",
     "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-studio",
-    "installs": "17.6K",
-    "installs_n": 17600,
+    "installs": "18.2K",
+    "installs_n": 18200,
     "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "ios-design",
+    "repo": "uizze.sh",
+    "url": "https://www.skills.sh/site/uizze.sh/ios-design",
+    "installs": "18.1K",
+    "installs_n": 18100,
+    "desc": ""
+   },
+   {
+    "name": "uizze-ui",
+    "repo": "uizze/uizze",
+    "url": "https://www.skills.sh/uizze/uizze/uizze-ui",
+    "installs": "18.1K",
+    "installs_n": 18100,
+    "desc": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens."
    },
    {
     "name": "hyperframes-audio",
     "repo": "heygen-com/hyperframes",
     "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-audio",
-    "installs": "16.1K",
-    "installs_n": 16100,
+    "installs": "16.9K",
+    "installs_n": 16900,
     "desc": "Write HTML. Render video. Built for agents."
    },
    {
-    "name": "ai-music",
+    "name": "image-to-video",
     "repo": "gencraft-labs/skills",
-    "url": "https://www.skills.sh/gencraft-labs/skills/ai-music",
-    "installs": "15.4K",
-    "installs_n": 15400,
+    "url": "https://www.skills.sh/gencraft-labs/skills/image-to-video",
+    "installs": "15.0K",
+    "installs_n": 15000,
     "desc": ""
    },
    {
     "name": "reddit-automation",
     "repo": "flowkit-labs/skills",
     "url": "https://www.skills.sh/flowkit-labs/skills/reddit-automation",
-    "installs": "15.2K",
-    "installs_n": 15200,
+    "installs": "15.0K",
+    "installs_n": 15000,
     "desc": ""
    },
    {
-    "name": "image-to-video",
+    "name": "ai-music",
     "repo": "gencraft-labs/skills",
-    "url": "https://www.skills.sh/gencraft-labs/skills/image-to-video",
-    "installs": "15.2K",
-    "installs_n": 15200,
+    "url": "https://www.skills.sh/gencraft-labs/skills/ai-music",
+    "installs": "14.9K",
+    "installs_n": 14900,
     "desc": ""
-   },
-   {
-    "name": "hyperframes-keyframes",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-keyframes",
-    "installs": "12.9K",
-    "installs_n": 12900,
-    "desc": "Write HTML. Render video. Built for agents."
-   },
-   {
-    "name": "hyperframes-registry",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-registry",
-    "installs": "12.8K",
-    "installs_n": 12800,
-    "desc": "Write HTML. Render video. Built for agents."
-   },
-   {
-    "name": "motion-graphics",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/motion-graphics",
-    "installs": "12.5K",
-    "installs_n": 12500,
-    "desc": "Write HTML. Render video. Built for agents."
    },
    {
     "name": "agent-browser",
     "repo": "vercel-labs/agent-browser",
     "url": "https://www.skills.sh/vercel-labs/agent-browser/agent-browser",
-    "installs": "12.4K",
-    "installs_n": 12400,
+    "installs": "13.7K",
+    "installs_n": 13700,
     "desc": "Browser automation CLI for AI agents"
    },
    {
     "name": "general-video",
     "repo": "heygen-com/hyperframes",
     "url": "https://www.skills.sh/heygen-com/hyperframes/general-video",
-    "installs": "11.7K",
-    "installs_n": 11700,
+    "installs": "12.6K",
+    "installs_n": 12600,
     "desc": "Write HTML. Render video. Built for agents."
    },
    {
-    "name": "ios-design",
-    "repo": "uizze.sh",
-    "url": "https://www.skills.sh/site/uizze.sh/ios-design",
-    "installs": "11.2K",
-    "installs_n": 11200,
-    "desc": ""
+    "name": "ai-video-generation",
+    "repo": "101-skills/superpowers",
+    "url": "https://www.skills.sh/101-skills/superpowers/ai-video-generation",
+    "installs": "9.7K",
+    "installs_n": 9700,
+    "desc": "Agent superpowers"
    },
    {
-    "name": "uizze-ui",
-    "repo": "uizze/uizze",
-    "url": "https://www.skills.sh/uizze/uizze/uizze-ui",
-    "installs": "11.2K",
-    "installs_n": 11200,
-    "desc": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens."
+    "name": "ai-video-generation",
+    "repo": "qu-skills/superpowers",
+    "url": "https://www.skills.sh/qu-skills/superpowers/ai-video-generation",
+    "installs": "9.7K",
+    "installs_n": 9700,
+    "desc": "Agent superpowers"
    },
    {
-    "name": "product-launch-video",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/product-launch-video",
-    "installs": "10.7K",
-    "installs_n": 10700,
-    "desc": "Write HTML. Render video. Built for agents."
+    "name": "ai-image-generation",
+    "repo": "101-skills/superpowers",
+    "url": "https://www.skills.sh/101-skills/superpowers/ai-image-generation",
+    "installs": "9.7K",
+    "installs_n": 9700,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "twitter-automation",
+    "repo": "101-skills/superpowers",
+    "url": "https://www.skills.sh/101-skills/superpowers/twitter-automation",
+    "installs": "9.7K",
+    "installs_n": 9700,
+    "desc": "Agent superpowers"
    }
   ],
   "hot": [
    {
-    "name": "ui-taste",
-    "repo": "uizze.sh",
-    "url": "https://www.skills.sh/site/uizze.sh/ui-taste",
-    "installs": "829",
-    "installs_n": 829,
+    "name": "limrun-xcode-bazel",
+    "repo": "limrun-inc/skills",
+    "url": "https://www.skills.sh/limrun-inc/skills/limrun-xcode-bazel",
+    "installs": "36",
+    "installs_n": 36,
     "desc": ""
    },
    {
-    "name": "uizze-ui",
-    "repo": "uizze/uizze",
-    "url": "https://www.skills.sh/uizze/uizze/uizze-ui",
-    "installs": "504",
-    "installs_n": 504,
-    "desc": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens."
+    "name": "typescript-pro",
+    "repo": "jeffallan/claude-skills",
+    "url": "https://www.skills.sh/jeffallan/claude-skills/typescript-pro",
+    "installs": "9",
+    "installs_n": 9,
+    "desc": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer."
    },
    {
-    "name": "ios-design",
-    "repo": "uizze.sh",
-    "url": "https://www.skills.sh/site/uizze.sh/ios-design",
-    "installs": "493",
-    "installs_n": 493,
-    "desc": ""
+    "name": "genshijin-commit",
+    "repo": "interfacex-co-jp/genshijin",
+    "url": "https://www.skills.sh/interfacex-co-jp/genshijin/genshijin-commit",
+    "installs": "8",
+    "installs_n": 8,
+    "desc": "genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。"
    },
    {
-    "name": "embedded-captions",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/embedded-captions",
-    "installs": "305",
-    "installs_n": 305,
-    "desc": "Write HTML. Render video. Built for agents."
+    "name": "greploop",
+    "repo": "greptileai/skills",
+    "url": "https://www.skills.sh/greptileai/skills/greploop",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": "Agent skill for checking PR review comments, status checks, and description completeness"
    },
    {
-    "name": "image-to-ui",
-    "repo": "uizze/uizze",
-    "url": "https://www.skills.sh/uizze/uizze/image-to-ui",
-    "installs": "150",
-    "installs_n": 150,
-    "desc": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens."
+    "name": "simplify",
+    "repo": "brianlovin/agent-config",
+    "url": "https://www.skills.sh/brianlovin/agent-config/simplify",
+    "installs": "6",
+    "installs_n": 6,
+    "desc": "My coding agent config"
    },
    {
-    "name": "design-taste-frontend",
-    "repo": "leonxlnx/taste-skill",
-    "url": "https://www.skills.sh/leonxlnx/taste-skill/design-taste-frontend",
-    "installs": "139",
-    "installs_n": 139,
-    "desc": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages"
+    "name": "stride-analysis-patterns",
+    "repo": "wshobson/agents",
+    "url": "https://www.skills.sh/wshobson/agents/stride-analysis-patterns",
+    "installs": "6",
+    "installs_n": 6,
+    "desc": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi"
    },
    {
-    "name": "talking-head-recut",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/talking-head-recut",
-    "installs": "233",
-    "installs_n": 233,
-    "desc": "Write HTML. Render video. Built for agents."
+    "name": "shopify",
+    "repo": "shopify/shopify-ai-toolkit",
+    "url": "https://www.skills.sh/shopify/shopify-ai-toolkit/shopify",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": "Agent plugins/extensions for CLIs and IDEs"
    },
    {
-    "name": "vercel-react-view-transitions",
-    "repo": "vercel-labs/agent-skills",
-    "url": "https://www.skills.sh/vercel-labs/agent-skills/vercel-react-view-transitions",
-    "installs": "183",
-    "installs_n": 183,
-    "desc": "Vercel's official collection of agent skills"
+    "name": "operating-safely",
+    "repo": "riekelt/principal-engineer",
+    "url": "https://www.skills.sh/riekelt/principal-engineer/operating-safely",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": "Engineering discipline for agents: ground before coding, no silent error swallows, one source of truth, verify before claiming done"
    },
    {
-    "name": "deploy-to-vercel",
-    "repo": "vercel-labs/agent-skills",
-    "url": "https://www.skills.sh/vercel-labs/agent-skills/deploy-to-vercel",
-    "installs": "180",
-    "installs_n": 180,
-    "desc": "Vercel's official collection of agent skills"
+    "name": "bmod-method",
+    "repo": "bmad-code-org/bmad-method",
+    "url": "https://www.skills.sh/bmad-code-org/bmad-method/bmod-method",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": "Breakthrough Method for Agile Ai Driven Development"
    },
    {
-    "name": "momentic-spec",
-    "repo": "momentic-ai/skills",
-    "url": "https://www.skills.sh/momentic-ai/skills/momentic-spec",
-    "installs": "76",
-    "installs_n": 76,
-    "desc": "Agent skills and MCP servers that teach coding agents to write, run, and repair Momentic tests."
+    "name": "tech-debt",
+    "repo": "anthropics/knowledge-work-plugins",
+    "url": "https://www.skills.sh/anthropics/knowledge-work-plugins/tech-debt",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
    },
    {
-    "name": "vercel-cli-with-tokens",
-    "repo": "vercel-labs/agent-skills",
-    "url": "https://www.skills.sh/vercel-labs/agent-skills/vercel-cli-with-tokens",
-    "installs": "172",
-    "installs_n": 172,
-    "desc": "Vercel's official collection of agent skills"
+    "name": "nestjs-best-practices",
+    "repo": "xirothedev/skills",
+    "url": "https://www.skills.sh/xirothedev/skills/nestjs-best-practices",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "NestJS API best-practice skill and adapter pack for coding agents."
    },
    {
-    "name": "vercel-react-native-skills",
-    "repo": "vercel-labs/agent-skills",
-    "url": "https://www.skills.sh/vercel-labs/agent-skills/vercel-react-native-skills",
-    "installs": "173",
-    "installs_n": 173,
-    "desc": "Vercel's official collection of agent skills"
+    "name": "tauri-v2",
+    "repo": "nodnarbnitram/claude-code-extensions",
+    "url": "https://www.skills.sh/nodnarbnitram/claude-code-extensions/tauri-v2",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "These are a collection of extension for Claude Code that can typically also be used in opencode."
    },
    {
-    "name": "music-to-video",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/music-to-video",
-    "installs": "229",
-    "installs_n": 229,
-    "desc": "Write HTML. Render video. Built for agents."
+    "name": "content-calendar-sms",
+    "repo": "blacktwist/social-media-skills",
+    "url": "https://www.skills.sh/blacktwist/social-media-skills/content-calendar-sms",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "AI agent skills for social media content strategy, creation, and analysis across text-first platforms"
    },
    {
-    "name": "vercel-optimize",
-    "repo": "vercel-labs/agent-skills",
-    "url": "https://www.skills.sh/vercel-labs/agent-skills/vercel-optimize",
-    "installs": "172",
-    "installs_n": 172,
-    "desc": "Vercel's official collection of agent skills"
+    "name": "django-access-review",
+    "repo": "getsentry/skills",
+    "url": "https://www.skills.sh/getsentry/skills/django-access-review",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Agent Skills used by the Sentry team for development."
    },
    {
-    "name": "pr-to-video",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/pr-to-video",
-    "installs": "246",
-    "installs_n": 246,
-    "desc": "Write HTML. Render video. Built for agents."
+    "name": "plain-writing",
+    "repo": "mobbin/skills",
+    "url": "https://www.skills.sh/mobbin/skills/plain-writing",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Official Mobbin skills for designing and building UI with Mobbin, the industry standard in UI & UX design references for mobile apps, web apps, and websites"
    },
    {
-    "name": "brainstorming",
-    "repo": "obra/superpowers",
-    "url": "https://www.skills.sh/obra/superpowers/brainstorming",
-    "installs": "32",
-    "installs_n": 32,
-    "desc": "An agentic skills framework & software development methodology that works."
+    "name": "nextjs-nestjs-integration",
+    "repo": "xirothedev/skills",
+    "url": "https://www.skills.sh/xirothedev/skills/nextjs-nestjs-integration",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "NestJS API best-practice skill and adapter pack for coding agents."
    },
    {
-    "name": "faceless-explainer",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/faceless-explainer",
-    "installs": "276",
-    "installs_n": 276,
-    "desc": "Write HTML. Render video. Built for agents."
+    "name": "search",
+    "repo": "mobbin/skills",
+    "url": "https://www.skills.sh/mobbin/skills/search",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Official Mobbin skills for designing and building UI with Mobbin, the industry standard in UI & UX design references for mobile apps, web apps, and websites"
    },
    {
-    "name": "prisma-orm-setup",
-    "repo": "prisma/skills",
-    "url": "https://www.skills.sh/prisma/skills/prisma-orm-setup",
-    "installs": "44",
-    "installs_n": 44,
-    "desc": ""
+    "name": "redesign-screen",
+    "repo": "mobbin/skills",
+    "url": "https://www.skills.sh/mobbin/skills/redesign-screen",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Official Mobbin skills for designing and building UI with Mobbin, the industry standard in UI & UX design references for mobile apps, web apps, and websites"
    },
    {
-    "name": "mastra",
-    "repo": "mastra-ai/skills",
-    "url": "https://www.skills.sh/mastra-ai/skills/mastra",
-    "installs": "20",
-    "installs_n": 20,
-    "desc": "Official agent skills for coding agents working with the Mastra AI framework"
+    "name": "post-writer-sms",
+    "repo": "blacktwist/social-media-skills",
+    "url": "https://www.skills.sh/blacktwist/social-media-skills/post-writer-sms",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "AI agent skills for social media content strategy, creation, and analysis across text-first platforms"
    },
    {
-    "name": "using-git-worktrees",
-    "repo": "obra/superpowers",
-    "url": "https://www.skills.sh/obra/superpowers/using-git-worktrees",
-    "installs": "22",
-    "installs_n": 22,
-    "desc": "An agentic skills framework & software development methodology that works."
+    "name": "create-canvas",
+    "repo": "ibelick/ui-skills",
+    "url": "https://www.skills.sh/ibelick/ui-skills/create-canvas",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Skills for Design Engineers"
    }
   ]
  },
  "projects": [
   {
+   "name": "Gathin23/cleanyourtv",
+   "stars": 11692,
+   "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+   "url": "https://github.com/Gathin23/cleanyourtv",
+   "delta": 6386
+  },
+  {
    "name": "google-research/harness2",
-   "stars": 11832,
+   "stars": 15331,
    "desc": "",
    "url": "https://github.com/google-research/harness2",
-   "delta": 5701
+   "delta": 3499
   },
   {
    "name": "Ebony-Vinyl/dsh-our-free-model",
-   "stars": 27734,
+   "stars": 30835,
    "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
    "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
-   "delta": 3010
+   "delta": 3101
   },
   {
    "name": "KnifeLemon/Filee",
-   "stars": 6434,
+   "stars": 7994,
    "desc": "Free, open-source file converter. Convert 244+ formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
    "url": "https://github.com/KnifeLemon/Filee",
-   "delta": 2404
+   "delta": 1560
   },
   {
-   "name": "tangency-labs/solidcraft",
-   "stars": 7298,
-   "desc": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
-   "url": "https://github.com/tangency-labs/solidcraft",
-   "delta": 1645
+   "name": "stablyai/orca",
+   "stars": 99715,
+   "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+   "url": "https://github.com/stablyai/orca",
+   "delta": 1426
+  },
+  {
+   "name": "anomalyco/opencode",
+   "stars": 218901,
+   "desc": "The open source coding agent.",
+   "url": "https://github.com/anomalyco/opencode",
+   "delta": 1085
   },
   {
    "name": "storytold/photocraft",
-   "stars": 68577,
+   "stars": 69657,
    "desc": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
    "url": "https://github.com/storytold/photocraft",
-   "delta": 1125
+   "delta": 1080
+  },
+  {
+   "name": "ly05010419/MacNativeGames",
+   "stars": 2809,
+   "desc": "",
+   "url": "https://github.com/ly05010419/MacNativeGames",
+   "delta": 1073
+  },
+  {
+   "name": "boykopovar/AnyPS5",
+   "stars": 45527,
+   "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+   "url": "https://github.com/boykopovar/AnyPS5",
+   "delta": 1025
+  },
+  {
+   "name": "Comfy-Org/ComfyUI",
+   "stars": 140745,
+   "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+   "url": "https://github.com/Comfy-Org/ComfyUI",
+   "delta": 1018
+  },
+  {
+   "name": "tangency-labs/solidcraft",
+   "stars": 8271,
+   "desc": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+   "url": "https://github.com/tangency-labs/solidcraft",
+   "delta": 973
   },
   {
    "name": "yetone/magpie",
-   "stars": 17008,
+   "stars": 17951,
    "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
    "url": "https://github.com/yetone/magpie",
-   "delta": 1091
-  },
-  {
-   "name": "wheresryan22/anatomy",
-   "stars": 16859,
-   "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-   "url": "https://github.com/wheresryan22/anatomy",
-   "delta": 875
+   "delta": 943
   },
   {
    "name": "Niko1221/Strata",
-   "stars": 28292,
+   "stars": 29201,
    "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
    "url": "https://github.com/Niko1221/Strata",
-   "delta": 844
+   "delta": 909
+  },
+  {
+   "name": "heygen-com/hyperframes",
+   "stars": 68494,
+   "desc": "Write HTML. Render video. Built for agents.",
+   "url": "https://github.com/heygen-com/hyperframes",
+   "delta": 818
+  },
+  {
+   "name": "HeyPuter/everything",
+   "stars": 3148,
+   "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
+   "url": "https://github.com/HeyPuter/everything",
+   "delta": 795
+  },
+  {
+   "name": "wheresryan22/anatomy",
+   "stars": 17569,
+   "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+   "url": "https://github.com/wheresryan22/anatomy",
+   "delta": 710
   },
   {
    "name": "lemomo-ai/lemo-opuscar",
-   "stars": 3786,
+   "stars": 4356,
    "desc": "Claude Code skill for short films with no video model: 51 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98 and the new Evidence Films). By Lemomo. · Opus5.5 x 51 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南（新增「实证影像」）",
    "url": "https://github.com/lemomo-ai/lemo-opuscar",
-   "delta": 747
+   "delta": 570
   },
   {
-   "name": "Arekejoker/qwen21-nsfw-pose-skill",
-   "stars": 3374,
-   "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-   "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-   "delta": 640
-  },
-  {
-   "name": "obsidianmd/pele",
-   "stars": 2413,
-   "desc": "Renders Mermaid diagrams faster than you'd run from a volcano! 🌋",
-   "url": "https://github.com/obsidianmd/pele",
-   "delta": 619
-  },
-  {
-   "name": "Droid-Deck/DroidDeck",
-   "stars": 11391,
-   "desc": "DroidDeck brings the SteamOS experience to Android",
-   "url": "https://github.com/Droid-Deck/DroidDeck",
-   "delta": 582
-  },
-  {
-   "name": "storytold/pdfcraft",
-   "stars": 16300,
-   "desc": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
-   "url": "https://github.com/storytold/pdfcraft",
-   "delta": 416
-  },
-  {
-   "name": "storytold/wordcraft",
-   "stars": 14765,
-   "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-   "url": "https://github.com/storytold/wordcraft",
-   "delta": 381
+   "name": "paperclipai/paperclip",
+   "stars": 105244,
+   "desc": "The open-source app everyone uses to manage agents at work",
+   "url": "https://github.com/paperclipai/paperclip",
+   "delta": 500
   },
   {
    "name": "yihui-dev/awesome-opus5-5-videos",
-   "stars": 6618,
+   "stars": 7055,
    "desc": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
-   "delta": 380
+   "delta": 437
   },
   {
-   "name": "Folkbench/folkbench",
-   "stars": 1986,
-   "desc": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
-   "url": "https://github.com/Folkbench/folkbench",
-   "delta": 300
-  },
-  {
-   "name": "deeplethe/solid-glass",
-   "stars": 2300,
-   "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-   "url": "https://github.com/deeplethe/solid-glass",
-   "delta": 285
-  },
-  {
-   "name": "SubmitGame/awesome-decomp-games",
-   "stars": 2031,
-   "desc": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
-   "url": "https://github.com/SubmitGame/awesome-decomp-games",
-   "delta": 279
-  },
-  {
-   "name": "storytold/filmcraft",
-   "stars": 15108,
-   "desc": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
-   "url": "https://github.com/storytold/filmcraft",
-   "delta": 271
-  },
-  {
-   "name": "ARahim3/DigUp",
-   "stars": 5052,
-   "desc": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
-   "url": "https://github.com/ARahim3/DigUp",
-   "delta": 259
+   "name": "diegosouzapw/OmniRoute",
+   "stars": 78973,
+   "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
+   "url": "https://github.com/diegosouzapw/OmniRoute",
+   "delta": 419
   }
  ],
  "meta": {
