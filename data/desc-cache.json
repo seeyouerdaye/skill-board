@@ -73,5 +73,19 @@
  "blacktwist/social-media-skills": "AI agent skills for social media content strategy, creation, and analysis across text-first platforms",
  "getsentry/skills": "Agent Skills used by the Sentry team for development.",
  "mobbin/skills": "Official Mobbin skills for designing and building UI with Mobbin, the industry standard in UI & UX design references for mobile apps, web apps, and websites",
- "ibelick/ui-skills": "Skills for Design Engineers"
+ "ibelick/ui-skills": "Skills for Design Engineers",
+ "vercel/next.js": "The React Framework",
+ "vincentwei1021/video-shotcraft": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+ "nomadamas/k-skill": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
+ "dickwu/apple-design-skill": "Cross-platform UI/UX design reviewer based on Apple HIG. Works with Flutter, Tauri, Electron, React Native. Compatible with Claude Code, Cursor, Codex.",
+ "slackapi/slack-skills-plugin": "Claude Code, Codex, Cursor, and npx skills plugin that enables your AI tools with a Slack MCP Server and Slack Developer Skills.",
+ "grafana/skills": "",
+ "logicrw/gh-cli-skill": "GitHub CLI skill for AI coding agents — replaces GitHub MCP server with lightweight gh CLI commands. Saves ~8,000 context tokens per conversation.",
+ "spillwavesolutions/mastering-aws-cli": "Agentic Skill for AWS CLI",
+ "cnkang/skills": "A collection of skills",
+ "gmgnai/gmgn-skills": "GMGN OpenAPI skills for AI Agent — query tokens, wallets, and market data, and execute on-chain trades across Solana, BSC, and Base.",
+ "google/skills": "Agent Skills for Google products and technologies",
+ "tejashmakwana/motionmaxxing": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+ "yaklang/hack-skills": "Helping AI Agent become an awesome practical hacker!",
+ "lackeyjb/playwright-skill": "General-purpose Playwright automation for coding agents"
 }
