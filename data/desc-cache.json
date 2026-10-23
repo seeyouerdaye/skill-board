@@ -87,5 +87,11 @@
  "google/skills": "Agent Skills for Google products and technologies",
  "tejashmakwana/motionmaxxing": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
  "yaklang/hack-skills": "Helping AI Agent become an awesome practical hacker!",
- "lackeyjb/playwright-skill": "General-purpose Playwright automation for coding agents"
+ "lackeyjb/playwright-skill": "General-purpose Playwright automation for coding agents",
+ "binance/binance-skills-hub": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
+ "resciencelab/opc-skills": "Agent Skills for Solopreneurs",
+ "kotot/vision": "",
+ "iii-hq/iii": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+ "aws/agent-toolkit-for-aws": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+ "mikubaka88/ccfa-skills": "A skill family for shaping the research storyline of CCF-A papers."
 }

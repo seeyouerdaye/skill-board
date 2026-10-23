@@ -1,0 +1,481 @@
+{
+ "generated_at": "2026-10-23T08:22:26+08:00",
+ "skills": {
+  "trending": [
+   {
+    "name": "hyperframes",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes",
+    "installs": "24.0K",
+    "installs_n": 24000,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "design-mobile-apps",
+    "repo": "designed-by-ai/skills",
+    "url": "https://www.skills.sh/designed-by-ai/skills/design-mobile-apps",
+    "installs": "22.0K",
+    "installs_n": 22000,
+    "desc": "Agent skills"
+   },
+   {
+    "name": "ui-taste",
+    "repo": "uizze.sh",
+    "url": "https://www.skills.sh/site/uizze.sh/ui-taste",
+    "installs": "20.9K",
+    "installs_n": 20900,
+    "desc": ""
+   },
+   {
+    "name": "ai-image-generation",
+    "repo": "magentosh/superpowers",
+    "url": "https://www.skills.sh/magentosh/superpowers/ai-image-generation",
+    "installs": "20.2K",
+    "installs_n": 20200,
+    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+   },
+   {
+    "name": "find-skills",
+    "repo": "vercel-labs/skills",
+    "url": "https://www.skills.sh/vercel-labs/skills/find-skills",
+    "installs": "19.1K",
+    "installs_n": 19100,
+    "desc": "The open agent skills tool - npx skills"
+   },
+   {
+    "name": "ai-music",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/ai-music",
+    "installs": "15.5K",
+    "installs_n": 15500,
+    "desc": ""
+   },
+   {
+    "name": "image-to-video",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/image-to-video",
+    "installs": "15.4K",
+    "installs_n": 15400,
+    "desc": ""
+   },
+   {
+    "name": "ai-image-generation",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/ai-image-generation",
+    "installs": "15.4K",
+    "installs_n": 15400,
+    "desc": ""
+   },
+   {
+    "name": "reddit-automation",
+    "repo": "flowkit-labs/skills",
+    "url": "https://www.skills.sh/flowkit-labs/skills/reddit-automation",
+    "installs": "15.4K",
+    "installs_n": 15400,
+    "desc": ""
+   },
+   {
+    "name": "video-edit",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/video-edit",
+    "installs": "15.3K",
+    "installs_n": 15300,
+    "desc": ""
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/ai-video-generation",
+    "installs": "15.3K",
+    "installs_n": 15300,
+    "desc": ""
+   },
+   {
+    "name": "agent-browser",
+    "repo": "vercel-labs/agent-browser",
+    "url": "https://www.skills.sh/vercel-labs/agent-browser/agent-browser",
+    "installs": "13.3K",
+    "installs_n": 13300,
+    "desc": "Browser automation CLI for AI agents"
+   },
+   {
+    "name": "ios-design",
+    "repo": "uizze.sh",
+    "url": "https://www.skills.sh/site/uizze.sh/ios-design",
+    "installs": "12.5K",
+    "installs_n": 12500,
+    "desc": ""
+   },
+   {
+    "name": "uizze-ui",
+    "repo": "uizze/uizze",
+    "url": "https://www.skills.sh/uizze/uizze/uizze-ui",
+    "installs": "12.4K",
+    "installs_n": 12400,
+    "desc": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens."
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "101-skills/superpowers",
+    "url": "https://www.skills.sh/101-skills/superpowers/ai-video-generation",
+    "installs": "10.1K",
+    "installs_n": 10100,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "bankai-skills/superpowers",
+    "url": "https://www.skills.sh/bankai-skills/superpowers/ai-video-generation",
+    "installs": "10.0K",
+    "installs_n": 10000,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "qu-skills/superpowers",
+    "url": "https://www.skills.sh/qu-skills/superpowers/ai-video-generation",
+    "installs": "10.0K",
+    "installs_n": 10000,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "twitter-automation",
+    "repo": "its-a-skill-issue/superpowers",
+    "url": "https://www.skills.sh/its-a-skill-issue/superpowers/twitter-automation",
+    "installs": "10.0K",
+    "installs_n": 10000,
+    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "skills-shell/superpowers",
+    "url": "https://www.skills.sh/skills-shell/superpowers/ai-video-generation",
+    "installs": "10.0K",
+    "installs_n": 10000,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "grill-me",
+    "repo": "mattpocock/skills",
+    "url": "https://www.skills.sh/mattpocock/skills/grill-me",
+    "installs": "8.0K",
+    "installs_n": 8000,
+    "desc": "Skills for Real Engineers. Straight from my .agents directory."
+   }
+  ],
+  "hot": [
+   {
+    "name": "binance-agentic-wallet",
+    "repo": "binance/binance-skills-hub",
+    "url": "https://www.skills.sh/binance/binance-skills-hub/binance-agentic-wallet",
+    "installs": "64",
+    "installs_n": 64,
+    "desc": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto"
+   },
+   {
+    "name": "byted-ark-seedream-skill",
+    "repo": "kotot/byted-ark-seedream-skill",
+    "url": "https://www.skills.sh/kotot/byted-ark-seedream-skill/byted-ark-seedream-skill",
+    "installs": "6",
+    "installs_n": 6,
+    "desc": "豆包 Seedream AI 图片生成 Skill - 火山方舟 Agent Plan 专属版本：文生图/连贯组图/图生图、流式输出、提示词智能优化、联网搜索"
+   },
+   {
+    "name": "seo-geo",
+    "repo": "resciencelab/opc-skills",
+    "url": "https://www.skills.sh/resciencelab/opc-skills/seo-geo",
+    "installs": "37",
+    "installs_n": 37,
+    "desc": "Agent Skills for Solopreneurs"
+   },
+   {
+    "name": "vision",
+    "repo": "kotot/vision",
+    "url": "https://www.skills.sh/kotot/vision/vision",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": ""
+   },
+   {
+    "name": "byted-web-search",
+    "repo": "kotot/byted-web-search",
+    "url": "https://www.skills.sh/kotot/byted-web-search/byted-web-search",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": "Mirror of byted-web-search skill from bytedance/agentkit-samples (Apache-2.0)"
+   },
+   {
+    "name": "financial-insights",
+    "repo": "stripe/link-cli",
+    "url": "https://www.skills.sh/stripe/link-cli/financial-insights",
+    "installs": "23",
+    "installs_n": 23,
+    "desc": "Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase."
+   },
+   {
+    "name": "create-payment-credential",
+    "repo": "stripe/link-cli",
+    "url": "https://www.skills.sh/stripe/link-cli/create-payment-credential",
+    "installs": "23",
+    "installs_n": 23,
+    "desc": "Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase."
+   },
+   {
+    "name": "use-link-identity",
+    "repo": "stripe/link-cli",
+    "url": "https://www.skills.sh/stripe/link-cli/use-link-identity",
+    "installs": "23",
+    "installs_n": 23,
+    "desc": "Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase."
+   },
+   {
+    "name": "core",
+    "repo": "vercel-labs/json-render",
+    "url": "https://www.skills.sh/vercel-labs/json-render/core",
+    "installs": "4",
+    "installs_n": 4,
+    "desc": "The Generative UI framework"
+   },
+   {
+    "name": "linear-cli",
+    "repo": "schpet/linear-cli",
+    "url": "https://www.skills.sh/schpet/linear-cli/linear-cli",
+    "installs": "4",
+    "installs_n": 4,
+    "desc": "linear without leaving the command line: list, start, and create PRs for linear issues. agent friendly."
+   },
+   {
+    "name": "query-token-audit",
+    "repo": "binance/binance-skills-hub",
+    "url": "https://www.skills.sh/binance/binance-skills-hub/query-token-audit",
+    "installs": "3",
+    "installs_n": 3,
+    "desc": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto"
+   },
+   {
+    "name": "iii-observe",
+    "repo": "iii-hq/iii",
+    "url": "https://www.skills.sh/iii-hq/iii/iii-observe",
+    "installs": "3",
+    "installs_n": 3,
+    "desc": "Effortlessly compose, extend, and observe every service in real-time for the first time ever."
+   },
+   {
+    "name": "aws-containers",
+    "repo": "aws/agent-toolkit-for-aws",
+    "url": "https://www.skills.sh/aws/agent-toolkit-for-aws/aws-containers",
+    "installs": "4",
+    "installs_n": 4,
+    "desc": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS"
+   },
+   {
+    "name": "react",
+    "repo": "vercel-labs/json-render",
+    "url": "https://www.skills.sh/vercel-labs/json-render/react",
+    "installs": "4",
+    "installs_n": 4,
+    "desc": "The Generative UI framework"
+   },
+   {
+    "name": "ccf-paper-to-exemplar",
+    "repo": "mikubaka88/ccfa-skills",
+    "url": "https://www.skills.sh/mikubaka88/ccfa-skills/ccf-paper-to-exemplar",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "A skill family for shaping the research storyline of CCF-A papers."
+   },
+   {
+    "name": "daily-briefing",
+    "repo": "anthropics/knowledge-work-plugins",
+    "url": "https://www.skills.sh/anthropics/knowledge-work-plugins/daily-briefing",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+   },
+   {
+    "name": "ccf-visual-composer",
+    "repo": "mikubaka88/ccfa-skills",
+    "url": "https://www.skills.sh/mikubaka88/ccfa-skills/ccf-visual-composer",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "A skill family for shaping the research storyline of CCF-A papers."
+   },
+   {
+    "name": "write-spec",
+    "repo": "anthropics/knowledge-work-plugins",
+    "url": "https://www.skills.sh/anthropics/knowledge-work-plugins/write-spec",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+   },
+   {
+    "name": "ccf-experiment-designer",
+    "repo": "mikubaka88/ccfa-skills",
+    "url": "https://www.skills.sh/mikubaka88/ccfa-skills/ccf-experiment-designer",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "A skill family for shaping the research storyline of CCF-A papers."
+   },
+   {
+    "name": "ccf-rebuttal-writer",
+    "repo": "mikubaka88/ccfa-skills",
+    "url": "https://www.skills.sh/mikubaka88/ccfa-skills/ccf-rebuttal-writer",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "A skill family for shaping the research storyline of CCF-A papers."
+   }
+  ]
+ },
+ "projects": [
+  {
+   "name": "morluto/rea",
+   "stars": 366170,
+   "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "url": "https://github.com/morluto/rea",
+   "delta": 8459
+  },
+  {
+   "name": "Gathin23/cleanyourtv",
+   "stars": 24008,
+   "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+   "url": "https://github.com/Gathin23/cleanyourtv",
+   "delta": 4914
+  },
+  {
+   "name": "Ebony-Vinyl/dsh-our-free-model",
+   "stars": 36736,
+   "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+   "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+   "delta": 2927
+  },
+  {
+   "name": "deepseek-ai/DeepInfer",
+   "stars": 19854,
+   "desc": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "delta": 2022
+  },
+  {
+   "name": "stablyai/orca",
+   "stars": 102745,
+   "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+   "url": "https://github.com/stablyai/orca",
+   "delta": 1520
+  },
+  {
+   "name": "KnifeLemon/Filee",
+   "stars": 10120,
+   "desc": "Free, open-source file converter. Convert 255 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+   "url": "https://github.com/KnifeLemon/Filee",
+   "delta": 1008
+  },
+  {
+   "name": "pengchujin/aerial-tv",
+   "stars": 3074,
+   "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+   "url": "https://github.com/pengchujin/aerial-tv",
+   "delta": 1007
+  },
+  {
+   "name": "google-research/harness2",
+   "stars": 17991,
+   "desc": "",
+   "url": "https://github.com/google-research/harness2",
+   "delta": 780
+  },
+  {
+   "name": "yihui-dev/awesome-opus5-5-videos",
+   "stars": 9247,
+   "desc": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+   "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+   "delta": 749
+  },
+  {
+   "name": "yetone/magpie",
+   "stars": 19513,
+   "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+   "url": "https://github.com/yetone/magpie",
+   "delta": 728
+  },
+  {
+   "name": "storytold/photocraft",
+   "stars": 71352,
+   "desc": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+   "url": "https://github.com/storytold/photocraft",
+   "delta": 723
+  },
+  {
+   "name": "simbasjungles/free-my-tv",
+   "stars": 3428,
+   "desc": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+   "url": "https://github.com/simbasjungles/free-my-tv",
+   "delta": 701
+  },
+  {
+   "name": "Niko1221/Strata",
+   "stars": 30604,
+   "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+   "url": "https://github.com/Niko1221/Strata",
+   "delta": 671
+  },
+  {
+   "name": "lemomo-ai/lemo-opuscar",
+   "stars": 5558,
+   "desc": "A toolbox of film styles made in code for Claude Code: 59 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：59 种现成风格，也能做出你自己的",
+   "url": "https://github.com/lemomo-ai/lemo-opuscar",
+   "delta": 644
+  },
+  {
+   "name": "Jakeschincariol/replica-skill",
+   "stars": 4642,
+   "desc": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+   "url": "https://github.com/Jakeschincariol/replica-skill",
+   "delta": 627
+  },
+  {
+   "name": "wheresryan22/anatomy",
+   "stars": 19144,
+   "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+   "url": "https://github.com/wheresryan22/anatomy",
+   "delta": 614
+  },
+  {
+   "name": "ly05010419/MacNativeGames",
+   "stars": 4469,
+   "desc": "",
+   "url": "https://github.com/ly05010419/MacNativeGames",
+   "delta": 610
+  },
+  {
+   "name": "pbakaus/impeccable",
+   "stars": 84979,
+   "desc": "The design language that makes your AI harness better at design.",
+   "url": "https://github.com/pbakaus/impeccable",
+   "delta": 538
+  },
+  {
+   "name": "anomalyco/opencode",
+   "stars": 220207,
+   "desc": "The open source coding agent.",
+   "url": "https://github.com/anomalyco/opencode",
+   "delta": 533
+  },
+  {
+   "name": "Comfy-Org/ComfyUI",
+   "stars": 142012,
+   "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+   "url": "https://github.com/Comfy-Org/ComfyUI",
+   "delta": 509
+  }
+ ],
+ "meta": {
+  "alerts": [],
+  "pool_size": 199,
+  "projects_by_delta": true,
+  "sources": [
+   "https://www.skills.sh/trending",
+   "https://www.skills.sh/hot",
+   "GitHub Search API (stars>500 pushed>1d / created>30d stars>100)"
+  ]
+ }
+}
