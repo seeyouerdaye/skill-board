@@ -102,5 +102,12 @@
  "alibaba/open-code-review": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
  "appeeky/aso-skills": "AI agent skills for App Store Optimization (ASO) and app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth.",
  "dotnet/skills": "Repository for skills to assist AI coding agents with .NET and C#",
- "codewithmukesh/dotnet-claude-kit": "Make Claude Code a .NET 10 Expert"
+ "codewithmukesh/dotnet-claude-kit": "Make Claude Code a .NET 10 Expert",
+ "antfu/skills": "Anthony Fu's curated collection of agent skills.",
+ "vercel-labs/opensrc": "Fetch source code for npm packages to give AI coding agents deeper context",
+ "shadcn/improve": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+ "mbfinotti/partnerships-skills": "Agent Skills for partner ecosystem operations: affiliate programs, influencer partnerships, channel alliances, joint GTM, partner enablement, and ecosystem measurement.",
+ "haydenbleasel/ultracite": "A highly opinionated, zero-configuration linter and formatter.",
+ "elevenlabs/skills": "Collections of skills for building with ElevenLabs",
+ "ejirocodes/agent-skills": "collection of ai agent skills"
 }

@@ -1,0 +1,481 @@
+{
+ "generated_at": "2026-10-25T07:57:52+08:00",
+ "skills": {
+  "trending": [
+   {
+    "name": "ai-image-generation",
+    "repo": "skills-shell/superpowers",
+    "url": "https://www.skills.sh/skills-shell/superpowers/ai-image-generation",
+    "installs": "20.0K",
+    "installs_n": 20000,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "hyperframes",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes",
+    "installs": "18.6K",
+    "installs_n": 18600,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "hyperframes-cli",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-cli",
+    "installs": "18.1K",
+    "installs_n": 18100,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "media-use",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/media-use",
+    "installs": "17.6K",
+    "installs_n": 17600,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "design-mobile-apps",
+    "repo": "designed-by-ai/skills",
+    "url": "https://www.skills.sh/designed-by-ai/skills/design-mobile-apps",
+    "installs": "16.7K",
+    "installs_n": 16700,
+    "desc": "Agent skills"
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/ai-video-generation",
+    "installs": "15.4K",
+    "installs_n": 15400,
+    "desc": ""
+   },
+   {
+    "name": "image-to-video",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/image-to-video",
+    "installs": "15.4K",
+    "installs_n": 15400,
+    "desc": ""
+   },
+   {
+    "name": "ai-image-generation",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/ai-image-generation",
+    "installs": "15.4K",
+    "installs_n": 15400,
+    "desc": ""
+   },
+   {
+    "name": "reddit-automation",
+    "repo": "flowkit-labs/skills",
+    "url": "https://www.skills.sh/flowkit-labs/skills/reddit-automation",
+    "installs": "15.3K",
+    "installs_n": 15300,
+    "desc": ""
+   },
+   {
+    "name": "ai-music",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/ai-music",
+    "installs": "15.3K",
+    "installs_n": 15300,
+    "desc": ""
+   },
+   {
+    "name": "video-edit",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/video-edit",
+    "installs": "15.3K",
+    "installs_n": 15300,
+    "desc": ""
+   },
+   {
+    "name": "hyperframes-registry",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-registry",
+    "installs": "15.1K",
+    "installs_n": 15100,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "find-skills",
+    "repo": "vercel-labs/skills",
+    "url": "https://www.skills.sh/vercel-labs/skills/find-skills",
+    "installs": "14.4K",
+    "installs_n": 14400,
+    "desc": "The open agent skills tool - npx skills"
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "101-skills/superpowers",
+    "url": "https://www.skills.sh/101-skills/superpowers/ai-video-generation",
+    "installs": "10.1K",
+    "installs_n": 10100,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "ai-avatar-video",
+    "repo": "bankai-skills/superpowers",
+    "url": "https://www.skills.sh/bankai-skills/superpowers/ai-avatar-video",
+    "installs": "10.1K",
+    "installs_n": 10100,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "ai-avatar-video",
+    "repo": "qu-skills/superpowers",
+    "url": "https://www.skills.sh/qu-skills/superpowers/ai-avatar-video",
+    "installs": "10.1K",
+    "installs_n": 10100,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "ai-image-generation",
+    "repo": "magentosh/superpowers",
+    "url": "https://www.skills.sh/magentosh/superpowers/ai-image-generation",
+    "installs": "10.0K",
+    "installs_n": 10000,
+    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "its-a-skill-issue/superpowers",
+    "url": "https://www.skills.sh/its-a-skill-issue/superpowers/ai-video-generation",
+    "installs": "10.0K",
+    "installs_n": 10000,
+    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "magentosh/superpowers",
+    "url": "https://www.skills.sh/magentosh/superpowers/ai-video-generation",
+    "installs": "10.0K",
+    "installs_n": 10000,
+    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+   },
+   {
+    "name": "ai-avatar-video",
+    "repo": "magentosh/superpowers",
+    "url": "https://www.skills.sh/magentosh/superpowers/ai-avatar-video",
+    "installs": "10.0K",
+    "installs_n": 10000,
+    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+   }
+  ],
+  "hot": [
+   {
+    "name": "media-use",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/media-use",
+    "installs": "515",
+    "installs_n": 515,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "ai-image-generation",
+    "repo": "skills-shell/superpowers",
+    "url": "https://www.skills.sh/skills-shell/superpowers/ai-image-generation",
+    "installs": "948",
+    "installs_n": 948,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "vitest",
+    "repo": "antfu/skills",
+    "url": "https://www.skills.sh/antfu/skills/vitest",
+    "installs": "19",
+    "installs_n": 19,
+    "desc": "Anthony Fu's curated collection of agent skills."
+   },
+   {
+    "name": "opensrc",
+    "repo": "vercel-labs/opensrc",
+    "url": "https://www.skills.sh/vercel-labs/opensrc/opensrc",
+    "installs": "17",
+    "installs_n": 17,
+    "desc": "Fetch source code for npm packages to give AI coding agents deeper context"
+   },
+   {
+    "name": "remotion-render",
+    "repo": "101-skills/superpowers",
+    "url": "https://www.skills.sh/101-skills/superpowers/remotion-render",
+    "installs": "72",
+    "installs_n": 72,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "improve",
+    "repo": "shadcn/improve",
+    "url": "https://www.skills.sh/shadcn/improve/improve",
+    "installs": "17",
+    "installs_n": 17,
+    "desc": "Use your most capable model to audit your codebase and write plans for cheaper models to execute."
+   },
+   {
+    "name": "hyperframes-registry",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-registry",
+    "installs": "479",
+    "installs_n": 479,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "influencer-outreach",
+    "repo": "mbfinotti/partnerships-skills",
+    "url": "https://www.skills.sh/mbfinotti/partnerships-skills/influencer-outreach",
+    "installs": "25",
+    "installs_n": 25,
+    "desc": "Agent Skills for partner ecosystem operations: affiliate programs, influencer partnerships, channel alliances, joint GTM, partner enablement, and ecosystem measurement."
+   },
+   {
+    "name": "dont-it-yourself",
+    "repo": "masseater/skills",
+    "url": "https://www.skills.sh/masseater/skills/dont-it-yourself",
+    "installs": "19",
+    "installs_n": 19,
+    "desc": "masseater's shared agent skills, installed with the skills CLI"
+   },
+   {
+    "name": "ultracite",
+    "repo": "haydenbleasel/ultracite",
+    "url": "https://www.skills.sh/haydenbleasel/ultracite/ultracite",
+    "installs": "13",
+    "installs_n": 13,
+    "desc": "A highly opinionated, zero-configuration linter and formatter."
+   },
+   {
+    "name": "influencer-campaign-brief",
+    "repo": "mbfinotti/partnerships-skills",
+    "url": "https://www.skills.sh/mbfinotti/partnerships-skills/influencer-campaign-brief",
+    "installs": "24",
+    "installs_n": 24,
+    "desc": "Agent Skills for partner ecosystem operations: affiliate programs, influencer partnerships, channel alliances, joint GTM, partner enablement, and ecosystem measurement."
+   },
+   {
+    "name": "measure-dont-guess",
+    "repo": "masseater/skills",
+    "url": "https://www.skills.sh/masseater/skills/measure-dont-guess",
+    "installs": "18",
+    "installs_n": 18,
+    "desc": "masseater's shared agent skills, installed with the skills CLI"
+   },
+   {
+    "name": "sound-effects",
+    "repo": "elevenlabs/skills",
+    "url": "https://www.skills.sh/elevenlabs/skills/sound-effects",
+    "installs": "15",
+    "installs_n": 15,
+    "desc": "Collections of skills for building with ElevenLabs"
+   },
+   {
+    "name": "text-to-speech",
+    "repo": "elevenlabs/skills",
+    "url": "https://www.skills.sh/elevenlabs/skills/text-to-speech",
+    "installs": "15",
+    "installs_n": 15,
+    "desc": "Collections of skills for building with ElevenLabs"
+   },
+   {
+    "name": "music",
+    "repo": "elevenlabs/skills",
+    "url": "https://www.skills.sh/elevenlabs/skills/music",
+    "installs": "14",
+    "installs_n": 14,
+    "desc": "Collections of skills for building with ElevenLabs"
+   },
+   {
+    "name": "svelte5-best-practices",
+    "repo": "ejirocodes/agent-skills",
+    "url": "https://www.skills.sh/ejirocodes/agent-skills/svelte5-best-practices",
+    "installs": "12",
+    "installs_n": 12,
+    "desc": "collection of ai agent skills"
+   },
+   {
+    "name": "vite",
+    "repo": "antfu/skills",
+    "url": "https://www.skills.sh/antfu/skills/vite",
+    "installs": "11",
+    "installs_n": 11,
+    "desc": "Anthony Fu's curated collection of agent skills."
+   },
+   {
+    "name": "partner-channel-program",
+    "repo": "mbfinotti/partnerships-skills",
+    "url": "https://www.skills.sh/mbfinotti/partnerships-skills/partner-channel-program",
+    "installs": "23",
+    "installs_n": 23,
+    "desc": "Agent Skills for partner ecosystem operations: affiliate programs, influencer partnerships, channel alliances, joint GTM, partner enablement, and ecosystem measurement."
+   },
+   {
+    "name": "fixing-metadata",
+    "repo": "ibelick/ui-skills",
+    "url": "https://www.skills.sh/ibelick/ui-skills/fixing-metadata",
+    "installs": "10",
+    "installs_n": 10,
+    "desc": "Skills for Design Engineers"
+   },
+   {
+    "name": "fixing-motion-performance",
+    "repo": "ibelick/ui-skills",
+    "url": "https://www.skills.sh/ibelick/ui-skills/fixing-motion-performance",
+    "installs": "10",
+    "installs_n": 10,
+    "desc": "Skills for Design Engineers"
+   }
+  ]
+ },
+ "projects": [
+  {
+   "name": "Gathin23/cleanyourtv",
+   "stars": 31717,
+   "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+   "url": "https://github.com/Gathin23/cleanyourtv",
+   "delta": 3802
+  },
+  {
+   "name": "deepseek-ai/DeepInfer",
+   "stars": 21838,
+   "desc": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "delta": 724
+  },
+  {
+   "name": "yihui-dev/awesome-opus5-5-videos",
+   "stars": 10497,
+   "desc": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+   "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+   "delta": 629
+  },
+  {
+   "name": "KnifeLemon/Filee",
+   "stars": 11641,
+   "desc": "Free, open-source file converter. Convert 255 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+   "url": "https://github.com/KnifeLemon/Filee",
+   "delta": 621
+  },
+  {
+   "name": "Folkbench/folkbench",
+   "stars": 3577,
+   "desc": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
+   "url": "https://github.com/Folkbench/folkbench",
+   "delta": 568
+  },
+  {
+   "name": "pengchujin/aerial-tv",
+   "stars": 4359,
+   "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+   "url": "https://github.com/pengchujin/aerial-tv",
+   "delta": 544
+  },
+  {
+   "name": "google-research/harness2",
+   "stars": 19108,
+   "desc": "",
+   "url": "https://github.com/google-research/harness2",
+   "delta": 543
+  },
+  {
+   "name": "lemomo-ai/lemo-opuscar",
+   "stars": 6639,
+   "desc": "A toolbox of film styles made in code for Claude Code: 59 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：59 种现成风格，也能做出你自己的",
+   "url": "https://github.com/lemomo-ai/lemo-opuscar",
+   "delta": 511
+  },
+  {
+   "name": "wheresryan22/anatomy",
+   "stars": 20153,
+   "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+   "url": "https://github.com/wheresryan22/anatomy",
+   "delta": 474
+  },
+  {
+   "name": "storytold/photocraft",
+   "stars": 72391,
+   "desc": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+   "url": "https://github.com/storytold/photocraft",
+   "delta": 436
+  },
+  {
+   "name": "xiaoyang111222/cn-math-taxonomy",
+   "stars": 3218,
+   "desc": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+   "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+   "delta": 417
+  },
+  {
+   "name": "tangency-labs/solidcraft",
+   "stars": 10090,
+   "desc": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+   "url": "https://github.com/tangency-labs/solidcraft",
+   "delta": 373
+  },
+  {
+   "name": "JoasASantos/REA-Prompts",
+   "stars": 2077,
+   "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+   "url": "https://github.com/JoasASantos/REA-Prompts",
+   "delta": 348
+  },
+  {
+   "name": "simbasjungles/free-my-tv",
+   "stars": 4286,
+   "desc": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+   "url": "https://github.com/simbasjungles/free-my-tv",
+   "delta": 331
+  },
+  {
+   "name": "aicodeking/leanrea",
+   "stars": 2138,
+   "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+   "url": "https://github.com/aicodeking/leanrea",
+   "delta": 317
+  },
+  {
+   "name": "ly05010419/MacNativeGames",
+   "stars": 5204,
+   "desc": "",
+   "url": "https://github.com/ly05010419/MacNativeGames",
+   "delta": 303
+  },
+  {
+   "name": "Fei2411/DeepSeek-Bot",
+   "stars": 3749,
+   "desc": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+   "url": "https://github.com/Fei2411/DeepSeek-Bot",
+   "delta": 293
+  },
+  {
+   "name": "seedds/nxnative",
+   "stars": 2865,
+   "desc": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
+   "url": "https://github.com/seedds/nxnative",
+   "delta": 289
+  },
+  {
+   "name": "openfilm/openfilm",
+   "stars": 2592,
+   "desc": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
+   "url": "https://github.com/openfilm/openfilm",
+   "delta": 260
+  },
+  {
+   "name": "Jakeschincariol/replica-skill",
+   "stars": 5256,
+   "desc": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+   "url": "https://github.com/Jakeschincariol/replica-skill",
+   "delta": 234
+  }
+ ],
+ "meta": {
+  "alerts": [],
+  "pool_size": 100,
+  "projects_by_delta": true,
+  "sources": [
+   "https://www.skills.sh/trending",
+   "https://www.skills.sh/hot",
+   "GitHub Search API (stars>500 pushed>1d / created>30d stars>100)"
+  ]
+ }
+}
