@@ -93,5 +93,14 @@
  "kotot/vision": "",
  "iii-hq/iii": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
  "aws/agent-toolkit-for-aws": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
- "mikubaka88/ccfa-skills": "A skill family for shaping the research storyline of CCF-A papers."
+ "mikubaka88/ccfa-skills": "A skill family for shaping the research storyline of CCF-A papers.",
+ "amazonappdev/devices-agent-skills": "Collection of Amazon Devices Community Agent Skills",
+ "masseater/skills": "masseater's shared agent skills, installed with the skills CLI",
+ "typesafe-ai/skills": "Agent skills for building with TypeSafe's System One API",
+ "paramchoudhary/resumeskills": "A collection of AI agent skills focused on resume optimization, job applications, and career development. Built for job seekers, career changers, and professionals who want Claude Code to help with resume writing, ATS optimization, interview prep, and strategic job search.",
+ "gamedev-skills/awesome-gamedev-agent-skills": "74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that loads the right skill for your engine and task. Runs in Claude Code, Cursor, Kiro, Codex, Copilot, Gemini CLI and more.",
+ "alibaba/open-code-review": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+ "appeeky/aso-skills": "AI agent skills for App Store Optimization (ASO) and app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth.",
+ "dotnet/skills": "Repository for skills to assist AI coding agents with .NET and C#",
+ "codewithmukesh/dotnet-claude-kit": "Make Claude Code a .NET 10 Expert"
 }
