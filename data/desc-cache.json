@@ -109,5 +109,14 @@
  "mbfinotti/partnerships-skills": "Agent Skills for partner ecosystem operations: affiliate programs, influencer partnerships, channel alliances, joint GTM, partner enablement, and ecosystem measurement.",
  "haydenbleasel/ultracite": "A highly opinionated, zero-configuration linter and formatter.",
  "elevenlabs/skills": "Collections of skills for building with ElevenLabs",
- "ejirocodes/agent-skills": "collection of ai agent skills"
+ "ejirocodes/agent-skills": "collection of ai agent skills",
+ "jakubantalik/transitions.dev": "UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.",
+ "troykelly/claude-skills": "Opinionated GitHub-native development workflow with 28 skills for autonomous, issue-driven software development with Claude Code",
+ "notfound-404-office/agent-skills": "",
+ "rmyndharis/antigravity-skills": "A curated collection of Agent Skills for Google Antigravity",
+ "dietrichgebert/ponytail": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+ "cathrynlavery/diagram-design": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+ "mcollina/skills": "My own collection of skills for modern Node.js development",
+ "hairyf/skills": "Hairy's curated collection of agent skills.",
+ "amplitude/mcp-marketplace": "Amplitude's MCP plugins and their related agents, skills, and commands"
 }
