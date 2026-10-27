@@ -118,5 +118,8 @@
  "cathrynlavery/diagram-design": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
  "mcollina/skills": "My own collection of skills for modern Node.js development",
  "hairyf/skills": "Hairy's curated collection of agent skills.",
- "amplitude/mcp-marketplace": "Amplitude's MCP plugins and their related agents, skills, and commands"
+ "amplitude/mcp-marketplace": "Amplitude's MCP plugins and their related agents, skills, and commands",
+ "thedotmack/claude-mem": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+ "goldsky-io/goldsky-agent": "AI agent plugin for Goldsky — skills, agents, commands, and hooks for building blockchain data pipelines",
+ "moxamax/gate-workflow-skill": "Manual GitHub issue and gate-by-gate agent handoff workflow"
 }
