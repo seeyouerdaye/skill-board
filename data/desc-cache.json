@@ -121,5 +121,11 @@
  "amplitude/mcp-marketplace": "Amplitude's MCP plugins and their related agents, skills, and commands",
  "thedotmack/claude-mem": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
  "goldsky-io/goldsky-agent": "AI agent plugin for Goldsky — skills, agents, commands, and hooks for building blockchain data pipelines",
- "moxamax/gate-workflow-skill": "Manual GitHub issue and gate-by-gate agent handoff workflow"
+ "moxamax/gate-workflow-skill": "Manual GitHub issue and gate-by-gate agent handoff workflow",
+ "solana-foundation/solana-dev-skill": "Skills for agentic development on Solana",
+ "mcp-use/mcp-use": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
+ "higgsfield-ai/skills": "",
+ "cursor/plugins": "Cursor plugin specification and official plugins",
+ "microsoft/playwright-cli": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
+ "coreyhaines31/marketingskills": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
 }
