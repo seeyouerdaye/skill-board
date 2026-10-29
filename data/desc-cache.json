@@ -127,5 +127,10 @@
  "higgsfield-ai/skills": "",
  "cursor/plugins": "Cursor plugin specification and official plugins",
  "microsoft/playwright-cli": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
- "coreyhaines31/marketingskills": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+ "coreyhaines31/marketingskills": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+ "emilkowalski/skills": "Skills for Designers and Engineers.",
+ "currents-dev/playwright-best-practices-skill": "AI Skill for Playwright Best Practices—made by Currents.dev",
+ "affaan-m/ecc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+ "solana-mobile/solana-mobile-skills": "Agent skills for Solana Mobile development (Claude Code, Codex, OpenCode, Cursor, Gemini, etc)",
+ "actionbook/rust-skills": "Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing"
 }
