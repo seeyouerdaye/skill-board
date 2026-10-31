@@ -1,30 +1,22 @@
 {
- "generated_at": "2026-10-30T09:31:28+08:00",
+ "generated_at": "2026-10-31T09:24:32+08:00",
  "skills": {
   "trending": [
+   {
+    "name": "ai-image-generation",
+    "repo": "skills-shell/superpowers",
+    "url": "https://www.skills.sh/skills-shell/superpowers/ai-image-generation",
+    "installs": "27.6K",
+    "installs_n": 27600,
+    "desc": "Agent superpowers"
+   },
    {
     "name": "ui-taste",
     "repo": "uizze.sh",
     "url": "https://www.skills.sh/site/uizze.sh/ui-taste",
-    "installs": "29.4K",
-    "installs_n": 29400,
+    "installs": "22.5K",
+    "installs_n": 22500,
     "desc": ""
-   },
-   {
-    "name": "hyperframes-cli",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-cli",
-    "installs": "20.0K",
-    "installs_n": 20000,
-    "desc": "Write HTML. Render video. Built for agents."
-   },
-   {
-    "name": "media-use",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/media-use",
-    "installs": "19.9K",
-    "installs_n": 19900,
-    "desc": "Write HTML. Render video. Built for agents."
    },
    {
     "name": "design-mobile-apps",
@@ -35,44 +27,44 @@
     "desc": "Agent skills"
    },
    {
-    "name": "hyperframes-registry",
+    "name": "media-use",
     "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-registry",
-    "installs": "19.4K",
-    "installs_n": 19400,
+    "url": "https://www.skills.sh/heygen-com/hyperframes/media-use",
+    "installs": "17.0K",
+    "installs_n": 17000,
     "desc": "Write HTML. Render video. Built for agents."
    },
    {
-    "name": "hyperframes",
+    "name": "hyperframes-cli",
     "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes",
-    "installs": "18.7K",
-    "installs_n": 18700,
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-cli",
+    "installs": "16.9K",
+    "installs_n": 16900,
     "desc": "Write HTML. Render video. Built for agents."
    },
    {
     "name": "find-skills",
     "repo": "vercel-labs/skills",
     "url": "https://www.skills.sh/vercel-labs/skills/find-skills",
-    "installs": "17.5K",
-    "installs_n": 17500,
+    "installs": "16.5K",
+    "installs_n": 16500,
     "desc": "The open agent skills tool - npx skills"
    },
    {
-    "name": "uizze-ui",
-    "repo": "uizze/uizze",
-    "url": "https://www.skills.sh/uizze/uizze/uizze-ui",
-    "installs": "17.4K",
-    "installs_n": 17400,
-    "desc": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens."
-   },
-   {
-    "name": "agent-browser",
-    "repo": "vercel-labs/agent-browser",
-    "url": "https://www.skills.sh/vercel-labs/agent-browser/agent-browser",
+    "name": "hyperframes-registry",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-registry",
     "installs": "15.7K",
     "installs_n": 15700,
-    "desc": "Browser automation CLI for AI agents"
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "hyperframes",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes",
+    "installs": "15.5K",
+    "installs_n": 15500,
+    "desc": "Write HTML. Render video. Built for agents."
    },
    {
     "name": "video-edit",
@@ -86,391 +78,399 @@
     "name": "reddit-automation",
     "repo": "flowkit-labs/skills",
     "url": "https://www.skills.sh/flowkit-labs/skills/reddit-automation",
-    "installs": "15.1K",
-    "installs_n": 15100,
+    "installs": "15.2K",
+    "installs_n": 15200,
     "desc": ""
    },
    {
     "name": "ai-music",
     "repo": "gencraft-labs/skills",
     "url": "https://www.skills.sh/gencraft-labs/skills/ai-music",
-    "installs": "15.1K",
-    "installs_n": 15100,
+    "installs": "15.2K",
+    "installs_n": 15200,
     "desc": ""
    },
    {
-    "name": "grilling",
-    "repo": "mattpocock/skills",
-    "url": "https://www.skills.sh/mattpocock/skills/grilling",
-    "installs": "8.2K",
-    "installs_n": 8200,
-    "desc": "Skills for Real Engineers. Straight from my .agents directory."
+    "name": "uizze-ui",
+    "repo": "uizze/uizze",
+    "url": "https://www.skills.sh/uizze/uizze/uizze-ui",
+    "installs": "15.0K",
+    "installs_n": 15000,
+    "desc": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens."
    },
    {
-    "name": "remotion-to-hyperframes",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/remotion-to-hyperframes",
-    "installs": "7.6K",
-    "installs_n": 7600,
-    "desc": "Write HTML. Render video. Built for agents."
+    "name": "agent-browser",
+    "repo": "vercel-labs/agent-browser",
+    "url": "https://www.skills.sh/vercel-labs/agent-browser/agent-browser",
+    "installs": "13.8K",
+    "installs_n": 13800,
+    "desc": "Browser automation CLI for AI agents"
    },
    {
-    "name": "slideshow",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/slideshow",
-    "installs": "7.3K",
-    "installs_n": 7300,
-    "desc": "Write HTML. Render video. Built for agents."
-   },
-   {
-    "name": "figma",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/figma",
-    "installs": "7.1K",
-    "installs_n": 7100,
-    "desc": "Write HTML. Render video. Built for agents."
-   },
-   {
-    "name": "grill-me",
-    "repo": "mattpocock/skills",
-    "url": "https://www.skills.sh/mattpocock/skills/grill-me",
-    "installs": "7.0K",
-    "installs_n": 7000,
-    "desc": "Skills for Real Engineers. Straight from my .agents directory."
-   },
-   {
-    "name": "improve-codebase-architecture",
-    "repo": "mattpocock/skills",
-    "url": "https://www.skills.sh/mattpocock/skills/improve-codebase-architecture",
-    "installs": "7.0K",
-    "installs_n": 7000,
-    "desc": "Skills for Real Engineers. Straight from my .agents directory."
-   },
-   {
-    "name": "codebase-design",
-    "repo": "mattpocock/skills",
-    "url": "https://www.skills.sh/mattpocock/skills/codebase-design",
-    "installs": "6.9K",
-    "installs_n": 6900,
-    "desc": "Skills for Real Engineers. Straight from my .agents directory."
-   },
-   {
-    "name": "remotion-best-practices",
-    "repo": "remotion-dev/skills",
-    "url": "https://www.skills.sh/remotion-dev/skills/remotion-best-practices",
-    "installs": "6.8K",
-    "installs_n": 6800,
-    "desc": "Agent Skills"
-   }
-  ],
-  "hot": [
-   {
-    "name": "ai-image-generation",
-    "repo": "skills-shell/superpowers",
-    "url": "https://www.skills.sh/skills-shell/superpowers/ai-image-generation",
-    "installs": "197",
-    "installs_n": 197,
-    "desc": "Agent superpowers"
-   },
-   {
-    "name": "ai-image-generation",
+    "name": "ai-video-generation",
     "repo": "its-a-skill-issue/superpowers",
-    "url": "https://www.skills.sh/its-a-skill-issue/superpowers/ai-image-generation",
-    "installs": "95",
-    "installs_n": 95,
+    "url": "https://www.skills.sh/its-a-skill-issue/superpowers/ai-video-generation",
+    "installs": "9.7K",
+    "installs_n": 9700,
     "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "101-skills/superpowers",
+    "url": "https://www.skills.sh/101-skills/superpowers/ai-video-generation",
+    "installs": "9.7K",
+    "installs_n": 9700,
+    "desc": "Agent superpowers"
    },
    {
     "name": "ai-video-generation",
     "repo": "bankai-skills/superpowers",
     "url": "https://www.skills.sh/bankai-skills/superpowers/ai-video-generation",
-    "installs": "87",
-    "installs_n": 87,
+    "installs": "9.6K",
+    "installs_n": 9600,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "ai-avatar-video",
+    "repo": "qu-skills/superpowers",
+    "url": "https://www.skills.sh/qu-skills/superpowers/ai-avatar-video",
+    "installs": "9.6K",
+    "installs_n": 9600,
     "desc": "Agent superpowers"
    },
    {
     "name": "ai-image-generation",
     "repo": "magentosh/superpowers",
     "url": "https://www.skills.sh/magentosh/superpowers/ai-image-generation",
-    "installs": "85",
-    "installs_n": 85,
+    "installs": "9.5K",
+    "installs_n": 9500,
     "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
    },
    {
-    "name": "ai-image-generation",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/ai-image-generation",
-    "installs": "78",
-    "installs_n": 78,
-    "desc": "Agent superpowers"
+    "name": "grilling",
+    "repo": "mattpocock/skills",
+    "url": "https://www.skills.sh/mattpocock/skills/grilling",
+    "installs": "7.5K",
+    "installs_n": 7500,
+    "desc": "Skills for Real Engineers. Straight from my .agents directory."
    },
    {
-    "name": "ai-image-generation",
-    "repo": "101-skills/superpowers",
-    "url": "https://www.skills.sh/101-skills/superpowers/ai-image-generation",
-    "installs": "73",
-    "installs_n": 73,
-    "desc": "Agent superpowers"
+    "name": "remotion-best-practices",
+    "repo": "remotion-dev/skills",
+    "url": "https://www.skills.sh/remotion-dev/skills/remotion-best-practices",
+    "installs": "6.3K",
+    "installs_n": 6300,
+    "desc": "Agent Skills"
+   }
+  ],
+  "hot": [
+   {
+    "name": "explore-code",
+    "repo": "lllllllama/rigorpilot-skills",
+    "url": "https://www.skills.sh/lllllllama/rigorpilot-skills/explore-code",
+    "installs": "153",
+    "installs_n": 153,
+    "desc": "README-first research reproduction skills with bounded execution, auditable evidence, and byte-preserving README annotations."
    },
    {
-    "name": "agent-browser",
-    "repo": "skills-shell/superpowers",
-    "url": "https://www.skills.sh/skills-shell/superpowers/agent-browser",
-    "installs": "40",
-    "installs_n": 40,
-    "desc": "Agent superpowers"
+    "name": "gh-issue-sync",
+    "repo": "mitsuhiko/gh-issue-sync",
+    "url": "https://www.skills.sh/mitsuhiko/gh-issue-sync/gh-issue-sync",
+    "installs": "17",
+    "installs_n": 17,
+    "desc": "A github issue sync tool for working with issues locally"
    },
    {
-    "name": "agent-browser",
-    "repo": "101-skills/superpowers",
-    "url": "https://www.skills.sh/101-skills/superpowers/agent-browser",
-    "installs": "22",
-    "installs_n": 22,
-    "desc": "Agent superpowers"
+    "name": "reverse-any-video",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/reverse-any-video",
+    "installs": "7",
+    "installs_n": 7,
+    "desc": "Write HTML. Render video. Built for agents."
    },
    {
-    "name": "agent-browser",
-    "repo": "bankai-skills/superpowers",
-    "url": "https://www.skills.sh/bankai-skills/superpowers/agent-browser",
-    "installs": "20",
-    "installs_n": 20,
-    "desc": "Agent superpowers"
+    "name": "github-actions-docs",
+    "repo": "xixu-me/skills",
+    "url": "https://www.skills.sh/xixu-me/skills/github-actions-docs",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": "Agent Skills maintained by me for practical engineering work"
    },
    {
-    "name": "agent-browser",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/agent-browser",
-    "installs": "20",
-    "installs_n": 20,
-    "desc": "Agent superpowers"
+    "name": "reverse-engineer-marketing",
+    "repo": "coreyhaines31/marketingskills",
+    "url": "https://www.skills.sh/coreyhaines31/marketingskills/reverse-engineer-marketing",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
    },
    {
-    "name": "remotion-render",
-    "repo": "101-skills/superpowers",
-    "url": "https://www.skills.sh/101-skills/superpowers/remotion-render",
-    "installs": "19",
-    "installs_n": 19,
-    "desc": "Agent superpowers"
+    "name": "tiktok-scraper",
+    "repo": "apidojo-io/social-media-skills",
+    "url": "https://www.skills.sh/apidojo-io/social-media-skills/tiktok-scraper",
+    "installs": "4",
+    "installs_n": 4,
+    "desc": "Agent skills for scraping social media data at scale"
    },
    {
-    "name": "python-executor",
-    "repo": "skills-shell/superpowers",
-    "url": "https://www.skills.sh/skills-shell/superpowers/python-executor",
-    "installs": "18",
-    "installs_n": 18,
-    "desc": "Agent superpowers"
+    "name": "agent-desktop",
+    "repo": "vercel-labs/agent-desktop",
+    "url": "https://www.skills.sh/vercel-labs/agent-desktop/agent-desktop",
+    "installs": "3",
+    "installs_n": 3,
+    "desc": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels."
    },
    {
-    "name": "agent-browser",
-    "repo": "its-a-skill-issue/superpowers",
-    "url": "https://www.skills.sh/its-a-skill-issue/superpowers/agent-browser",
-    "installs": "15",
-    "installs_n": 15,
-    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+    "name": "brag-slim",
+    "repo": "latent-spaces/brag",
+    "url": "https://www.skills.sh/latent-spaces/brag/brag-slim",
+    "installs": "3",
+    "installs_n": 3,
+    "desc": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command."
    },
    {
-    "name": "agent-tools",
-    "repo": "bankai-skills/superpowers",
-    "url": "https://www.skills.sh/bankai-skills/superpowers/agent-tools",
-    "installs": "14",
-    "installs_n": 14,
-    "desc": "Agent superpowers"
+    "name": "gguf-quantization",
+    "repo": "orchestra-research/ai-research-skills",
+    "url": "https://www.skills.sh/orchestra-research/ai-research-skills/gguf-quantization",
+    "installs": "3",
+    "installs_n": 3,
+    "desc": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research."
    },
    {
-    "name": "web-search",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/web-search",
-    "installs": "12",
-    "installs_n": 12,
-    "desc": "Agent superpowers"
+    "name": "compile-knowledge",
+    "repo": "5dive-ai/skills",
+    "url": "https://www.skills.sh/5dive-ai/skills/compile-knowledge",
+    "installs": "7",
+    "installs_n": 7,
+    "desc": "Skills published by 5dive — drop-in SKILL.md bundles for Claude Code, openclaw, hermes, and any harness that loads skills.sh-format prompts."
    },
    {
-    "name": "agent-browser",
-    "repo": "magentosh/superpowers",
-    "url": "https://www.skills.sh/magentosh/superpowers/agent-browser",
-    "installs": "10",
-    "installs_n": 10,
-    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+    "name": "5dive-cli",
+    "repo": "5dive-ai/skills",
+    "url": "https://www.skills.sh/5dive-ai/skills/5dive-cli",
+    "installs": "7",
+    "installs_n": 7,
+    "desc": "Skills published by 5dive — drop-in SKILL.md bundles for Claude Code, openclaw, hermes, and any harness that loads skills.sh-format prompts."
    },
    {
-    "name": "seo",
-    "repo": "iannuttall/seo",
-    "url": "https://www.skills.sh/iannuttall/seo/seo",
-    "installs": "10",
-    "installs_n": 10,
-    "desc": "SEO for agent-native teams. Your agent gets your real Search Console, Google Analytics, Bing and crawl data through an MCP server and CLI, so it stops guessing."
+    "name": "x-scraper",
+    "repo": "apidojo-io/social-media-skills",
+    "url": "https://www.skills.sh/apidojo-io/social-media-skills/x-scraper",
+    "installs": "3",
+    "installs_n": 3,
+    "desc": "Agent skills for scraping social media data at scale"
    },
    {
-    "name": "agent-tools",
-    "repo": "its-a-skill-issue/superpowers",
-    "url": "https://www.skills.sh/its-a-skill-issue/superpowers/agent-tools",
-    "installs": "9",
-    "installs_n": 9,
-    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+    "name": "read",
+    "repo": "tw93/waza",
+    "url": "https://www.skills.sh/tw93/waza/read",
+    "installs": "3",
+    "installs_n": 3,
+    "desc": "🥷 Engineering habits you already know, turned into skills AI assistants like Claude Code, Codex and Cursor can run."
    },
    {
-    "name": "agent-tools",
-    "repo": "magentosh/superpowers",
-    "url": "https://www.skills.sh/magentosh/superpowers/agent-tools",
-    "installs": "8",
-    "installs_n": 8,
-    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+    "name": "ctf-reverse",
+    "repo": "ljagiello/ctf-skills",
+    "url": "https://www.skills.sh/ljagiello/ctf-skills/ctf-reverse",
+    "installs": "3",
+    "installs_n": 3,
+    "desc": "Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more"
    },
    {
-    "name": "competitor-teardown",
-    "repo": "its-a-skill-issue/superpowers",
-    "url": "https://www.skills.sh/its-a-skill-issue/superpowers/competitor-teardown",
-    "installs": "8",
-    "installs_n": 8,
-    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+    "name": "jndi-injection",
+    "repo": "yaklang/hack-skills",
+    "url": "https://www.skills.sh/yaklang/hack-skills/jndi-injection",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Helping AI Agent become an awesome practical hacker!"
+   },
+   {
+    "name": "transformer-lens-interpretability",
+    "repo": "orchestra-research/ai-research-skills",
+    "url": "https://www.skills.sh/orchestra-research/ai-research-skills/transformer-lens-interpretability",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research."
+   },
+   {
+    "name": "quantizing-models-bitsandbytes",
+    "repo": "orchestra-research/ai-research-skills",
+    "url": "https://www.skills.sh/orchestra-research/ai-research-skills/quantizing-models-bitsandbytes",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research."
+   },
+   {
+    "name": "anti-debugging-techniques",
+    "repo": "yaklang/hack-skills",
+    "url": "https://www.skills.sh/yaklang/hack-skills/anti-debugging-techniques",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Helping AI Agent become an awesome practical hacker!"
+   },
+   {
+    "name": "huggingface-tokenizers",
+    "repo": "orchestra-research/ai-research-skills",
+    "url": "https://www.skills.sh/orchestra-research/ai-research-skills/huggingface-tokenizers",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research."
+   },
+   {
+    "name": "dns-rebinding-attacks",
+    "repo": "yaklang/hack-skills",
+    "url": "https://www.skills.sh/yaklang/hack-skills/dns-rebinding-attacks",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Helping AI Agent become an awesome practical hacker!"
    }
   ]
  },
  "projects": [
   {
    "name": "Gathin23/cleanyourtv",
-   "stars": 45536,
+   "stars": 46781,
    "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
    "url": "https://github.com/Gathin23/cleanyourtv",
-   "delta": 1639
-  },
-  {
-   "name": "anhao/ai-pose-gallery-zh",
-   "stars": 3194,
-   "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-   "url": "https://github.com/anhao/ai-pose-gallery-zh",
-   "delta": 1260
+   "delta": 1245
   },
   {
    "name": "stablyai/orca",
-   "stars": 110217,
+   "stars": 111141,
    "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "url": "https://github.com/stablyai/orca",
-   "delta": 1135
+   "delta": 924
+  },
+  {
+   "name": "anhao/ai-pose-gallery-zh",
+   "stars": 3975,
+   "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+   "url": "https://github.com/anhao/ai-pose-gallery-zh",
+   "delta": 781
+  },
+  {
+   "name": "HeyPuter/everything",
+   "stars": 5953,
+   "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
+   "url": "https://github.com/HeyPuter/everything",
+   "delta": 681
   },
   {
    "name": "unclebob/ub-mode",
-   "stars": 4730,
+   "stars": 5384,
    "desc": "",
    "url": "https://github.com/unclebob/ub-mode",
-   "delta": 946
-  },
-  {
-   "name": "interplains/Zero-Breach-Toolkit",
-   "stars": 3622,
-   "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-   "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-   "delta": 827
+   "delta": 654
   },
   {
    "name": "heygen-com/hyperframes",
-   "stars": 75487,
+   "stars": 76058,
    "desc": "Write HTML. Render video. Built for agents.",
    "url": "https://github.com/heygen-com/hyperframes",
-   "delta": 730
-  },
-  {
-   "name": "Zagitta/gpu-unlock",
-   "stars": 13098,
-   "desc": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
-   "url": "https://github.com/Zagitta/gpu-unlock",
-   "delta": 715
-  },
-  {
-   "name": "seedds/nxnative",
-   "stars": 9741,
-   "desc": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
-   "url": "https://github.com/seedds/nxnative",
-   "delta": 671
+   "delta": 571
   },
   {
    "name": "horizon-rust/horizon",
-   "stars": 4354,
+   "stars": 4911,
    "desc": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
    "url": "https://github.com/horizon-rust/horizon",
-   "delta": 630
+   "delta": 557
   },
   {
-   "name": "Jakeschincariol/day-trader-skill",
-   "stars": 3250,
-   "desc": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-   "url": "https://github.com/Jakeschincariol/day-trader-skill",
-   "delta": 592
+   "name": "seedds/nxnative",
+   "stars": 10240,
+   "desc": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
+   "url": "https://github.com/seedds/nxnative",
+   "delta": 499
   },
   {
-   "name": "ruvnet/RuView",
-   "stars": 101581,
-   "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-   "url": "https://github.com/ruvnet/RuView",
-   "delta": 507
+   "name": "openai/codex",
+   "stars": 131987,
+   "desc": "Lightweight coding agent that runs in your terminal",
+   "url": "https://github.com/openai/codex",
+   "delta": 413
   },
   {
    "name": "wheresryan22/anatomy",
-   "stars": 22630,
+   "stars": 23034,
    "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
    "url": "https://github.com/wheresryan22/anatomy",
-   "delta": 501
+   "delta": 404
   },
   {
-   "name": "tt-a1i/archify",
-   "stars": 91450,
-   "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-   "url": "https://github.com/tt-a1i/archify",
-   "delta": 443
+   "name": "LNPANDY/NX2Apple",
+   "stars": 2313,
+   "desc": "Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.",
+   "url": "https://github.com/LNPANDY/NX2Apple",
+   "delta": 398
   },
   {
-   "name": "NousResearch/hermes-agent",
-   "stars": 258525,
-   "desc": "The agent that grows with you",
-   "url": "https://github.com/NousResearch/hermes-agent",
-   "delta": 440
-  },
-  {
-   "name": "AienTech/dossier",
-   "stars": 3192,
-   "desc": "A self-hosted job search app that writes tailored resumes and cover letters from your profile.",
-   "url": "https://github.com/AienTech/dossier",
-   "delta": 431
+   "name": "Zagitta/gpu-unlock",
+   "stars": 13492,
+   "desc": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
+   "url": "https://github.com/Zagitta/gpu-unlock",
+   "delta": 394
   },
   {
    "name": "storytold/photocraft",
-   "stars": 74850,
+   "stars": 75235,
    "desc": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
    "url": "https://github.com/storytold/photocraft",
-   "delta": 422
+   "delta": 385
+  },
+  {
+   "name": "Jakeschincariol/day-trader-skill",
+   "stars": 3622,
+   "desc": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+   "url": "https://github.com/Jakeschincariol/day-trader-skill",
+   "delta": 372
+  },
+  {
+   "name": "NousResearch/hermes-agent",
+   "stars": 258887,
+   "desc": "The agent that grows with you",
+   "url": "https://github.com/NousResearch/hermes-agent",
+   "delta": 362
+  },
+  {
+   "name": "firecrawl/firecrawl",
+   "stars": 197121,
+   "desc": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+   "url": "https://github.com/firecrawl/firecrawl",
+   "delta": 350
   },
   {
    "name": "rddmwmddr/android-ad-cleaner",
-   "stars": 4739,
+   "stars": 5067,
    "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-   "delta": 417
+   "delta": 328
   },
   {
-   "name": "amosblomqvist/learnharness",
-   "stars": 4023,
-   "desc": "Agent harness for learning difficult things.",
-   "url": "https://github.com/amosblomqvist/learnharness",
-   "delta": 397
+   "name": "paperclipai/paperclip",
+   "stars": 108989,
+   "desc": "The open-source app everyone uses to manage agents at work",
+   "url": "https://github.com/paperclipai/paperclip",
+   "delta": 326
+  },
+  {
+   "name": "farion1231/cc-switch",
+   "stars": 150407,
+   "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
+   "url": "https://github.com/farion1231/cc-switch",
+   "delta": 324
   },
   {
    "name": "tangency-labs/solidcraft",
-   "stars": 12067,
+   "stars": 12382,
    "desc": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
    "url": "https://github.com/tangency-labs/solidcraft",
-   "delta": 395
-  },
-  {
-   "name": "openai/math",
-   "stars": 17072,
-   "desc": "",
-   "url": "https://github.com/openai/math",
-   "delta": 389
+   "delta": 315
   }
  ],
  "meta": {
   "alerts": [],
-  "pool_size": 199,
+  "pool_size": 200,
   "projects_by_delta": true,
   "sources": [
    "https://www.skills.sh/trending",

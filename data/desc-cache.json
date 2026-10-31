@@ -134,5 +134,13 @@
  "solana-mobile/solana-mobile-skills": "Agent skills for Solana Mobile development (Claude Code, Codex, OpenCode, Cursor, Gemini, etc)",
  "actionbook/rust-skills": "Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing",
  "remotion-dev/skills": "Agent Skills",
- "iannuttall/seo": "SEO for agent-native teams. Your agent gets your real Search Console, Google Analytics, Bing and crawl data through an MCP server and CLI, so it stops guessing."
+ "iannuttall/seo": "SEO for agent-native teams. Your agent gets your real Search Console, Google Analytics, Bing and crawl data through an MCP server and CLI, so it stops guessing.",
+ "mitsuhiko/gh-issue-sync": "A github issue sync tool for working with issues locally",
+ "apidojo-io/social-media-skills": "Agent skills for scraping social media data at scale",
+ "vercel-labs/agent-desktop": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
+ "latent-spaces/brag": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
+ "orchestra-research/ai-research-skills": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research.",
+ "5dive-ai/skills": "Skills published by 5dive — drop-in SKILL.md bundles for Claude Code, openclaw, hermes, and any harness that loads skills.sh-format prompts.",
+ "tw93/waza": "🥷 Engineering habits you already know, turned into skills AI assistants like Claude Code, Codex and Cursor can run.",
+ "ljagiello/ctf-skills": "Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more"
 }
