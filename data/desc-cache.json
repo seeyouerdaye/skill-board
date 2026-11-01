@@ -142,5 +142,12 @@
  "orchestra-research/ai-research-skills": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research.",
  "5dive-ai/skills": "Skills published by 5dive — drop-in SKILL.md bundles for Claude Code, openclaw, hermes, and any harness that loads skills.sh-format prompts.",
  "tw93/waza": "🥷 Engineering habits you already know, turned into skills AI assistants like Claude Code, Codex and Cursor can run.",
- "ljagiello/ctf-skills": "Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more"
+ "ljagiello/ctf-skills": "Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more",
+ "benjitaylor/skills": "Skills for AI coding agents",
+ "rebelytics/one-skill-to-rule-them-all": "The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autonomous or human-led), captures patterns, corrections and judgement calls, and turns them into skill improvements and new skill candidates for your review. Practical application of the Augmented Expertise methodology. Open source: CC BY 4.0.",
+ "googleworkspace/cli": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+ "aicodeking/deepseek-stack": "Agent skills that make DeepSeek models plan, verify and ship like frontier models. npx skills add aicodeking/deepseek-stack",
+ "hypit-ai/hypit": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+ "elvarofficial/teardown": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+ "sveltejs/ai-tools": "The official svelte MCP for all your agentic needs."
 }
