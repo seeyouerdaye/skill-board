@@ -149,5 +149,13 @@
  "aicodeking/deepseek-stack": "Agent skills that make DeepSeek models plan, verify and ship like frontier models. npx skills add aicodeking/deepseek-stack",
  "hypit-ai/hypit": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
  "elvarofficial/teardown": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
- "sveltejs/ai-tools": "The official svelte MCP for all your agentic needs."
+ "sveltejs/ai-tools": "The official svelte MCP for all your agentic needs.",
+ "gjkim42/kanon-repo": "",
+ "caru-ini/stack-diagram": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+ "builderio/skills": "Skills for agents",
+ "morluto/rea": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+ "vectorize-io/hindsight": "Hindsight: Agent Memory That Learns",
+ "dontbesilent2025/dbskill": "dontbesilent 的商业诊断 Skills",
+ "qingyuna/answer-me-with-html": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+ "thecontstruct/bmad-loop": "Automate the BMad Dev Cycle"
 }
