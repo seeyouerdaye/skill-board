@@ -157,5 +157,12 @@
  "vectorize-io/hindsight": "Hindsight: Agent Memory That Learns",
  "dontbesilent2025/dbskill": "dontbesilent 的商业诊断 Skills",
  "qingyuna/answer-me-with-html": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
- "thecontstruct/bmad-loop": "Automate the BMad Dev Cycle"
+ "thecontstruct/bmad-loop": "Automate the BMad Dev Cycle",
+ "microsoft/azure-skills": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
+ "firebase/agent-skills": "Agent Skills for Firebase",
+ "nrwl/nx-ai-agents-config": "",
+ "celigo/ai": "Domain knowledge and tools for building Celigo integrations with AI coding assistants.",
+ "tavily-ai/skills": "",
+ "hashicorp/agent-skills": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
+ "antonbabenko/terraform-skill": "Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns"
 }
