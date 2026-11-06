@@ -169,5 +169,9 @@
  "tt-a1i/archify": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
  "ayghri/i-have-adhd": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
  "insforge/insforge-skills": "Agent Skills for InsForge",
- "claude-office-skills/skills": "A curated collection of practical Claude Skills for real-world office tasks"
+ "claude-office-skills/skills": "A curated collection of practical Claude Skills for real-world office tasks",
+ "caldoai/skills": "Caldo's skills",
+ "cloudflare/security-audit-skill": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+ "larashero3-dotcom/lieflat-less-ai-tone": "一个基于 520 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 5.2-million-character corpus study",
+ "hugohe3/ppt-master": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
 }
