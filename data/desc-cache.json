@@ -173,5 +173,11 @@
  "caldoai/skills": "Caldo's skills",
  "cloudflare/security-audit-skill": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
  "larashero3-dotcom/lieflat-less-ai-tone": "一个基于 520 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 5.2-million-character corpus study",
- "hugohe3/ppt-master": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+ "hugohe3/ppt-master": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+ "spillwavesolutions/design-doc-mermaid": "design-doc-mermaid Claude Skill",
+ "notegpt-official/notegpt-skills": "notegpt skills",
+ "kunchenguid/chrome-devtools-axi": "The most agent-ergonomic browser automation",
+ "kunchenguid/no-mistakes": "git push no-mistakes",
+ "jakubkrehel/skills": "A collection of agent skills that help you build great interfaces.",
+ "kunchenguid/gh-axi": "GitHub CLI for agents — designed with AXI (Agent eXperience Interface)."
 }

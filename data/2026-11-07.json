@@ -1,0 +1,481 @@
+{
+ "generated_at": "2026-11-07T09:34:41+08:00",
+ "skills": {
+  "trending": [
+   {
+    "name": "ai-image-generation",
+    "repo": "skills-shell/superpowers",
+    "url": "https://www.skills.sh/skills-shell/superpowers/ai-image-generation",
+    "installs": "28.9K",
+    "installs_n": 28900,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "design-mobile-apps",
+    "repo": "designed-by-ai/skills",
+    "url": "https://www.skills.sh/designed-by-ai/skills/design-mobile-apps",
+    "installs": "20.8K",
+    "installs_n": 20800,
+    "desc": "Agent skills"
+   },
+   {
+    "name": "ui-taste",
+    "repo": "uizze.sh",
+    "url": "https://www.skills.sh/site/uizze.sh/ui-taste",
+    "installs": "20.4K",
+    "installs_n": 20400,
+    "desc": ""
+   },
+   {
+    "name": "agent-browser",
+    "repo": "vercel-labs/agent-browser",
+    "url": "https://www.skills.sh/vercel-labs/agent-browser/agent-browser",
+    "installs": "17.9K",
+    "installs_n": 17900,
+    "desc": "Browser automation CLI for AI agents"
+   },
+   {
+    "name": "find-skills",
+    "repo": "vercel-labs/skills",
+    "url": "https://www.skills.sh/vercel-labs/skills/find-skills",
+    "installs": "15.6K",
+    "installs_n": 15600,
+    "desc": "The open agent skills tool - npx skills"
+   },
+   {
+    "name": "hyperframes",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes",
+    "installs": "14.4K",
+    "installs_n": 14400,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "ai-music",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/ai-music",
+    "installs": "13.2K",
+    "installs_n": 13200,
+    "desc": ""
+   },
+   {
+    "name": "reddit-automation",
+    "repo": "flowkit-labs/skills",
+    "url": "https://www.skills.sh/flowkit-labs/skills/reddit-automation",
+    "installs": "12.7K",
+    "installs_n": 12700,
+    "desc": ""
+   },
+   {
+    "name": "uizze-ui",
+    "repo": "uizze/uizze",
+    "url": "https://www.skills.sh/uizze/uizze/uizze-ui",
+    "installs": "12.0K",
+    "installs_n": 12000,
+    "desc": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens."
+   },
+   {
+    "name": "microsoft-foundry",
+    "repo": "microsoft/azure-skills",
+    "url": "https://www.skills.sh/microsoft/azure-skills/microsoft-foundry",
+    "installs": "10.8K",
+    "installs_n": 10800,
+    "desc": "Official agent plugin providing skills and MCP server configurations for Azure scenarios."
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "101-skills/superpowers",
+    "url": "https://www.skills.sh/101-skills/superpowers/ai-video-generation",
+    "installs": "9.8K",
+    "installs_n": 9800,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "ai-image-generation",
+    "repo": "bankai-skills/superpowers",
+    "url": "https://www.skills.sh/bankai-skills/superpowers/ai-image-generation",
+    "installs": "9.8K",
+    "installs_n": 9800,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "twitter-automation",
+    "repo": "its-a-skill-issue/superpowers",
+    "url": "https://www.skills.sh/its-a-skill-issue/superpowers/twitter-automation",
+    "installs": "9.7K",
+    "installs_n": 9700,
+    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+   },
+   {
+    "name": "ai-avatar-video",
+    "repo": "qu-skills/superpowers",
+    "url": "https://www.skills.sh/qu-skills/superpowers/ai-avatar-video",
+    "installs": "9.6K",
+    "installs_n": 9600,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "ai-image-generation",
+    "repo": "magentosh/superpowers",
+    "url": "https://www.skills.sh/magentosh/superpowers/ai-image-generation",
+    "installs": "9.6K",
+    "installs_n": 9600,
+    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+   },
+   {
+    "name": "remotion-best-practices",
+    "repo": "remotion-dev/skills",
+    "url": "https://www.skills.sh/remotion-dev/skills/remotion-best-practices",
+    "installs": "6.5K",
+    "installs_n": 6500,
+    "desc": "Agent Skills"
+   },
+   {
+    "name": "grill-me",
+    "repo": "mattpocock/skills",
+    "url": "https://www.skills.sh/mattpocock/skills/grill-me",
+    "installs": "6.0K",
+    "installs_n": 6000,
+    "desc": "Skills for Real Engineers. Straight from my .agents directory."
+   },
+   {
+    "name": "remotion-render",
+    "repo": "remotion-dev/skills",
+    "url": "https://www.skills.sh/remotion-dev/skills/remotion-render",
+    "installs": "6.0K",
+    "installs_n": 6000,
+    "desc": "Agent Skills"
+   },
+   {
+    "name": "grilling",
+    "repo": "mattpocock/skills",
+    "url": "https://www.skills.sh/mattpocock/skills/grilling",
+    "installs": "5.8K",
+    "installs_n": 5800,
+    "desc": "Skills for Real Engineers. Straight from my .agents directory."
+   },
+   {
+    "name": "remotion-maps",
+    "repo": "remotion-dev/skills",
+    "url": "https://www.skills.sh/remotion-dev/skills/remotion-maps",
+    "installs": "5.8K",
+    "installs_n": 5800,
+    "desc": "Agent Skills"
+   }
+  ],
+  "hot": [
+   {
+    "name": "mastra",
+    "repo": "mastra-ai/skills",
+    "url": "https://www.skills.sh/mastra-ai/skills/mastra",
+    "installs": "38",
+    "installs_n": 38,
+    "desc": "Official agent skills for coding agents working with the Mastra AI framework"
+   },
+   {
+    "name": "design-doc-mermaid",
+    "repo": "spillwavesolutions/design-doc-mermaid",
+    "url": "https://www.skills.sh/spillwavesolutions/design-doc-mermaid/design-doc-mermaid",
+    "installs": "38",
+    "installs_n": 38,
+    "desc": "design-doc-mermaid Claude Skill"
+   },
+   {
+    "name": "instrument-events",
+    "repo": "amplitude/mcp-marketplace",
+    "url": "https://www.skills.sh/amplitude/mcp-marketplace/instrument-events",
+    "installs": "37",
+    "installs_n": 37,
+    "desc": "Amplitude's MCP plugins and their related agents, skills, and commands"
+   },
+   {
+    "name": "fastify-best-practices",
+    "repo": "mcollina/skills",
+    "url": "https://www.skills.sh/mcollina/skills/fastify-best-practices",
+    "installs": "37",
+    "installs_n": 37,
+    "desc": "My own collection of skills for modern Node.js development"
+   },
+   {
+    "name": "nx-workspace",
+    "repo": "nrwl/nx-ai-agents-config",
+    "url": "https://www.skills.sh/nrwl/nx-ai-agents-config/nx-workspace",
+    "installs": "37",
+    "installs_n": 37,
+    "desc": ""
+   },
+   {
+    "name": "discover-event-surfaces",
+    "repo": "amplitude/mcp-marketplace",
+    "url": "https://www.skills.sh/amplitude/mcp-marketplace/discover-event-surfaces",
+    "installs": "37",
+    "installs_n": 37,
+    "desc": "Amplitude's MCP plugins and their related agents, skills, and commands"
+   },
+   {
+    "name": "taxonomy",
+    "repo": "amplitude/mcp-marketplace",
+    "url": "https://www.skills.sh/amplitude/mcp-marketplace/taxonomy",
+    "installs": "37",
+    "installs_n": 37,
+    "desc": "Amplitude's MCP plugins and their related agents, skills, and commands"
+   },
+   {
+    "name": "frameworks-on-cloudflare",
+    "repo": "cloudflare/skills",
+    "url": "https://www.skills.sh/cloudflare/skills/frameworks-on-cloudflare",
+    "installs": "12",
+    "installs_n": 12,
+    "desc": "Skills for teaching agents how to build on Cloudflare."
+   },
+   {
+    "name": "workers-development",
+    "repo": "cloudflare/skills",
+    "url": "https://www.skills.sh/cloudflare/skills/workers-development",
+    "installs": "11",
+    "installs_n": 11,
+    "desc": "Skills for teaching agents how to build on Cloudflare."
+   },
+   {
+    "name": "cloudflare-app-bootstrap",
+    "repo": "cloudflare/skills",
+    "url": "https://www.skills.sh/cloudflare/skills/cloudflare-app-bootstrap",
+    "installs": "11",
+    "installs_n": 11,
+    "desc": "Skills for teaching agents how to build on Cloudflare."
+   },
+   {
+    "name": "ai-detector",
+    "repo": "notegpt-official/notegpt-skills",
+    "url": "https://www.skills.sh/notegpt-official/notegpt-skills/ai-detector",
+    "installs": "6",
+    "installs_n": 6,
+    "desc": "notegpt skills"
+   },
+   {
+    "name": "chrome-devtools-axi",
+    "repo": "kunchenguid/chrome-devtools-axi",
+    "url": "https://www.skills.sh/kunchenguid/chrome-devtools-axi/chrome-devtools-axi",
+    "installs": "6",
+    "installs_n": 6,
+    "desc": "The most agent-ergonomic browser automation"
+   },
+   {
+    "name": "no-mistakes",
+    "repo": "kunchenguid/no-mistakes",
+    "url": "https://www.skills.sh/kunchenguid/no-mistakes/no-mistakes",
+    "installs": "6",
+    "installs_n": 6,
+    "desc": "git push no-mistakes"
+   },
+   {
+    "name": "watch-subscriptions",
+    "repo": "skills.sh",
+    "url": "https://www.skills.sh/site/skills.sh/watch-subscriptions",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": ""
+   },
+   {
+    "name": "better-ui",
+    "repo": "jakubkrehel/skills",
+    "url": "https://www.skills.sh/jakubkrehel/skills/better-ui",
+    "installs": "12",
+    "installs_n": 12,
+    "desc": "A collection of agent skills that help you build great interfaces."
+   },
+   {
+    "name": "state-machine",
+    "repo": "jakubkrehel/skills",
+    "url": "https://www.skills.sh/jakubkrehel/skills/state-machine",
+    "installs": "12",
+    "installs_n": 12,
+    "desc": "A collection of agent skills that help you build great interfaces."
+   },
+   {
+    "name": "financial-insights",
+    "repo": "stripe/link-cli",
+    "url": "https://www.skills.sh/stripe/link-cli/financial-insights",
+    "installs": "10",
+    "installs_n": 10,
+    "desc": "Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase."
+   },
+   {
+    "name": "create-payment-credential",
+    "repo": "stripe/link-cli",
+    "url": "https://www.skills.sh/stripe/link-cli/create-payment-credential",
+    "installs": "10",
+    "installs_n": 10,
+    "desc": "Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase."
+   },
+   {
+    "name": "use-link-identity",
+    "repo": "stripe/link-cli",
+    "url": "https://www.skills.sh/stripe/link-cli/use-link-identity",
+    "installs": "10",
+    "installs_n": 10,
+    "desc": "Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase."
+   },
+   {
+    "name": "gh-axi",
+    "repo": "kunchenguid/gh-axi",
+    "url": "https://www.skills.sh/kunchenguid/gh-axi/gh-axi",
+    "installs": "6",
+    "installs_n": 6,
+    "desc": "GitHub CLI for agents — designed with AXI (Agent eXperience Interface)."
+   }
+  ]
+ },
+ "projects": [
+  {
+   "name": "storytold/craft-anything",
+   "stars": 18163,
+   "desc": "Craft Anything: understand how any software works, and craft your own.",
+   "url": "https://github.com/storytold/craft-anything",
+   "delta": 2976
+  },
+  {
+   "name": "zortos293/Lichii",
+   "stars": 4007,
+   "desc": "VERY experimental Nintendo Switch 2 emulator",
+   "url": "https://github.com/zortos293/Lichii",
+   "delta": 1649
+  },
+  {
+   "name": "ccch1mneyyy/dsh-Go",
+   "stars": 12975,
+   "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+   "url": "https://github.com/ccch1mneyyy/dsh-Go",
+   "delta": 1430
+  },
+  {
+   "name": "stablyai/orca",
+   "stars": 117869,
+   "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+   "url": "https://github.com/stablyai/orca",
+   "delta": 1113
+  },
+  {
+   "name": "JuneYaooo/rea-video",
+   "stars": 3038,
+   "desc": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
+   "url": "https://github.com/JuneYaooo/rea-video",
+   "delta": 915
+  },
+  {
+   "name": "heydamir/unslop",
+   "stars": 10755,
+   "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+   "url": "https://github.com/heydamir/unslop",
+   "delta": 909
+  },
+  {
+   "name": "deepseek-ai/dsh-superagent-prototype",
+   "stars": 20263,
+   "desc": "Towards a More Autonomous Agent System",
+   "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+   "delta": 719
+  },
+  {
+   "name": "Gathin23/cleanyourtv",
+   "stars": 53331,
+   "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+   "url": "https://github.com/Gathin23/cleanyourtv",
+   "delta": 652
+  },
+  {
+   "name": "l0ng-ai/openidea",
+   "stars": 7449,
+   "desc": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+   "url": "https://github.com/l0ng-ai/openidea",
+   "delta": 648
+  },
+  {
+   "name": "heygen-com/hyperframes",
+   "stars": 80130,
+   "desc": "Write HTML. Render video. Built for agents.",
+   "url": "https://github.com/heygen-com/hyperframes",
+   "delta": 545
+  },
+  {
+   "name": "LNPANDY/NX2Apple",
+   "stars": 4248,
+   "desc": "Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.",
+   "url": "https://github.com/LNPANDY/NX2Apple",
+   "delta": 500
+  },
+  {
+   "name": "garrytan/gstack",
+   "stars": 140466,
+   "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+   "url": "https://github.com/garrytan/gstack",
+   "delta": 495
+  },
+  {
+   "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+   "stars": 2890,
+   "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+   "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+   "delta": 481
+  },
+  {
+   "name": "Djihads80/Eglantine",
+   "stars": 4899,
+   "desc": "VERY experimental Nintendo Switch 2 emulator",
+   "url": "https://github.com/Djihads80/Eglantine",
+   "delta": 457
+  },
+  {
+   "name": "KKKKhazix/agent-autoloop",
+   "stars": 3696,
+   "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+   "url": "https://github.com/KKKKhazix/agent-autoloop",
+   "delta": 425
+  },
+  {
+   "name": "seedds/nxnative",
+   "stars": 12961,
+   "desc": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
+   "url": "https://github.com/seedds/nxnative",
+   "delta": 416
+  },
+  {
+   "name": "pengchujin/aerial-tv",
+   "stars": 10359,
+   "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+   "url": "https://github.com/pengchujin/aerial-tv",
+   "delta": 380
+  },
+  {
+   "name": "Zagitta/gpu-unlock",
+   "stars": 17619,
+   "desc": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
+   "url": "https://github.com/Zagitta/gpu-unlock",
+   "delta": 348
+  },
+  {
+   "name": "NousResearch/hermes-agent",
+   "stars": 261222,
+   "desc": "The agent that grows with you",
+   "url": "https://github.com/NousResearch/hermes-agent",
+   "delta": 333
+  },
+  {
+   "name": "tt-a1i/archify",
+   "stars": 94206,
+   "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+   "url": "https://github.com/tt-a1i/archify",
+   "delta": 321
+  }
+ ],
+ "meta": {
+  "alerts": [],
+  "pool_size": 200,
+  "projects_by_delta": true,
+  "sources": [
+   "https://www.skills.sh/trending",
+   "https://www.skills.sh/hot",
+   "GitHub Search API (stars>500 pushed>1d / created>30d stars>100)"
+  ]
+ }
+}
