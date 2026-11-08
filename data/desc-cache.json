@@ -179,5 +179,11 @@
  "kunchenguid/chrome-devtools-axi": "The most agent-ergonomic browser automation",
  "kunchenguid/no-mistakes": "git push no-mistakes",
  "jakubkrehel/skills": "A collection of agent skills that help you build great interfaces.",
- "kunchenguid/gh-axi": "GitHub CLI for agents — designed with AXI (Agent eXperience Interface)."
+ "kunchenguid/gh-axi": "GitHub CLI for agents — designed with AXI (Agent eXperience Interface).",
+ "theplasmak/faster-whisper": "An OpenClaw skill that uses faster-whisper (a faster implementation of the Whisper transcription model) to transcribe audio, with additional features such as speaker diarization",
+ "layerai/skills": "Claude Skills for Layer — AI game asset creation",
+ "el4cteo/roblox-skills": "Open source list of roblox skills for AI agents",
+ "bmad-code-org/bmad-loop": "Automate the BMad Dev Cycle",
+ "bmad-code-org/bmad-module-creative-intelligence-suite": "A BMad Method Compliant stand along module that has agents and workflows to help bring out the creativity of the user through various exercises and disciplines. More will come over time - this was meant as a bmad module tech demo",
+ "stratalab/strata-agent-skills": "Everything AI agents need to use StrataDB - skills, MCP setup, one-command onboarding. Maintained by Strata Labs."
 }
