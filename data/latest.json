@@ -1,43 +1,67 @@
 {
- "generated_at": "2026-11-08T09:01:53+08:00",
+ "generated_at": "2026-11-09T09:23:52+08:00",
  "skills": {
   "trending": [
    {
     "name": "ai-image-generation",
     "repo": "skills-shell/superpowers",
     "url": "https://www.skills.sh/skills-shell/superpowers/ai-image-generation",
-    "installs": "28.7K",
-    "installs_n": 28700,
+    "installs": "28.9K",
+    "installs_n": 28900,
     "desc": "Agent superpowers"
    },
    {
     "name": "ui-taste",
     "repo": "uizze.sh",
     "url": "https://www.skills.sh/site/uizze.sh/ui-taste",
-    "installs": "20.5K",
-    "installs_n": 20500,
+    "installs": "20.0K",
+    "installs_n": 20000,
     "desc": ""
    },
    {
     "name": "design-mobile-apps",
     "repo": "designed-by-ai/skills",
     "url": "https://www.skills.sh/designed-by-ai/skills/design-mobile-apps",
-    "installs": "17.8K",
-    "installs_n": 17800,
+    "installs": "16.1K",
+    "installs_n": 16100,
     "desc": "Agent skills"
+   },
+   {
+    "name": "video-edit",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/video-edit",
+    "installs": "14.7K",
+    "installs_n": 14700,
+    "desc": ""
    },
    {
     "name": "image-to-video",
     "repo": "gencraft-labs/skills",
     "url": "https://www.skills.sh/gencraft-labs/skills/image-to-video",
-    "installs": "14.6K",
-    "installs_n": 14600,
+    "installs": "14.7K",
+    "installs_n": 14700,
     "desc": ""
    },
    {
     "name": "reddit-automation",
     "repo": "flowkit-labs/skills",
     "url": "https://www.skills.sh/flowkit-labs/skills/reddit-automation",
+    "installs": "14.6K",
+    "installs_n": 14600,
+    "desc": ""
+   },
+   {
+    "name": "ai-music",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/ai-music",
+    "installs": "14.6K",
+    "installs_n": 14600,
+    "desc": ""
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/ai-video-generation",
     "installs": "14.6K",
     "installs_n": 14600,
     "desc": ""
@@ -54,24 +78,48 @@
     "name": "find-skills",
     "repo": "vercel-labs/skills",
     "url": "https://www.skills.sh/vercel-labs/skills/find-skills",
-    "installs": "12.5K",
-    "installs_n": 12500,
+    "installs": "12.2K",
+    "installs_n": 12200,
     "desc": "The open agent skills tool - npx skills"
    },
    {
-    "name": "uizze-ui",
-    "repo": "uizze/uizze",
-    "url": "https://www.skills.sh/uizze/uizze/uizze-ui",
-    "installs": "12.0K",
-    "installs_n": 12000,
-    "desc": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens."
+    "name": "hyperframes-cli",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-cli",
+    "installs": "11.7K",
+    "installs_n": 11700,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "media-use",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/media-use",
+    "installs": "11.6K",
+    "installs_n": 11600,
+    "desc": "Write HTML. Render video. Built for agents."
    },
    {
     "name": "hyperframes",
     "repo": "heygen-com/hyperframes",
     "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes",
-    "installs": "11.7K",
-    "installs_n": 11700,
+    "installs": "11.6K",
+    "installs_n": 11600,
+    "desc": "Write HTML. Render video. Built for agents."
+   },
+   {
+    "name": "uizze-ui",
+    "repo": "uizze/uizze",
+    "url": "https://www.skills.sh/uizze/uizze/uizze-ui",
+    "installs": "11.3K",
+    "installs_n": 11300,
+    "desc": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens."
+   },
+   {
+    "name": "hyperframes-registry",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-registry",
+    "installs": "11.0K",
+    "installs_n": 11000,
     "desc": "Write HTML. Render video. Built for agents."
    },
    {
@@ -91,381 +139,333 @@
     "desc": "Agent superpowers"
    },
    {
-    "name": "ai-image-generation",
-    "repo": "101-skills/superpowers",
-    "url": "https://www.skills.sh/101-skills/superpowers/ai-image-generation",
+    "name": "agent-browser",
+    "repo": "vercel-labs/agent-browser",
+    "url": "https://www.skills.sh/vercel-labs/agent-browser/agent-browser",
     "installs": "9.7K",
     "installs_n": 9700,
-    "desc": "Agent superpowers"
-   },
-   {
-    "name": "ai-avatar-video",
-    "repo": "101-skills/superpowers",
-    "url": "https://www.skills.sh/101-skills/superpowers/ai-avatar-video",
-    "installs": "9.7K",
-    "installs_n": 9700,
-    "desc": "Agent superpowers"
+    "desc": "Browser automation CLI for AI agents"
    },
    {
     "name": "twitter-automation",
-    "repo": "101-skills/superpowers",
-    "url": "https://www.skills.sh/101-skills/superpowers/twitter-automation",
+    "repo": "bankai-skills/superpowers",
+    "url": "https://www.skills.sh/bankai-skills/superpowers/twitter-automation",
     "installs": "9.7K",
     "installs_n": 9700,
-    "desc": "Agent superpowers"
-   },
-   {
-    "name": "ai-image-generation",
-    "repo": "magentosh/superpowers",
-    "url": "https://www.skills.sh/magentosh/superpowers/ai-image-generation",
-    "installs": "9.6K",
-    "installs_n": 9600,
-    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
-   },
-   {
-    "name": "ai-avatar-video",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/ai-avatar-video",
-    "installs": "9.6K",
-    "installs_n": 9600,
     "desc": "Agent superpowers"
    },
    {
     "name": "ai-video-generation",
-    "repo": "its-a-skill-issue/superpowers",
-    "url": "https://www.skills.sh/its-a-skill-issue/superpowers/ai-video-generation",
-    "installs": "9.6K",
-    "installs_n": 9600,
-    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
-   },
-   {
-    "name": "ai-video-generation",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/ai-video-generation",
-    "installs": "9.6K",
-    "installs_n": 9600,
-    "desc": "Agent superpowers"
-   },
-   {
-    "name": "twitter-automation",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/twitter-automation",
-    "installs": "9.6K",
-    "installs_n": 9600,
-    "desc": "Agent superpowers"
-   },
-   {
-    "name": "ai-image-generation",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/ai-image-generation",
-    "installs": "9.6K",
-    "installs_n": 9600,
+    "repo": "bankai-skills/superpowers",
+    "url": "https://www.skills.sh/bankai-skills/superpowers/ai-video-generation",
+    "installs": "9.7K",
+    "installs_n": 9700,
     "desc": "Agent superpowers"
    }
   ],
   "hot": [
    {
-    "name": "faster-whisper",
-    "repo": "theplasmak/faster-whisper",
-    "url": "https://www.skills.sh/theplasmak/faster-whisper/faster-whisper",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "An OpenClaw skill that uses faster-whisper (a faster implementation of the Whisper transcription model) to transcribe audio, with additional features such as speaker diarization"
+    "name": "gestures",
+    "repo": "emilkowalski/skills",
+    "url": "https://www.skills.sh/emilkowalski/skills/gestures",
+    "installs": "25",
+    "installs_n": 25,
+    "desc": "Skills for Designers and Engineers."
    },
    {
-    "name": "layer-store-assets",
-    "repo": "layerai/skills",
-    "url": "https://www.skills.sh/layerai/skills/layer-store-assets",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Claude Skills for Layer — AI game asset creation"
+    "name": "wind-mcp-skill",
+    "repo": "wind-alice/alicemarket",
+    "url": "https://www.skills.sh/wind-alice/alicemarket/wind-mcp-skill",
+    "installs": "62",
+    "installs_n": 62,
+    "desc": "将 Wind 丰富的金融数据、专业工具、技能Skill与专家Agent能力开放给各类 Agent 和智能应用。通过 MCP、Skill、API 等标准化方式，为不同场景下的 Agent 提供股票、债券、基金、期货、期权、宏观、行业、新闻、研报、会议等全市场、全资产、全品类资讯能力。不仅支持行情、财务、新闻、公告、研报、会议等资讯的查询能力；更可将Wind Alice的多专家Agent能力全面输出，让你的Agent与AI系统直接完成行业与公司分析、资产分析与策略回测、估值与建模计算、风险识别、报告生成等复杂专业任务。让每一个需要金融能力的 Agent 都能够快速连接 Wind，获得可信的金融数据与专业技能。"
    },
    {
-    "name": "roblox-tooling",
-    "repo": "el4cteo/roblox-skills",
-    "url": "https://www.skills.sh/el4cteo/roblox-skills/roblox-tooling",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Open source list of roblox skills for AI agents"
+    "name": "vue-best-practices",
+    "repo": "vuejs-ai/skills",
+    "url": "https://www.skills.sh/vuejs-ai/skills/vue-best-practices",
+    "installs": "6",
+    "installs_n": 6,
+    "desc": "Agent skills for Vue 3 development"
    },
    {
-    "name": "layer-video-fixes",
-    "repo": "layerai/skills",
-    "url": "https://www.skills.sh/layerai/skills/layer-video-fixes",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Claude Skills for Layer — AI game asset creation"
+    "name": "vue-jsx-best-practices",
+    "repo": "vuejs-ai/skills",
+    "url": "https://www.skills.sh/vuejs-ai/skills/vue-jsx-best-practices",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": "Agent skills for Vue 3 development"
    },
    {
-    "name": "bmad-loop-sweep",
-    "repo": "bmad-code-org/bmad-loop",
-    "url": "https://www.skills.sh/bmad-code-org/bmad-loop/bmad-loop-sweep",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Automate the BMad Dev Cycle"
+    "name": "answer-me-with-html",
+    "repo": "qingyuna/answer-me-with-html",
+    "url": "https://www.skills.sh/qingyuna/answer-me-with-html/answer-me-with-html",
+    "installs": "7",
+    "installs_n": 7,
+    "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
    },
    {
-    "name": "layer-motion-graphics",
-    "repo": "layerai/skills",
-    "url": "https://www.skills.sh/layerai/skills/layer-motion-graphics",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Claude Skills for Layer — AI game asset creation"
+    "name": "vue-testing-best-practices",
+    "repo": "vuejs-ai/skills",
+    "url": "https://www.skills.sh/vuejs-ai/skills/vue-testing-best-practices",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": "Agent skills for Vue 3 development"
    },
    {
-    "name": "layer-3d",
-    "repo": "layerai/skills",
-    "url": "https://www.skills.sh/layerai/skills/layer-3d",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Claude Skills for Layer — AI game asset creation"
+    "name": "vue-pinia-best-practices",
+    "repo": "vuejs-ai/skills",
+    "url": "https://www.skills.sh/vuejs-ai/skills/vue-pinia-best-practices",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": "Agent skills for Vue 3 development"
    },
    {
-    "name": "bmod-cis",
-    "repo": "bmad-code-org/bmad-module-creative-intelligence-suite",
-    "url": "https://www.skills.sh/bmad-code-org/bmad-module-creative-intelligence-suite/bmod-cis",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "A BMad Method Compliant stand along module that has agents and workflows to help bring out the creativity of the user through various exercises and disciplines. More will come over time - this was meant as a bmad module tech demo"
+    "name": "vue-options-api-best-practices",
+    "repo": "vuejs-ai/skills",
+    "url": "https://www.skills.sh/vuejs-ai/skills/vue-options-api-best-practices",
+    "installs": "4",
+    "installs_n": 4,
+    "desc": "Agent skills for Vue 3 development"
    },
    {
-    "name": "layer-workflow-import",
-    "repo": "layerai/skills",
-    "url": "https://www.skills.sh/layerai/skills/layer-workflow-import",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Claude Skills for Layer — AI game asset creation"
+    "name": "ai-detector",
+    "repo": "notegpt-official/notegpt-skills",
+    "url": "https://www.skills.sh/notegpt-official/notegpt-skills/ai-detector",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": "notegpt skills"
    },
    {
-    "name": "roblox-luau",
-    "repo": "el4cteo/roblox-skills",
-    "url": "https://www.skills.sh/el4cteo/roblox-skills/roblox-luau",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Open source list of roblox skills for AI agents"
+    "name": "poteto-mode",
+    "repo": "backnotprop/pstack",
+    "url": "https://www.skills.sh/backnotprop/pstack/poteto-mode",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
    },
    {
-    "name": "strata-branching",
-    "repo": "stratalab/strata-agent-skills",
-    "url": "https://www.skills.sh/stratalab/strata-agent-skills/strata-branching",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Everything AI agents need to use StrataDB - skills, MCP setup, one-command onboarding. Maintained by Strata Labs."
+    "name": "unslop",
+    "repo": "backnotprop/pstack",
+    "url": "https://www.skills.sh/backnotprop/pstack/unslop",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
    },
    {
-    "name": "layer-pixel-art",
-    "repo": "layerai/skills",
-    "url": "https://www.skills.sh/layerai/skills/layer-pixel-art",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Claude Skills for Layer — AI game asset creation"
+    "name": "vue-debug-guides",
+    "repo": "vuejs-ai/skills",
+    "url": "https://www.skills.sh/vuejs-ai/skills/vue-debug-guides",
+    "installs": "4",
+    "installs_n": 4,
+    "desc": "Agent skills for Vue 3 development"
    },
    {
-    "name": "roblox-characters-animation",
-    "repo": "el4cteo/roblox-skills",
-    "url": "https://www.skills.sh/el4cteo/roblox-skills/roblox-characters-animation",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Open source list of roblox skills for AI agents"
+    "name": "create-adaptable-composable",
+    "repo": "vuejs-ai/skills",
+    "url": "https://www.skills.sh/vuejs-ai/skills/create-adaptable-composable",
+    "installs": "4",
+    "installs_n": 4,
+    "desc": "Agent skills for Vue 3 development"
    },
    {
-    "name": "layer-audio",
-    "repo": "layerai/skills",
-    "url": "https://www.skills.sh/layerai/skills/layer-audio",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Claude Skills for Layer — AI game asset creation"
+    "name": "vue-router-best-practices",
+    "repo": "vuejs-ai/skills",
+    "url": "https://www.skills.sh/vuejs-ai/skills/vue-router-best-practices",
+    "installs": "4",
+    "installs_n": 4,
+    "desc": "Agent skills for Vue 3 development"
    },
    {
-    "name": "bmad-cis-agent-presentation-master",
-    "repo": "bmad-code-org/bmad-module-creative-intelligence-suite",
-    "url": "https://www.skills.sh/bmad-code-org/bmad-module-creative-intelligence-suite/bmad-cis-agent-presentation-master",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "A BMad Method Compliant stand along module that has agents and workflows to help bring out the creativity of the user through various exercises and disciplines. More will come over time - this was meant as a bmad module tech demo"
+    "name": "laravel-specialist",
+    "repo": "jeffallan/claude-skills",
+    "url": "https://www.skills.sh/jeffallan/claude-skills/laravel-specialist",
+    "installs": "3",
+    "installs_n": 3,
+    "desc": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer."
    },
    {
-    "name": "roblox-ui",
-    "repo": "el4cteo/roblox-skills",
-    "url": "https://www.skills.sh/el4cteo/roblox-skills/roblox-ui",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Open source list of roblox skills for AI agents"
-   },
-   {
-    "name": "roblox-world-building",
-    "repo": "el4cteo/roblox-skills",
-    "url": "https://www.skills.sh/el4cteo/roblox-skills/roblox-world-building",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Open source list of roblox skills for AI agents"
-   },
-   {
-    "name": "chaiui",
-    "repo": "ui.chaicode.com",
-    "url": "https://www.skills.sh/site/ui.chaicode.com/chaiui",
-    "installs": "1",
-    "installs_n": 1,
+    "name": "app-store",
+    "repo": "fetcher-sh/fetcher-skills",
+    "url": "https://www.skills.sh/fetcher-sh/fetcher-skills/app-store",
+    "installs": "3",
+    "installs_n": 3,
     "desc": ""
    },
    {
-    "name": "layer-localization",
-    "repo": "layerai/skills",
-    "url": "https://www.skills.sh/layerai/skills/layer-localization",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Claude Skills for Layer — AI game asset creation"
+    "name": "byted-supabase",
+    "repo": "skills.volces.com",
+    "url": "https://www.skills.sh/site/skills.volces.com/byted-supabase",
+    "installs": "3",
+    "installs_n": 3,
+    "desc": ""
    },
    {
-    "name": "layer-ua-creatives",
-    "repo": "layerai/skills",
-    "url": "https://www.skills.sh/layerai/skills/layer-ua-creatives",
-    "installs": "1",
-    "installs_n": 1,
-    "desc": "Claude Skills for Layer — AI game asset creation"
+    "name": "ppt-master",
+    "repo": "hugohe3/ppt-master",
+    "url": "https://www.skills.sh/hugohe3/ppt-master/ppt-master",
+    "installs": "5",
+    "installs_n": 5,
+    "desc": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+   },
+   {
+    "name": "show-me-your-work",
+    "repo": "backnotprop/pstack",
+    "url": "https://www.skills.sh/backnotprop/pstack/show-me-your-work",
+    "installs": "4",
+    "installs_n": 4,
+    "desc": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+   },
+   {
+    "name": "infra-clickhouse",
+    "repo": "clickhouse/agent-skills",
+    "url": "https://www.skills.sh/clickhouse/agent-skills/infra-clickhouse",
+    "installs": "4",
+    "installs_n": 4,
+    "desc": "The official Agent Skills for ClickHouse and ClickHouse Cloud"
    }
   ]
  },
  "projects": [
   {
+   "name": "morluto/rea",
+   "stars": 443876,
+   "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "url": "https://github.com/morluto/rea",
+   "delta": 2814
+  },
+  {
    "name": "storytold/craft-anything",
-   "stars": 20640,
+   "stars": 22688,
    "desc": "Craft Anything: understand how any software works, and craft your own.",
    "url": "https://github.com/storytold/craft-anything",
-   "delta": 2477
-  },
-  {
-   "name": "zortos293/Lichii",
-   "stars": 5638,
-   "desc": "VERY experimental Nintendo Switch 2 emulator",
-   "url": "https://github.com/zortos293/Lichii",
-   "delta": 1631
-  },
-  {
-   "name": "pingdotgg/t3code",
-   "stars": 51285,
-   "desc": "",
-   "url": "https://github.com/pingdotgg/t3code",
-   "delta": 1443
+   "delta": 2048
   },
   {
    "name": "ccch1mneyyy/dsh-Go",
-   "stars": 14391,
+   "stars": 16108,
    "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
    "url": "https://github.com/ccch1mneyyy/dsh-Go",
-   "delta": 1416
+   "delta": 1717
   },
   {
    "name": "anomalyco/rune",
-   "stars": 3775,
+   "stars": 5157,
    "desc": "Rune: Native UI framework",
    "url": "https://github.com/anomalyco/rune",
-   "delta": 1185
+   "delta": 1382
   },
   {
-   "name": "LNPANDY/NX2Apple",
-   "stars": 4983,
-   "desc": "Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.",
-   "url": "https://github.com/LNPANDY/NX2Apple",
-   "delta": 735
+   "name": "pingdotgg/t3code",
+   "stars": 52522,
+   "desc": "",
+   "url": "https://github.com/pingdotgg/t3code",
+   "delta": 1237
   },
   {
-   "name": "stablyai/orca",
-   "stars": 118595,
-   "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
-   "url": "https://github.com/stablyai/orca",
-   "delta": 726
+   "name": "zortos293/Lichii",
+   "stars": 6872,
+   "desc": "VERY experimental Nintendo Switch 2 emulator",
+   "url": "https://github.com/zortos293/Lichii",
+   "delta": 1234
   },
   {
-   "name": "JuneYaooo/rea-video",
-   "stars": 3688,
-   "desc": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
-   "url": "https://github.com/JuneYaooo/rea-video",
-   "delta": 650
+   "name": "Minireel/HGhub",
+   "stars": 3339,
+   "desc": "YellowFruit third-party client",
+   "url": "https://github.com/Minireel/HGhub",
+   "delta": 1021
   },
   {
-   "name": "heydamir/unslop",
-   "stars": 11379,
-   "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-   "url": "https://github.com/heydamir/unslop",
-   "delta": 624
+   "name": "qybaihe/bla",
+   "stars": 3824,
+   "desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+   "url": "https://github.com/qybaihe/bla",
+   "delta": 1013
   },
   {
    "name": "Gathin23/cleanyourtv",
-   "stars": 53931,
+   "stars": 54773,
    "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
    "url": "https://github.com/Gathin23/cleanyourtv",
-   "delta": 600
+   "delta": 842
   },
   {
-   "name": "deepseek-ai/dsh-superagent-prototype",
-   "stars": 20822,
-   "desc": "Towards a More Autonomous Agent System",
-   "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-   "delta": 559
+   "name": "JuneYaooo/rea-video",
+   "stars": 4514,
+   "desc": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻。",
+   "url": "https://github.com/JuneYaooo/rea-video",
+   "delta": 826
+  },
+  {
+   "name": "stablyai/orca",
+   "stars": 119330,
+   "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+   "url": "https://github.com/stablyai/orca",
+   "delta": 735
+  },
+  {
+   "name": "heydamir/unslop",
+   "stars": 12014,
+   "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+   "url": "https://github.com/heydamir/unslop",
+   "delta": 635
   },
   {
    "name": "heygen-com/hyperframes",
-   "stars": 80586,
+   "stars": 81102,
    "desc": "Write HTML. Render video. Built for agents.",
    "url": "https://github.com/heygen-com/hyperframes",
-   "delta": 456
+   "delta": 516
   },
   {
-   "name": "amosblomqvist/learnharness",
-   "stars": 6194,
-   "desc": "Agent harness for learning difficult things.",
-   "url": "https://github.com/amosblomqvist/learnharness",
-   "delta": 435
+   "name": "kingcharleslzy-ai/dsh-purge",
+   "stars": 5486,
+   "desc": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
+   "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
+   "delta": 502
+  },
+  {
+   "name": "thedotmack/claude-mem",
+   "stars": 114911,
+   "desc": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "url": "https://github.com/thedotmack/claude-mem",
+   "delta": 416
+  },
+  {
+   "name": "deepseek-ai/dsh-superagent-prototype",
+   "stars": 21208,
+   "desc": "Towards a More Autonomous Agent System",
+   "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+   "delta": 386
   },
   {
    "name": "seedds/nxnative",
-   "stars": 13368,
+   "stars": 13743,
    "desc": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
    "url": "https://github.com/seedds/nxnative",
-   "delta": 407
-  },
-  {
-   "name": "Djihads80/Eglantine",
-   "stars": 5210,
-   "desc": "VERY experimental Nintendo Switch 2 emulator",
-   "url": "https://github.com/Djihads80/Eglantine",
-   "delta": 311
-  },
-  {
-   "name": "NousResearch/hermes-agent",
-   "stars": 261517,
-   "desc": "The agent that grows with you",
-   "url": "https://github.com/NousResearch/hermes-agent",
-   "delta": 295
-  },
-  {
-   "name": "paperclipai/paperclip",
-   "stars": 112033,
-   "desc": "The open-source app everyone uses to manage agents at work",
-   "url": "https://github.com/paperclipai/paperclip",
-   "delta": 279
+   "delta": 375
   },
   {
    "name": "JustVugg/colibri",
-   "stars": 48747,
+   "stars": 49105,
    "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
    "url": "https://github.com/JustVugg/colibri",
-   "delta": 278
+   "delta": 358
   },
   {
-   "name": "tt-a1i/archify",
-   "stars": 94475,
-   "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-   "url": "https://github.com/tt-a1i/archify",
-   "delta": 269
+   "name": "amosblomqvist/learnharness",
+   "stars": 6546,
+   "desc": "Agent harness for learning difficult things.",
+   "url": "https://github.com/amosblomqvist/learnharness",
+   "delta": 352
   },
   {
-   "name": "valentderah/totk-pc-recomp",
-   "stars": 5688,
-   "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
-   "url": "https://github.com/valentderah/totk-pc-recomp",
-   "delta": 265
+   "name": "LNPANDY/NX2Apple",
+   "stars": 5333,
+   "desc": "Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.",
+   "url": "https://github.com/LNPANDY/NX2Apple",
+   "delta": 350
   }
  ],
  "meta": {

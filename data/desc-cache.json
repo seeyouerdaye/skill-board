@@ -185,5 +185,7 @@
  "el4cteo/roblox-skills": "Open source list of roblox skills for AI agents",
  "bmad-code-org/bmad-loop": "Automate the BMad Dev Cycle",
  "bmad-code-org/bmad-module-creative-intelligence-suite": "A BMad Method Compliant stand along module that has agents and workflows to help bring out the creativity of the user through various exercises and disciplines. More will come over time - this was meant as a bmad module tech demo",
- "stratalab/strata-agent-skills": "Everything AI agents need to use StrataDB - skills, MCP setup, one-command onboarding. Maintained by Strata Labs."
+ "stratalab/strata-agent-skills": "Everything AI agents need to use StrataDB - skills, MCP setup, one-command onboarding. Maintained by Strata Labs.",
+ "vuejs-ai/skills": "Agent skills for Vue 3 development",
+ "clickhouse/agent-skills": "The official Agent Skills for ClickHouse and ClickHouse Cloud"
 }
