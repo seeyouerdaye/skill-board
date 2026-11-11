@@ -188,5 +188,11 @@
  "stratalab/strata-agent-skills": "Everything AI agents need to use StrataDB - skills, MCP setup, one-command onboarding. Maintained by Strata Labs.",
  "vuejs-ai/skills": "Agent skills for Vue 3 development",
  "clickhouse/agent-skills": "The official Agent Skills for ClickHouse and ClickHouse Cloud",
- "hustcer/pptx-nova": "PowerPoint, rebuilt for agents. Not another slide generator. Create, edit, translate, and refurbish truly editable decks with DeckKit design systems, template-aware workflows, and visual QA. Powered by xdoc."
+ "hustcer/pptx-nova": "PowerPoint, rebuilt for agents. Not another slide generator. Create, edit, translate, and refurbish truly editable decks with DeckKit design systems, template-aware workflows, and visual QA. Powered by xdoc.",
+ "googlechrome/modern-web-guidance": "Keep your coding agent up to date with the latest web best practices",
+ "atl-paas/net": "",
+ "trailofbits/skills": "Trail of Bits skills for security research, vulnerability detection, and audit workflows",
+ "shunk031/skills": "",
+ "callstack/agent-device": "Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.",
+ "firecrawl/cli": "Firecrawl CLI and agent skills: search, scrape, and interact with the web from your terminal or any coding agent, plus parse, crawl, map, Agent and Monitor. Firecrawl is the context API for AI agents."
 }
