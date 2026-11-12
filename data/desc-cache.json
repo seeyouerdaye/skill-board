@@ -194,5 +194,9 @@
  "trailofbits/skills": "Trail of Bits skills for security research, vulnerability detection, and audit workflows",
  "shunk031/skills": "",
  "callstack/agent-device": "Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.",
- "firecrawl/cli": "Firecrawl CLI and agent skills: search, scrape, and interact with the web from your terminal or any coding agent, plus parse, crawl, map, Agent and Monitor. Firecrawl is the context API for AI agents."
+ "firecrawl/cli": "Firecrawl CLI and agent skills: search, scrape, and interact with the web from your terminal or any coding agent, plus parse, crawl, map, Agent and Monitor. Firecrawl is the context API for AI agents.",
+ "obsidianmd/obsidian-skills": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+ "wondelai/skills": "Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.",
+ "insforge/instacloud-skills": "The insta agent skill for InstaCloud — what a coding agent needs to run agent-native cloud infrastructure: provisioning, deploys, branching, secrets.",
+ "lewislulu/html-ppt-skill": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations"
 }
