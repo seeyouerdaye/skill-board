@@ -198,5 +198,14 @@
  "obsidianmd/obsidian-skills": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
  "wondelai/skills": "Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.",
  "insforge/instacloud-skills": "The insta agent skill for InstaCloud — what a coding agent needs to run agent-native cloud infrastructure: provisioning, deploys, branching, secrets.",
- "lewislulu/html-ppt-skill": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations"
+ "lewislulu/html-ppt-skill": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
+ "revnu-app/revnu-plugin": "Revnu plugin and agent skill for Claude Code, Cursor, Codex and Gemini CLI. Ask your coding agent how to get customers: Revnu finds buyers, runs cold email, LinkedIn outreach and ads, and gets you found in Google and ChatGPT.",
+ "vercel-labs/ui": "A library of behaviors for agents to build the next generation of user interfaces.",
+ "rohitg00/agentmemory": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+ "ysansan98/meituan-living": "美团生活助手 - 通用 Agent Skill，支持优惠券领取、团购搜索与下单",
+ "astral-sh/agent-plugins": "",
+ "debpalash/voicestudio": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+ "databricks/databricks-agent-skills": "Databricks AI Tools: skills and plugins for building on Databricks with Claude Code, Cursor, Codex, GitHub Copilot, and other AI coding agents.",
+ "objectivlabs/reposkillopt": "RepoSkillOpt — a portable, vendor-neutral skill-first package teaching coding agents evidence-grounded legacy-repository understanding with recurrent human feedback and bounded skill convergence.",
+ "abruption/session-peer-skill": "Agent skill for discovering and messaging Claude Code, Codex, and Antigravity sessions with session-peer."
 }
