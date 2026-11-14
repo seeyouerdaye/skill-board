@@ -207,5 +207,7 @@
  "debpalash/voicestudio": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
  "databricks/databricks-agent-skills": "Databricks AI Tools: skills and plugins for building on Databricks with Claude Code, Cursor, Codex, GitHub Copilot, and other AI coding agents.",
  "objectivlabs/reposkillopt": "RepoSkillOpt — a portable, vendor-neutral skill-first package teaching coding agents evidence-grounded legacy-repository understanding with recurrent human feedback and bounded skill convergence.",
- "abruption/session-peer-skill": "Agent skill for discovering and messaging Claude Code, Codex, and Antigravity sessions with session-peer."
+ "abruption/session-peer-skill": "Agent skill for discovering and messaging Claude Code, Codex, and Antigravity sessions with session-peer.",
+ "beltsh/superpowers": "",
+ "prime-skills/runcomfy-agent-skills": "RunComfy AI media skills for Claude agents — incremental publish test"
 }
