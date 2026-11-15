@@ -1,476 +1,476 @@
 {
- "generated_at": "2026-11-14T09:57:17+08:00",
+ "generated_at": "2026-11-15T09:29:50+08:00",
  "skills": {
   "trending": [
    {
     "name": "design-mobile-apps",
     "repo": "designed-by-ai/skills",
     "url": "https://www.skills.sh/designed-by-ai/skills/design-mobile-apps",
-    "installs": "22.5K",
-    "installs_n": 22500,
+    "installs": "17.0K",
+    "installs_n": 17000,
     "desc": "Agent skills"
-   },
-   {
-    "name": "find-skills",
-    "repo": "vercel-labs/skills",
-    "url": "https://www.skills.sh/vercel-labs/skills/find-skills",
-    "installs": "16.7K",
-    "installs_n": 16700,
-    "desc": "The open agent skills tool - npx skills"
-   },
-   {
-    "name": "agent-browser",
-    "repo": "vercel-labs/agent-browser",
-    "url": "https://www.skills.sh/vercel-labs/agent-browser/agent-browser",
-    "installs": "16.1K",
-    "installs_n": 16100,
-    "desc": "Browser automation CLI for AI agents"
-   },
-   {
-    "name": "hyperframes",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes",
-    "installs": "14.6K",
-    "installs_n": 14600,
-    "desc": "Write HTML. Render video. Built for agents."
-   },
-   {
-    "name": "media-use",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/media-use",
-    "installs": "14.4K",
-    "installs_n": 14400,
-    "desc": "Write HTML. Render video. Built for agents."
-   },
-   {
-    "name": "hyperframes-cli",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-cli",
-    "installs": "14.3K",
-    "installs_n": 14300,
-    "desc": "Write HTML. Render video. Built for agents."
    },
    {
     "name": "website-builder",
     "repo": "flowkit-labs/skills",
     "url": "https://www.skills.sh/flowkit-labs/skills/website-builder",
-    "installs": "14.1K",
-    "installs_n": 14100,
+    "installs": "15.7K",
+    "installs_n": 15700,
     "desc": ""
    },
    {
     "name": "ai-music",
     "repo": "gencraft-labs/skills",
     "url": "https://www.skills.sh/gencraft-labs/skills/ai-music",
-    "installs": "14.1K",
-    "installs_n": 14100,
+    "installs": "15.6K",
+    "installs_n": 15600,
     "desc": ""
    },
    {
     "name": "video-edit",
     "repo": "gencraft-labs/skills",
     "url": "https://www.skills.sh/gencraft-labs/skills/video-edit",
-    "installs": "14.1K",
-    "installs_n": 14100,
-    "desc": ""
-   },
-   {
-    "name": "ai-video-generation",
-    "repo": "gencraft-labs/skills",
-    "url": "https://www.skills.sh/gencraft-labs/skills/ai-video-generation",
-    "installs": "13.9K",
-    "installs_n": 13900,
+    "installs": "15.6K",
+    "installs_n": 15600,
     "desc": ""
    },
    {
     "name": "reddit-automation",
     "repo": "flowkit-labs/skills",
     "url": "https://www.skills.sh/flowkit-labs/skills/reddit-automation",
-    "installs": "13.9K",
-    "installs_n": 13900,
+    "installs": "15.3K",
+    "installs_n": 15300,
     "desc": ""
    },
    {
     "name": "image-to-video",
     "repo": "gencraft-labs/skills",
     "url": "https://www.skills.sh/gencraft-labs/skills/image-to-video",
-    "installs": "13.9K",
-    "installs_n": 13900,
+    "installs": "15.1K",
+    "installs_n": 15100,
+    "desc": ""
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/ai-video-generation",
+    "installs": "15.0K",
+    "installs_n": 15000,
     "desc": ""
    },
    {
     "name": "ai-image-generation",
     "repo": "gencraft-labs/skills",
     "url": "https://www.skills.sh/gencraft-labs/skills/ai-image-generation",
-    "installs": "13.8K",
-    "installs_n": 13800,
+    "installs": "14.8K",
+    "installs_n": 14800,
     "desc": ""
    },
    {
-    "name": "hyperframes-registry",
+    "name": "hyperframes",
     "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-registry",
-    "installs": "13.6K",
-    "installs_n": 13600,
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes",
+    "installs": "13.5K",
+    "installs_n": 13500,
     "desc": "Write HTML. Render video. Built for agents."
    },
    {
-    "name": "reverse-any-video",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/reverse-any-video",
+    "name": "find-skills",
+    "repo": "vercel-labs/skills",
+    "url": "https://www.skills.sh/vercel-labs/skills/find-skills",
     "installs": "13.4K",
     "installs_n": 13400,
-    "desc": "Write HTML. Render video. Built for agents."
+    "desc": "The open agent skills tool - npx skills"
    },
    {
-    "name": "style-sampling",
+    "name": "hyperframes-cli",
     "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/style-sampling",
-    "installs": "13.4K",
-    "installs_n": 13400,
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes-cli",
+    "installs": "13.3K",
+    "installs_n": 13300,
     "desc": "Write HTML. Render video. Built for agents."
    },
    {
-    "name": "ai-image-generation",
+    "name": "ai-video-generation",
     "repo": "skills-shell/superpowers",
-    "url": "https://www.skills.sh/skills-shell/superpowers/ai-image-generation",
-    "installs": "9.9K",
-    "installs_n": 9900,
+    "url": "https://www.skills.sh/skills-shell/superpowers/ai-video-generation",
+    "installs": "9.5K",
+    "installs_n": 9500,
     "desc": "Agent superpowers"
+   },
+   {
+    "name": "agent-browser",
+    "repo": "vercel-labs/agent-browser",
+    "url": "https://www.skills.sh/vercel-labs/agent-browser/agent-browser",
+    "installs": "9.5K",
+    "installs_n": 9500,
+    "desc": "Browser automation CLI for AI agents"
    },
    {
     "name": "ai-avatar-video",
     "repo": "qu-skills/superpowers",
     "url": "https://www.skills.sh/qu-skills/superpowers/ai-avatar-video",
-    "installs": "8.9K",
-    "installs_n": 8900,
+    "installs": "8.8K",
+    "installs_n": 8800,
     "desc": "Agent superpowers"
    },
    {
-    "name": "microsoft-foundry",
-    "repo": "microsoft/azure-skills",
-    "url": "https://www.skills.sh/microsoft/azure-skills/microsoft-foundry",
-    "installs": "8.7K",
-    "installs_n": 8700,
-    "desc": "Official agent plugin providing skills and MCP server configurations for Azure scenarios."
+    "name": "ai-image-generation",
+    "repo": "its-a-skill-issue/superpowers",
+    "url": "https://www.skills.sh/its-a-skill-issue/superpowers/ai-image-generation",
+    "installs": "8.0K",
+    "installs_n": 8000,
+    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
    },
    {
     "name": "remotion-best-practices",
     "repo": "remotion-dev/skills",
     "url": "https://www.skills.sh/remotion-dev/skills/remotion-best-practices",
-    "installs": "8.1K",
-    "installs_n": 8100,
+    "installs": "7.5K",
+    "installs_n": 7500,
     "desc": "Agent Skills"
-   }
-  ],
-  "hot": [
+   },
+   {
+    "name": "ai-video-generation",
+    "repo": "bankai-skills/superpowers",
+    "url": "https://www.skills.sh/bankai-skills/superpowers/ai-video-generation",
+    "installs": "7.0K",
+    "installs_n": 7000,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "remotion-captions",
+    "repo": "remotion-dev/skills",
+    "url": "https://www.skills.sh/remotion-dev/skills/remotion-captions",
+    "installs": "7.0K",
+    "installs_n": 7000,
+    "desc": "Agent Skills"
+   },
+   {
+    "name": "ai-image-generation",
+    "repo": "magentosh/superpowers",
+    "url": "https://www.skills.sh/magentosh/superpowers/ai-image-generation",
+    "installs": "6.2K",
+    "installs_n": 6200,
+    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+   },
    {
     "name": "remotion-to-hyperframes",
     "repo": "heygen-com/hyperframes",
     "url": "https://www.skills.sh/heygen-com/hyperframes/remotion-to-hyperframes",
-    "installs": "304",
-    "installs_n": 304,
+    "installs": "5.7K",
+    "installs_n": 5700,
     "desc": "Write HTML. Render video. Built for agents."
-   },
+   }
+  ],
+  "hot": [
    {
-    "name": "twitter-automation",
-    "repo": "beltsh/superpowers",
-    "url": "https://www.skills.sh/beltsh/superpowers/twitter-automation",
-    "installs": "47",
-    "installs_n": 47,
+    "name": "ai-avatar-video",
+    "repo": "whytryharder/superpowers",
+    "url": "https://www.skills.sh/whytryharder/superpowers/ai-avatar-video",
+    "installs": "15",
+    "installs_n": 15,
     "desc": ""
    },
    {
-    "name": "ai-avatar-video",
-    "repo": "magentosh/superpowers",
-    "url": "https://www.skills.sh/magentosh/superpowers/ai-avatar-video",
-    "installs": "171",
-    "installs_n": 171,
-    "desc": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents"
+    "name": "byted-web-search",
+    "repo": "kotot/byted-web-search",
+    "url": "https://www.skills.sh/kotot/byted-web-search/byted-web-search",
+    "installs": "7",
+    "installs_n": 7,
+    "desc": "Mirror of byted-web-search skill from bytedance/agentkit-samples (Apache-2.0)"
    },
    {
-    "name": "ai-music",
-    "repo": "prime-skills/runcomfy-agent-skills",
-    "url": "https://www.skills.sh/prime-skills/runcomfy-agent-skills/ai-music",
-    "installs": "18",
-    "installs_n": 18,
-    "desc": "RunComfy AI media skills for Claude agents — incremental publish test"
+    "name": "readback",
+    "repo": "lilmgenius/paperthin",
+    "url": "https://www.skills.sh/lilmgenius/paperthin/readback",
+    "installs": "6",
+    "installs_n": 6,
+    "desc": "The skillbook for recursive self-improvement (RSI). NVIDIA's latest proof, unpacked with timeless engineering. Distilled from the OpenAI harness engineering hackathon winner's zero-touch method."
    },
    {
-    "name": "elevenlabs-music-generation",
-    "repo": "prime-skills/runcomfy-agent-skills",
-    "url": "https://www.skills.sh/prime-skills/runcomfy-agent-skills/elevenlabs-music-generation",
-    "installs": "18",
-    "installs_n": 18,
-    "desc": "RunComfy AI media skills for Claude agents — incremental publish test"
+    "name": "deepline-gtm",
+    "repo": "code.deepline.com",
+    "url": "https://www.skills.sh/site/code.deepline.com/deepline-gtm",
+    "installs": "7",
+    "installs_n": 7,
+    "desc": ""
    },
    {
-    "name": "app-store-screenshots",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/app-store-screenshots",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "Agent superpowers"
+    "name": "hairline-create",
+    "repo": "lucasmarkes/hairline",
+    "url": "https://www.skills.sh/lucasmarkes/hairline/hairline-create",
+    "installs": "4",
+    "installs_n": 4,
+    "desc": "Isometric line figures that answer the pointer. For React and for anything with a DOM."
    },
    {
-    "name": "face-swap",
-    "repo": "prime-skills/runcomfy-agent-skills",
-    "url": "https://www.skills.sh/prime-skills/runcomfy-agent-skills/face-swap",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "RunComfy AI media skills for Claude agents — incremental publish test"
+    "name": "hairline-adopt",
+    "repo": "lucasmarkes/hairline",
+    "url": "https://www.skills.sh/lucasmarkes/hairline/hairline-adopt",
+    "installs": "4",
+    "installs_n": 4,
+    "desc": "Isometric line figures that answer the pointer. For React and for anything with a DOM."
    },
    {
-    "name": "image-to-video",
-    "repo": "prime-skills/runcomfy-agent-skills",
-    "url": "https://www.skills.sh/prime-skills/runcomfy-agent-skills/image-to-video",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "RunComfy AI media skills for Claude agents — incremental publish test"
+    "name": "project-artifact",
+    "repo": "anthropics/claude-plugins-official",
+    "url": "https://www.skills.sh/anthropics/claude-plugins-official/project-artifact",
+    "installs": "3",
+    "installs_n": 3,
+    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
    },
    {
-    "name": "landing-page-design",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/landing-page-design",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "Agent superpowers"
+    "name": "build-mcpb",
+    "repo": "anthropics/claude-plugins-official",
+    "url": "https://www.skills.sh/anthropics/claude-plugins-official/build-mcpb",
+    "installs": "3",
+    "installs_n": 3,
+    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
    },
    {
-    "name": "controlnet-pose",
-    "repo": "prime-skills/runcomfy-agent-skills",
-    "url": "https://www.skills.sh/prime-skills/runcomfy-agent-skills/controlnet-pose",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "RunComfy AI media skills for Claude agents — incremental publish test"
+    "name": "obsidian-cli",
+    "repo": "obsidianmd/obsidian-skills",
+    "url": "https://www.skills.sh/obsidianmd/obsidian-skills/obsidian-cli",
+    "installs": "4",
+    "installs_n": 4,
+    "desc": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas."
    },
    {
-    "name": "product-photography",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/product-photography",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "Agent superpowers"
+    "name": "browser-use",
+    "repo": "browser-use/browser-use",
+    "url": "https://www.skills.sh/browser-use/browser-use/browser-use",
+    "installs": "3",
+    "installs_n": 3,
+    "desc": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API."
    },
    {
-    "name": "runcomfy-cli",
-    "repo": "prime-skills/runcomfy-agent-skills",
-    "url": "https://www.skills.sh/prime-skills/runcomfy-agent-skills/runcomfy-cli",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "RunComfy AI media skills for Claude agents — incremental publish test"
+    "name": "appllama-app-design-skill",
+    "repo": "appllama/appllama-skills",
+    "url": "https://www.skills.sh/appllama/appllama-skills/appllama-app-design-skill",
+    "installs": "3",
+    "installs_n": 3,
+    "desc": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens."
    },
    {
-    "name": "flux-2-klein",
-    "repo": "prime-skills/runcomfy-agent-skills",
-    "url": "https://www.skills.sh/prime-skills/runcomfy-agent-skills/flux-2-klein",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "RunComfy AI media skills for Claude agents — incremental publish test"
+    "name": "saml-sso-assertion-attacks",
+    "repo": "yaklang/hack-skills",
+    "url": "https://www.skills.sh/yaklang/hack-skills/saml-sso-assertion-attacks",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Helping AI Agent become an awesome practical hacker!"
    },
    {
-    "name": "seedance-v2",
-    "repo": "prime-skills/runcomfy-agent-skills",
-    "url": "https://www.skills.sh/prime-skills/runcomfy-agent-skills/seedance-v2",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "RunComfy AI media skills for Claude agents — incremental publish test"
+    "name": "type-juggling",
+    "repo": "yaklang/hack-skills",
+    "url": "https://www.skills.sh/yaklang/hack-skills/type-juggling",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Helping AI Agent become an awesome practical hacker!"
    },
    {
-    "name": "image-to-video",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/image-to-video",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "Agent superpowers"
+    "name": "dogfood",
+    "repo": "callstack/agent-device",
+    "url": "https://www.skills.sh/callstack/agent-device/dogfood",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud."
    },
    {
-    "name": "relight",
-    "repo": "prime-skills/runcomfy-agent-skills",
-    "url": "https://www.skills.sh/prime-skills/runcomfy-agent-skills/relight",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "RunComfy AI media skills for Claude agents — incremental publish test"
+    "name": "http-host-header-attacks",
+    "repo": "yaklang/hack-skills",
+    "url": "https://www.skills.sh/yaklang/hack-skills/http-host-header-attacks",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Helping AI Agent become an awesome practical hacker!"
    },
    {
-    "name": "video-ad-specs",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/video-ad-specs",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "Agent superpowers"
+    "name": "gateguard",
+    "repo": "affaan-m/ecc",
+    "url": "https://www.skills.sh/affaan-m/ecc/gateguard",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
    },
    {
-    "name": "character-design-sheet",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/character-design-sheet",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "Agent superpowers"
+    "name": "backend-patterns",
+    "repo": "affaan-m/ecc",
+    "url": "https://www.skills.sh/affaan-m/ecc/backend-patterns",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
    },
    {
-    "name": "lipsync",
-    "repo": "prime-skills/runcomfy-agent-skills",
-    "url": "https://www.skills.sh/prime-skills/runcomfy-agent-skills/lipsync",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "RunComfy AI media skills for Claude agents — incremental publish test"
+    "name": "healthcare-eval-harness",
+    "repo": "affaan-m/ecc",
+    "url": "https://www.skills.sh/affaan-m/ecc/healthcare-eval-harness",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
    },
    {
-    "name": "youtube-thumbnail-design",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/youtube-thumbnail-design",
-    "installs": "17",
-    "installs_n": 17,
-    "desc": "Agent superpowers"
+    "name": "graphql-and-hidden-parameters",
+    "repo": "yaklang/hack-skills",
+    "url": "https://www.skills.sh/yaklang/hack-skills/graphql-and-hidden-parameters",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "Helping AI Agent become an awesome practical hacker!"
+   },
+   {
+    "name": "ecc-guide",
+    "repo": "affaan-m/ecc",
+    "url": "https://www.skills.sh/affaan-m/ecc/ecc-guide",
+    "installs": "2",
+    "installs_n": 2,
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
    }
   ]
  },
  "projects": [
   {
+   "name": "libracoder/kiri",
+   "stars": 3799,
+   "desc": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+   "url": "https://github.com/libracoder/kiri",
+   "delta": 1543
+  },
+  {
    "name": "storytold/craft-anything",
-   "stars": 31458,
+   "stars": 32783,
    "desc": "Craft Anything: understand how any software works, and craft your own.",
    "url": "https://github.com/storytold/craft-anything",
-   "delta": 1448
+   "delta": 1325
   },
   {
    "name": "pingdotgg/t3code",
-   "stars": 59630,
+   "stars": 60617,
    "desc": "The best way to control Claude Code, Codex and more from any computer or phone",
    "url": "https://github.com/pingdotgg/t3code",
-   "delta": 1162
+   "delta": 987
   },
   {
    "name": "ccch1mneyyy/dsh-Go",
-   "stars": 21840,
+   "stars": 22764,
    "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
    "url": "https://github.com/ccch1mneyyy/dsh-Go",
-   "delta": 985
+   "delta": 924
   },
   {
-   "name": "anefzaoui/misterdownloadmanager",
-   "stars": 8941,
-   "desc": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
-   "url": "https://github.com/anefzaoui/misterdownloadmanager",
-   "delta": 952
+   "name": "debpalash/VoiceStudio",
+   "stars": 110717,
+   "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+   "url": "https://github.com/debpalash/VoiceStudio",
+   "delta": 718
+  },
+  {
+   "name": "vercel-labs/ui",
+   "stars": 4568,
+   "desc": "A library of behaviors for agents to build the next generation of user interfaces.",
+   "url": "https://github.com/vercel-labs/ui",
+   "delta": 703
   },
   {
    "name": "stablyai/orca",
-   "stars": 124417,
+   "stars": 125088,
    "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
    "url": "https://github.com/stablyai/orca",
-   "delta": 867
+   "delta": 671
   },
   {
-   "name": "expo/exact",
-   "stars": 4017,
-   "desc": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
-   "url": "https://github.com/expo/exact",
-   "delta": 639
-  },
-  {
-   "name": "JenkinWoo/sheeridVerify",
-   "stars": 2656,
-   "desc": "",
-   "url": "https://github.com/JenkinWoo/sheeridVerify",
-   "delta": 564
-  },
-  {
-   "name": "ZhuLinsen/daily_stock_analysis",
-   "stars": 71650,
-   "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-   "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-   "delta": 552
-  },
-  {
-   "name": "heydamir/unslop",
-   "stars": 15687,
-   "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-   "url": "https://github.com/heydamir/unslop",
-   "delta": 517
-  },
-  {
-   "name": "heygen-com/hyperframes",
-   "stars": 83964,
-   "desc": "Write HTML. Render video. Built for agents.",
-   "url": "https://github.com/heygen-com/hyperframes",
-   "delta": 502
-  },
-  {
-   "name": "janestreet/agent_skills",
-   "stars": 8293,
-   "desc": "Agent skills",
-   "url": "https://github.com/janestreet/agent_skills",
-   "delta": 474
+   "name": "anefzaoui/misterdownloadmanager",
+   "stars": 9596,
+   "desc": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+   "url": "https://github.com/anefzaoui/misterdownloadmanager",
+   "delta": 655
   },
   {
    "name": "JuneYaooo/rea-video",
-   "stars": 7999,
+   "stars": 8603,
    "desc": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
    "url": "https://github.com/JuneYaooo/rea-video",
-   "delta": 456
+   "delta": 604
   },
   {
-   "name": "kingcharleslzy-ai/dsh-purge",
-   "stars": 7931,
-   "desc": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
-   "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
-   "delta": 441
+   "name": "pbakaus/impeccable",
+   "stars": 110238,
+   "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+   "url": "https://github.com/pbakaus/impeccable",
+   "delta": 595
+  },
+  {
+   "name": "JenkinWoo/sheeridVerify",
+   "stars": 3139,
+   "desc": "",
+   "url": "https://github.com/JenkinWoo/sheeridVerify",
+   "delta": 483
+  },
+  {
+   "name": "vercel-labs/agent-browser",
+   "stars": 51224,
+   "desc": "Browser automation CLI for AI agents",
+   "url": "https://github.com/vercel-labs/agent-browser",
+   "delta": 472
   },
   {
    "name": "Gathin23/cleanyourtv",
-   "stars": 57449,
+   "stars": 57887,
    "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
    "url": "https://github.com/Gathin23/cleanyourtv",
-   "delta": 401
+   "delta": 438
+  },
+  {
+   "name": "heygen-com/hyperframes",
+   "stars": 84357,
+   "desc": "Write HTML. Render video. Built for agents.",
+   "url": "https://github.com/heygen-com/hyperframes",
+   "delta": 393
+  },
+  {
+   "name": "kingcharleslzy-ai/dsh-purge",
+   "stars": 8310,
+   "desc": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
+   "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
+   "delta": 379
+  },
+  {
+   "name": "louislam/uptime-kuma",
+   "stars": 94250,
+   "desc": "A fancy self-hosted monitoring tool",
+   "url": "https://github.com/louislam/uptime-kuma",
+   "delta": 374
+  },
+  {
+   "name": "janestreet/agent_skills",
+   "stars": 8642,
+   "desc": "Agent skills",
+   "url": "https://github.com/janestreet/agent_skills",
+   "delta": 349
+  },
+  {
+   "name": "heydamir/unslop",
+   "stars": 16030,
+   "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+   "url": "https://github.com/heydamir/unslop",
+   "delta": 343
+  },
+  {
+   "name": "Zagitta/gpu-unlock",
+   "stars": 19541,
+   "desc": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
+   "url": "https://github.com/Zagitta/gpu-unlock",
+   "delta": 287
   },
   {
    "name": "Lee-xeo/Claude-Cage",
-   "stars": 5238,
+   "stars": 5483,
    "desc": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
    "url": "https://github.com/Lee-xeo/Claude-Cage",
-   "delta": 398
-  },
-  {
-   "name": "huamidev/GestaltX",
-   "stars": 7336,
-   "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-   "url": "https://github.com/huamidev/GestaltX",
-   "delta": 368
-  },
-  {
-   "name": "shanselman/gputaskman",
-   "stars": 3084,
-   "desc": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
-   "url": "https://github.com/shanselman/gputaskman",
-   "delta": 342
-  },
-  {
-   "name": "LNPANDY/NX2Apple",
-   "stars": 6828,
-   "desc": "Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.",
-   "url": "https://github.com/LNPANDY/NX2Apple",
-   "delta": 332
-  },
-  {
-   "name": "tangerineturtle1/NX2navi",
-   "stars": 3906,
-   "desc": "",
-   "url": "https://github.com/tangerineturtle1/NX2navi",
-   "delta": 319
-  },
-  {
-   "name": "KKKKhazix/agent-autoloop",
-   "stars": 5133,
-   "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-   "url": "https://github.com/KKKKhazix/agent-autoloop",
-   "delta": 314
+   "delta": 245
   }
  ],
  "meta": {
   "alerts": [],
-  "pool_size": 200,
+  "pool_size": 199,
   "projects_by_delta": true,
   "sources": [
    "https://www.skills.sh/trending",

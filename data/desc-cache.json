@@ -209,5 +209,11 @@
  "objectivlabs/reposkillopt": "RepoSkillOpt — a portable, vendor-neutral skill-first package teaching coding agents evidence-grounded legacy-repository understanding with recurrent human feedback and bounded skill convergence.",
  "abruption/session-peer-skill": "Agent skill for discovering and messaging Claude Code, Codex, and Antigravity sessions with session-peer.",
  "beltsh/superpowers": "",
- "prime-skills/runcomfy-agent-skills": "RunComfy AI media skills for Claude agents — incremental publish test"
+ "prime-skills/runcomfy-agent-skills": "RunComfy AI media skills for Claude agents — incremental publish test",
+ "whytryharder/superpowers": "",
+ "lilmgenius/paperthin": "The skillbook for recursive self-improvement (RSI). NVIDIA's latest proof, unpacked with timeless engineering. Distilled from the OpenAI harness engineering hackathon winner's zero-touch method.",
+ "lucasmarkes/hairline": "Isometric line figures that answer the pointer. For React and for anything with a DOM.",
+ "anthropics/claude-plugins-official": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+ "browser-use/browser-use": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+ "appllama/appllama-skills": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens."
 }
