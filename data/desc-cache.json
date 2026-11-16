@@ -215,5 +215,6 @@
  "lucasmarkes/hairline": "Isometric line figures that answer the pointer. For React and for anything with a DOM.",
  "anthropics/claude-plugins-official": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
  "browser-use/browser-use": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
- "appllama/appllama-skills": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens."
+ "appllama/appllama-skills": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
+ "expo/skills": "A collection of AI agent skills for working with Expo projects and Expo Application Services"
 }
