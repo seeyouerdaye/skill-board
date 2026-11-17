@@ -216,5 +216,15 @@
  "anthropics/claude-plugins-official": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
  "browser-use/browser-use": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
  "appllama/appllama-skills": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
- "expo/skills": "A collection of AI agent skills for working with Expo projects and Expo Application Services"
+ "expo/skills": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+ "volcengine/volcengine-agent-toolkit": "Volcengine skills and plugins for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, OpenCode): manage cloud resources via the `ve` CLI, search official docs, troubleshoot, and install product-domain skills on demand.",
+ "cline/sdk-skill": "@cline/sdk skill",
+ "callstackincubator/agent-skills": "A collection of agent-optimized React Native skills for AI coding assistants.",
+ "cline/skills": "A collection of skills used at Cline",
+ "zhaoxuya520/reverse-skill": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+ "api/git": "",
+ "semgrep/skills": "A collection of skills for AI coding agents from Semgrep",
+ "artemnovitckii/claude-animation-skills": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+ "isaaceryn/humanizer-ko": "한국어 텍스트에서 AI 생성 글의 티를 제거하는 Claude Code 에이전트 스킬. ChatGPT 문체, 이중 피동, 번역투, 문체 혼용 등 33개 패턴 탐지. Korean adaptation of the humanizer agent skill.",
+ "figma/mcp-server-guide": "A guide on how to use the Figma MCP server"
 }
