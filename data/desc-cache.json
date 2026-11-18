@@ -226,5 +226,13 @@
  "semgrep/skills": "A collection of skills for AI coding agents from Semgrep",
  "artemnovitckii/claude-animation-skills": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
  "isaaceryn/humanizer-ko": "한국어 텍스트에서 AI 생성 글의 티를 제거하는 Claude Code 에이전트 스킬. ChatGPT 문체, 이중 피동, 번역투, 문체 혼용 등 33개 패턴 탐지. Korean adaptation of the humanizer agent skill.",
- "figma/mcp-server-guide": "A guide on how to use the Figma MCP server"
+ "figma/mcp-server-guide": "A guide on how to use the Figma MCP server",
+ "every-app/open-seo": "Open source alternative to Semrush and Ahrefs",
+ "sjunepark/agent-scripts": "",
+ "jtydhr88/screenwriting-skills": "Professional agent skills for screenwriting, television writing and dramaturgy",
+ "sugatoray/aiskills": "A collection of curated aiskills",
+ "posit-dev/skills": "A collection of Claude Skills from Posit",
+ "juliobsz/skills": "An agent skill that builds award-caliber websites from one line",
+ "volcengine/ark-cli": "The fastest way to put Volcengine Ark in your terminal and your AI agent — go from prompt to generated   media, multimodal answer, or deployed endpoint in a single command, no API glue code.",
+ "ardurai/god-skill-suite": "52 battle-tested, production-grade AI skills for Claude Code, Cursor, Codex, Windsurf, Gemini CLI & more. Zero hallucination. Zero dependencies."
 }
