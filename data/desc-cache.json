@@ -242,5 +242,10 @@
  "nexu-io/openmotion": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
  "danyuchn/asd-ste100-skill": "ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.",
  "ant-design/ant-design-cli": "Ant Design on your command line. Query component knowledge, analyze project usage, and guide migrations — fully offline.",
- "namespacelabs/agent-skills": "Agent skills for interacting with Namespace"
+ "namespacelabs/agent-skills": "Agent skills for interacting with Namespace",
+ "google/agents-cli": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+ "contentful/skills": "Skills for teaching agents how to build on Contentful.",
+ "c3sc0-v4113/scaffold": "",
+ "millionco/react-doctor": "Your agent writes bad React. This catches it",
+ "pproenca/dot-skills": "A collection of AI agent skills following the Agent Skills open format"
 }
