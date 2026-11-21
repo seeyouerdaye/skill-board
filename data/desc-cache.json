@@ -247,5 +247,9 @@
  "contentful/skills": "Skills for teaching agents how to build on Contentful.",
  "c3sc0-v4113/scaffold": "",
  "millionco/react-doctor": "Your agent writes bad React. This catches it",
- "pproenca/dot-skills": "A collection of AI agent skills following the Agent Skills open format"
+ "pproenca/dot-skills": "A collection of AI agent skills following the Agent Skills open format",
+ "suzheng/k2f": "",
+ "leonxlnx/earshot": "Sound effects for coding agents: ask in plain words and earshot renders the sound in code. CPU-only, no audio model, open source.",
+ "miqdadbadjuber/anti-slop": "Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.",
+ "google-labs-code/stitch-skills": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
 }
