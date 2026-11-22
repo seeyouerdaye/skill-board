@@ -251,5 +251,11 @@
  "suzheng/k2f": "",
  "leonxlnx/earshot": "Sound effects for coding agents: ask in plain words and earshot renders the sound in code. CPU-only, no audio model, open source.",
  "miqdadbadjuber/anti-slop": "Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.",
- "google-labs-code/stitch-skills": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+ "google-labs-code/stitch-skills": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+ "anthropics/skills": "Public repository for Agent Skills",
+ "xikhar/papercraft": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
+ "ericjujianzou/rederive": "Explain code that AI wrote for you, in an interview or at work. An open source Claude Code skill that asks how you would build each part of your repo, so you re-derive its design decisions yourself. It also works on open source repos you want to learn.",
+ "supabase/agent-skills": "Agent Skills to help developers using AI agents with Supabase",
+ "greensock/gsap-skills": "Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.",
+ "caffeinelabs/skills": ""
 }
