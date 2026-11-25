@@ -1,471 +1,471 @@
 {
- "generated_at": "2026-11-24T13:44:00+08:00",
+ "generated_at": "2026-11-25T12:45:24+08:00",
  "skills": {
   "trending": [
    {
     "name": "ai-video-generation",
     "repo": "beltsh/superpowers",
     "url": "https://www.skills.sh/beltsh/superpowers/ai-video-generation",
-    "installs": "29.0K",
-    "installs_n": 29000,
+    "installs": "28.6K",
+    "installs_n": 28600,
     "desc": ""
    },
    {
     "name": "agent-browser",
     "repo": "vercel-labs/agent-browser",
     "url": "https://www.skills.sh/vercel-labs/agent-browser/agent-browser",
-    "installs": "21.3K",
-    "installs_n": 21300,
+    "installs": "22.1K",
+    "installs_n": 22100,
     "desc": "Browser automation CLI for AI agents"
    },
    {
     "name": "design-mobile-apps",
     "repo": "designed-by-ai/skills",
     "url": "https://www.skills.sh/designed-by-ai/skills/design-mobile-apps",
-    "installs": "20.0K",
-    "installs_n": 20000,
+    "installs": "19.7K",
+    "installs_n": 19700,
     "desc": "Agent skills"
+   },
+   {
+    "name": "ui-taste",
+    "repo": "uizze.sh",
+    "url": "https://www.skills.sh/site/uizze.sh/ui-taste",
+    "installs": "17.8K",
+    "installs_n": 17800,
+    "desc": ""
    },
    {
     "name": "find-skills",
     "repo": "vercel-labs/skills",
     "url": "https://www.skills.sh/vercel-labs/skills/find-skills",
-    "installs": "18.0K",
-    "installs_n": 18000,
+    "installs": "17.7K",
+    "installs_n": 17700,
     "desc": "The open agent skills tool - npx skills"
-   },
-   {
-    "name": "hyperframes",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes",
-    "installs": "16.6K",
-    "installs_n": 16600,
-    "desc": "Write HTML. Render video. Built for agents."
    },
    {
     "name": "website-builder",
     "repo": "flowkit-labs/skills",
     "url": "https://www.skills.sh/flowkit-labs/skills/website-builder",
-    "installs": "15.7K",
-    "installs_n": 15700,
-    "desc": ""
-   },
-   {
-    "name": "video-edit",
-    "repo": "gencraft-labs/skills",
-    "url": "https://www.skills.sh/gencraft-labs/skills/video-edit",
-    "installs": "15.6K",
-    "installs_n": 15600,
-    "desc": ""
-   },
-   {
-    "name": "ai-music",
-    "repo": "gencraft-labs/skills",
-    "url": "https://www.skills.sh/gencraft-labs/skills/ai-music",
-    "installs": "15.5K",
-    "installs_n": 15500,
-    "desc": ""
-   },
-   {
-    "name": "reddit-automation",
-    "repo": "flowkit-labs/skills",
-    "url": "https://www.skills.sh/flowkit-labs/skills/reddit-automation",
-    "installs": "15.4K",
-    "installs_n": 15400,
+    "installs": "15.0K",
+    "installs_n": 15000,
     "desc": ""
    },
    {
     "name": "ai-image-generation",
     "repo": "gencraft-labs/skills",
     "url": "https://www.skills.sh/gencraft-labs/skills/ai-image-generation",
-    "installs": "15.3K",
-    "installs_n": 15300,
+    "installs": "14.8K",
+    "installs_n": 14800,
+    "desc": ""
+   },
+   {
+    "name": "reddit-automation",
+    "repo": "flowkit-labs/skills",
+    "url": "https://www.skills.sh/flowkit-labs/skills/reddit-automation",
+    "installs": "14.7K",
+    "installs_n": 14700,
     "desc": ""
    },
    {
     "name": "ai-video-generation",
     "repo": "gencraft-labs/skills",
     "url": "https://www.skills.sh/gencraft-labs/skills/ai-video-generation",
-    "installs": "15.2K",
-    "installs_n": 15200,
+    "installs": "14.6K",
+    "installs_n": 14600,
     "desc": ""
    },
    {
-    "name": "image-to-video",
-    "repo": "gencraft-labs/skills",
-    "url": "https://www.skills.sh/gencraft-labs/skills/image-to-video",
-    "installs": "15.1K",
-    "installs_n": 15100,
-    "desc": ""
-   },
-   {
-    "name": "ui-taste",
-    "repo": "uizze.sh",
-    "url": "https://www.skills.sh/site/uizze.sh/ui-taste",
-    "installs": "14.5K",
-    "installs_n": 14500,
-    "desc": ""
-   },
-   {
-    "name": "reverse-any-video",
+    "name": "hyperframes",
     "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/reverse-any-video",
-    "installs": "13.3K",
-    "installs_n": 13300,
+    "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes",
+    "installs": "14.0K",
+    "installs_n": 14000,
     "desc": "Write HTML. Render video. Built for agents."
-   },
-   {
-    "name": "style-sampling",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/style-sampling",
-    "installs": "13.3K",
-    "installs_n": 13300,
-    "desc": "Write HTML. Render video. Built for agents."
-   },
-   {
-    "name": "remotion-best-practices",
-    "repo": "remotion-dev/skills",
-    "url": "https://www.skills.sh/remotion-dev/skills/remotion-best-practices",
-    "installs": "9.3K",
-    "installs_n": 9300,
-    "desc": "Agent Skills"
-   },
-   {
-    "name": "remotion-captions",
-    "repo": "remotion-dev/skills",
-    "url": "https://www.skills.sh/remotion-dev/skills/remotion-captions",
-    "installs": "8.7K",
-    "installs_n": 8700,
-    "desc": "Agent Skills"
-   },
-   {
-    "name": "remotion-render",
-    "repo": "remotion-dev/skills",
-    "url": "https://www.skills.sh/remotion-dev/skills/remotion-render",
-    "installs": "8.7K",
-    "installs_n": 8700,
-    "desc": "Agent Skills"
-   },
-   {
-    "name": "ai-video-generation",
-    "repo": "qu-skills/superpowers",
-    "url": "https://www.skills.sh/qu-skills/superpowers/ai-video-generation",
-    "installs": "8.7K",
-    "installs_n": 8700,
-    "desc": "Agent superpowers"
-   },
-   {
-    "name": "remotion-create",
-    "repo": "remotion-dev/skills",
-    "url": "https://www.skills.sh/remotion-dev/skills/remotion-create",
-    "installs": "8.7K",
-    "installs_n": 8700,
-    "desc": "Agent Skills"
-   }
-  ],
-  "hot": [
-   {
-    "name": "ui-taste",
-    "repo": "uizze.sh",
-    "url": "https://www.skills.sh/site/uizze.sh/ui-taste",
-    "installs": "406",
-    "installs_n": 406,
-    "desc": ""
-   },
-   {
-    "name": "explore-code",
-    "repo": "lllllllama/rigorpilot-skills",
-    "url": "https://www.skills.sh/lllllllama/rigorpilot-skills/explore-code",
-    "installs": "240",
-    "installs_n": 240,
-    "desc": "README-first research reproduction skills with bounded execution, auditable evidence, and byte-preserving README annotations."
    },
    {
     "name": "uizze-ui",
     "repo": "uizze/uizze",
     "url": "https://www.skills.sh/uizze/uizze/uizze-ui",
-    "installs": "237",
-    "installs_n": 237,
+    "installs": "10.3K",
+    "installs_n": 10300,
     "desc": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens."
    },
    {
-    "name": "image-to-ui",
-    "repo": "uizze/uizze",
-    "url": "https://www.skills.sh/uizze/uizze/image-to-ui",
-    "installs": "88",
-    "installs_n": 88,
-    "desc": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens."
+    "name": "remotion-best-practices",
+    "repo": "remotion-dev/skills",
+    "url": "https://www.skills.sh/remotion-dev/skills/remotion-best-practices",
+    "installs": "10.1K",
+    "installs_n": 10100,
+    "desc": "Agent Skills"
    },
    {
-    "name": "slideshow",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/slideshow",
-    "installs": "195",
-    "installs_n": 195,
-    "desc": "Write HTML. Render video. Built for agents."
+    "name": "ai-avatar-video",
+    "repo": "qu-skills/superpowers",
+    "url": "https://www.skills.sh/qu-skills/superpowers/ai-avatar-video",
+    "installs": "8.8K",
+    "installs_n": 8800,
+    "desc": "Agent superpowers"
+   },
+   {
+    "name": "grilling",
+    "repo": "mattpocock/skills",
+    "url": "https://www.skills.sh/mattpocock/skills/grilling",
+    "installs": "7.0K",
+    "installs_n": 7000,
+    "desc": "Skills for Real Engineers. Straight from my .agents directory."
+   },
+   {
+    "name": "grill-me",
+    "repo": "mattpocock/skills",
+    "url": "https://www.skills.sh/mattpocock/skills/grill-me",
+    "installs": "6.6K",
+    "installs_n": 6600,
+    "desc": "Skills for Real Engineers. Straight from my .agents directory."
+   },
+   {
+    "name": "domain-modeling",
+    "repo": "mattpocock/skills",
+    "url": "https://www.skills.sh/mattpocock/skills/domain-modeling",
+    "installs": "5.5K",
+    "installs_n": 5500,
+    "desc": "Skills for Real Engineers. Straight from my .agents directory."
    },
    {
     "name": "remotion-to-hyperframes",
     "repo": "heygen-com/hyperframes",
     "url": "https://www.skills.sh/heygen-com/hyperframes/remotion-to-hyperframes",
-    "installs": "197",
-    "installs_n": 197,
+    "installs": "5.5K",
+    "installs_n": 5500,
     "desc": "Write HTML. Render video. Built for agents."
    },
    {
-    "name": "figma",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/figma",
-    "installs": "193",
-    "installs_n": 193,
-    "desc": "Write HTML. Render video. Built for agents."
-   },
-   {
-    "name": "project-architecture",
-    "repo": "c3sc0-v4113/scaffold",
-    "url": "https://www.skills.sh/c3sc0-v4113/scaffold/project-architecture",
-    "installs": "29",
-    "installs_n": 29,
+    "name": "agent-browser",
+    "repo": "beltsh/superpowers",
+    "url": "https://www.skills.sh/beltsh/superpowers/agent-browser",
+    "installs": "5.4K",
+    "installs_n": 5400,
     "desc": ""
    },
    {
-    "name": "typescript-advanced-types",
-    "repo": "wshobson/agents",
-    "url": "https://www.skills.sh/wshobson/agents/typescript-advanced-types",
+    "name": "grill-with-docs",
+    "repo": "mattpocock/skills",
+    "url": "https://www.skills.sh/mattpocock/skills/grill-with-docs",
+    "installs": "5.4K",
+    "installs_n": 5400,
+    "desc": "Skills for Real Engineers. Straight from my .agents directory."
+   },
+   {
+    "name": "slideshow",
+    "repo": "heygen-com/hyperframes",
+    "url": "https://www.skills.sh/heygen-com/hyperframes/slideshow",
+    "installs": "5.4K",
+    "installs_n": 5400,
+    "desc": "Write HTML. Render video. Built for agents."
+   }
+  ],
+  "hot": [
+   {
+    "name": "remotion-elements",
+    "repo": "remotion-dev/skills",
+    "url": "https://www.skills.sh/remotion-dev/skills/remotion-elements",
+    "installs": "166",
+    "installs_n": 166,
+    "desc": "Agent Skills"
+   },
+   {
+    "name": "caveman-stats",
+    "repo": "juliusbrussee/caveman",
+    "url": "https://www.skills.sh/juliusbrussee/caveman/caveman-stats",
+    "installs": "62",
+    "installs_n": 62,
+    "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+   },
+   {
+    "name": "caveman-compress",
+    "repo": "juliusbrussee/caveman",
+    "url": "https://www.skills.sh/juliusbrussee/caveman/caveman-compress",
+    "installs": "62",
+    "installs_n": 62,
+    "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+   },
+   {
+    "name": "caveman",
+    "repo": "juliusbrussee/caveman",
+    "url": "https://www.skills.sh/juliusbrussee/caveman/caveman",
+    "installs": "76",
+    "installs_n": 76,
+    "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+   },
+   {
+    "name": "orca-cli",
+    "repo": "stablyai/orca",
+    "url": "https://www.skills.sh/stablyai/orca/orca-cli",
+    "installs": "31",
+    "installs_n": 31,
+    "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+   },
+   {
+    "name": "flagship",
+    "repo": "cloudflare/skills",
+    "url": "https://www.skills.sh/cloudflare/skills/flagship",
+    "installs": "25",
+    "installs_n": 25,
+    "desc": "Skills for teaching agents how to build on Cloudflare."
+   },
+   {
+    "name": "artifacts",
+    "repo": "cloudflare/skills",
+    "url": "https://www.skills.sh/cloudflare/skills/artifacts",
+    "installs": "25",
+    "installs_n": 25,
+    "desc": "Skills for teaching agents how to build on Cloudflare."
+   },
+   {
+    "name": "gemini-frontend-design",
+    "repo": "google-gemini/demolab",
+    "url": "https://www.skills.sh/google-gemini/demolab/gemini-frontend-design",
+    "installs": "21",
+    "installs_n": 21,
+    "desc": "Skills, prompts, and scripts used to build and reproduce Gemini model demos"
+   },
+   {
+    "name": "land",
+    "repo": "jwh3times/skills",
+    "url": "https://www.skills.sh/jwh3times/skills/land",
+    "installs": "12",
+    "installs_n": 12,
+    "desc": "Agent skills shared across jwh3times repositories: one body per skill, tailored per repo through docs/agents/ settings."
+   },
+   {
+    "name": "pptx-nova",
+    "repo": "hustcer/pptx-nova",
+    "url": "https://www.skills.sh/hustcer/pptx-nova/pptx-nova",
     "installs": "30",
     "installs_n": 30,
-    "desc": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi"
+    "desc": "PowerPoint, rebuilt for agents. Not another slide generator. Create, edit, translate, and refurbish truly editable decks with DeckKit design systems, template-aware workflows, and visual QA. Powered by xdoc."
    },
    {
-    "name": "architecture-decision-records",
-    "repo": "wshobson/agents",
-    "url": "https://www.skills.sh/wshobson/agents/architecture-decision-records",
-    "installs": "28",
-    "installs_n": 28,
-    "desc": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi"
+    "name": "volcengine-cli",
+    "repo": "volcengine/volcengine-agent-toolkit",
+    "url": "https://www.skills.sh/volcengine/volcengine-agent-toolkit/volcengine-cli",
+    "installs": "10",
+    "installs_n": 10,
+    "desc": "Volcengine skills and plugins for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, OpenCode): manage cloud resources via the `ve` CLI, search official docs, troubleshoot, and install product-domain skills on demand."
    },
    {
-    "name": "react-doctor",
-    "repo": "millionco/react-doctor",
-    "url": "https://www.skills.sh/millionco/react-doctor/react-doctor",
-    "installs": "29",
-    "installs_n": 29,
-    "desc": "Your agent writes bad React. This catches it"
-   },
-   {
-    "name": "vitest",
-    "repo": "pproenca/dot-skills",
-    "url": "https://www.skills.sh/pproenca/dot-skills/vitest",
-    "installs": "19",
-    "installs_n": 19,
-    "desc": "A collection of AI agent skills following the Agent Skills open format"
-   },
-   {
-    "name": "systematic-debugging",
-    "repo": "obra/superpowers",
-    "url": "https://www.skills.sh/obra/superpowers/systematic-debugging",
-    "installs": "53",
-    "installs_n": 53,
-    "desc": "An agentic skills framework & software development methodology that works."
-   },
-   {
-    "name": "verification-before-completion",
-    "repo": "obra/superpowers",
-    "url": "https://www.skills.sh/obra/superpowers/verification-before-completion",
-    "installs": "50",
-    "installs_n": 50,
-    "desc": "An agentic skills framework & software development methodology that works."
-   },
-   {
-    "name": "sentry-cli",
-    "repo": "sentry/dev",
-    "url": "https://www.skills.sh/sentry/dev/sentry-cli",
-    "installs": "61",
-    "installs_n": 61,
+    "name": "k2f-company-deck",
+    "repo": "suzheng/k2f",
+    "url": "https://www.skills.sh/suzheng/k2f/k2f-company-deck",
+    "installs": "9",
+    "installs_n": 9,
     "desc": ""
    },
    {
-    "name": "playwright-best-practices",
-    "repo": "currents-dev/playwright-best-practices-skill",
-    "url": "https://www.skills.sh/currents-dev/playwright-best-practices-skill/playwright-best-practices",
-    "installs": "24",
-    "installs_n": 24,
-    "desc": "AI Skill for Playwright Best Practices—made by Currents.dev"
+    "name": "decision-records",
+    "repo": "skymavis/skills",
+    "url": "https://www.skills.sh/skymavis/skills/decision-records",
+    "installs": "9",
+    "installs_n": 9,
+    "desc": "Reusable, self-contained agent skills"
    },
    {
-    "name": "next-dev-loop",
-    "repo": "vercel/next.js",
-    "url": "https://www.skills.sh/vercel/next.js/next-dev-loop",
-    "installs": "13",
-    "installs_n": 13,
-    "desc": "The React Framework"
+    "name": "security-and-hardening",
+    "repo": "addyosmani/agent-skills",
+    "url": "https://www.skills.sh/addyosmani/agent-skills/security-and-hardening",
+    "installs": "23",
+    "installs_n": 23,
+    "desc": "Production-grade engineering skills for AI coding agents."
    },
    {
-    "name": "ui-sdk",
-    "repo": "vercel-labs/ui",
-    "url": "https://www.skills.sh/vercel-labs/ui/ui-sdk",
-    "installs": "18",
-    "installs_n": 18,
-    "desc": "A library of behaviors for agents to build the next generation of user interfaces."
+    "name": "frontend-ui-engineering",
+    "repo": "addyosmani/agent-skills",
+    "url": "https://www.skills.sh/addyosmani/agent-skills/frontend-ui-engineering",
+    "installs": "23",
+    "installs_n": 23,
+    "desc": "Production-grade engineering skills for AI coding agents."
    },
    {
-    "name": "next-cache-components-adoption",
-    "repo": "vercel/next.js",
-    "url": "https://www.skills.sh/vercel/next.js/next-cache-components-adoption",
-    "installs": "12",
-    "installs_n": 12,
-    "desc": "The React Framework"
+    "name": "k2f-flyer",
+    "repo": "suzheng/k2f",
+    "url": "https://www.skills.sh/suzheng/k2f/k2f-flyer",
+    "installs": "8",
+    "installs_n": 8,
+    "desc": ""
    },
    {
-    "name": "next-cache-components-optimizer",
-    "repo": "vercel/next.js",
-    "url": "https://www.skills.sh/vercel/next.js/next-cache-components-optimizer",
-    "installs": "12",
-    "installs_n": 12,
-    "desc": "The React Framework"
+    "name": "k2f-resume",
+    "repo": "suzheng/k2f",
+    "url": "https://www.skills.sh/suzheng/k2f/k2f-resume",
+    "installs": "7",
+    "installs_n": 7,
+    "desc": ""
+   },
+   {
+    "name": "k2f-cv",
+    "repo": "suzheng/k2f",
+    "url": "https://www.skills.sh/suzheng/k2f/k2f-cv",
+    "installs": "7",
+    "installs_n": 7,
+    "desc": ""
+   },
+   {
+    "name": "code-review-and-quality",
+    "repo": "addyosmani/agent-skills",
+    "url": "https://www.skills.sh/addyosmani/agent-skills/code-review-and-quality",
+    "installs": "23",
+    "installs_n": 23,
+    "desc": "Production-grade engineering skills for AI coding agents."
+   },
+   {
+    "name": "k2f-conference-handout",
+    "repo": "suzheng/k2f",
+    "url": "https://www.skills.sh/suzheng/k2f/k2f-conference-handout",
+    "installs": "6",
+    "installs_n": 6,
+    "desc": ""
    }
   ]
  },
  "projects": [
   {
-   "name": "pingdotgg/t3code",
-   "stars": 75459,
-   "desc": "The best way to control Claude Code, Codex and more from any computer or phone",
-   "url": "https://github.com/pingdotgg/t3code",
-   "delta": 3640
+   "name": "Marvisak/VIctory",
+   "stars": 11588,
+   "desc": "An attempt at running GTA VI on PC",
+   "url": "https://github.com/Marvisak/VIctory",
+   "delta": 6673
   },
   {
-   "name": "morluto/rea",
-   "stars": 475907,
-   "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-   "url": "https://github.com/morluto/rea",
-   "delta": 1722
+   "name": "pingdotgg/t3code",
+   "stars": 77950,
+   "desc": "The best way to control Claude Code, Codex and more from any computer or phone",
+   "url": "https://github.com/pingdotgg/t3code",
+   "delta": 2491
   },
   {
    "name": "stablyai/orca",
-   "stars": 134782,
+   "stars": 136473,
    "desc": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
    "url": "https://github.com/stablyai/orca",
-   "delta": 1674
+   "delta": 1691
   },
   {
-   "name": "havenicec/google-qr-sms-helper",
-   "stars": 4559,
-   "desc": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
-   "url": "https://github.com/havenicec/google-qr-sms-helper",
-   "delta": 1362
+   "name": "morluto/rea",
+   "stars": 477383,
+   "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "url": "https://github.com/morluto/rea",
+   "delta": 1476
   },
   {
-   "name": "Hut-hzf/ung220z-tool",
-   "stars": 3685,
-   "desc": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-   "url": "https://github.com/Hut-hzf/ung220z-tool",
-   "delta": 1311
+   "name": "AFK-surf/xnulinux",
+   "stars": 3489,
+   "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+   "url": "https://github.com/AFK-surf/xnulinux",
+   "delta": 1054
   },
   {
-   "name": "EL4CTEO/fast-anything",
-   "stars": 3263,
-   "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-   "url": "https://github.com/EL4CTEO/fast-anything",
-   "delta": 1286
-  },
-  {
-   "name": "storytold/craft-anything",
-   "stars": 42276,
-   "desc": "Craft Anything: understand how any software works, and craft your own.",
-   "url": "https://github.com/storytold/craft-anything",
-   "delta": 996
+   "name": "firecrawl/firecrawl",
+   "stars": 209103,
+   "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+   "url": "https://github.com/firecrawl/firecrawl",
+   "delta": 991
   },
   {
    "name": "XinaTian/MROffice",
-   "stars": 3069,
+   "stars": 4034,
    "desc": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
    "url": "https://github.com/XinaTian/MROffice",
-   "delta": 877
+   "delta": 965
   },
   {
-   "name": "mvanhorn/last30days-skill",
-   "stars": 73590,
-   "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-   "url": "https://github.com/mvanhorn/last30days-skill",
-   "delta": 809
+   "name": "Hut-hzf/ung220z-tool",
+   "stars": 4553,
+   "desc": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+   "url": "https://github.com/Hut-hzf/ung220z-tool",
+   "delta": 868
   },
   {
-   "name": "erkamyaman/rust-anything",
-   "stars": 8836,
-   "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-   "url": "https://github.com/erkamyaman/rust-anything",
-   "delta": 800
+   "name": "anhao/ai-pose-gallery-zh",
+   "stars": 8811,
+   "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+   "url": "https://github.com/anhao/ai-pose-gallery-zh",
+   "delta": 849
   },
   {
-   "name": "anefzaoui/misterdownloadmanager",
-   "stars": 17426,
-   "desc": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
-   "url": "https://github.com/anefzaoui/misterdownloadmanager",
-   "delta": 782
+   "name": "havenicec/google-qr-sms-helper",
+   "stars": 5276,
+   "desc": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
+   "url": "https://github.com/havenicec/google-qr-sms-helper",
+   "delta": 717
+  },
+  {
+   "name": "storytold/craft-anything",
+   "stars": 42971,
+   "desc": "Craft Anything: understand how any software works, and craft your own.",
+   "url": "https://github.com/storytold/craft-anything",
+   "delta": 695
   },
   {
    "name": "heygen-com/hyperframes",
-   "stars": 89080,
+   "stars": 89691,
    "desc": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
    "url": "https://github.com/heygen-com/hyperframes",
-   "delta": 769
+   "delta": 611
   },
   {
-   "name": "janestreet/agent_skills",
-   "stars": 11439,
-   "desc": "Agent skills",
-   "url": "https://github.com/janestreet/agent_skills",
-   "delta": 761
-  },
-  {
-   "name": "ccch1mneyyy/dsh-Go",
-   "stars": 30926,
-   "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-   "url": "https://github.com/ccch1mneyyy/dsh-Go",
-   "delta": 704
-  },
-  {
-   "name": "heydamir/unslop",
-   "stars": 20936,
-   "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-   "url": "https://github.com/heydamir/unslop",
-   "delta": 621
-  },
-  {
-   "name": "JuneYaooo/rea-video",
-   "stars": 12754,
-   "desc": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
-   "url": "https://github.com/JuneYaooo/rea-video",
-   "delta": 493
+   "name": "toeverything/AFFiNE",
+   "stars": 78076,
+   "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+   "url": "https://github.com/toeverything/AFFiNE",
+   "delta": 560
   },
   {
    "name": "ersinkoc/phonebox",
-   "stars": 5544,
+   "stars": 6088,
    "desc": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
    "url": "https://github.com/ersinkoc/phonebox",
-   "delta": 468
-  },
-  {
-   "name": "Lee-xeo/Claude-Cage",
-   "stars": 8121,
-   "desc": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
-   "url": "https://github.com/Lee-xeo/Claude-Cage",
-   "delta": 417
-  },
-  {
-   "name": "tt-a1i/archify",
-   "stars": 99204,
-   "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-   "url": "https://github.com/tt-a1i/archify",
-   "delta": 390
+   "delta": 544
   },
   {
    "name": "mdiri-ai/SoduWork",
-   "stars": 7184,
+   "stars": 7671,
    "desc": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
    "url": "https://github.com/mdiri-ai/SoduWork",
-   "delta": 363
+   "delta": 487
+  },
+  {
+   "name": "erkamyaman/rust-anything",
+   "stars": 9297,
+   "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+   "url": "https://github.com/erkamyaman/rust-anything",
+   "delta": 461
+  },
+  {
+   "name": "anefzaoui/misterdownloadmanager",
+   "stars": 17876,
+   "desc": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+   "url": "https://github.com/anefzaoui/misterdownloadmanager",
+   "delta": 450
+  },
+  {
+   "name": "wquguru/cicada",
+   "stars": 3188,
+   "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+   "url": "https://github.com/wquguru/cicada",
+   "delta": 441
+  },
+  {
+   "name": "heydamir/unslop",
+   "stars": 21352,
+   "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+   "url": "https://github.com/heydamir/unslop",
+   "delta": 416
+  },
+  {
+   "name": "EL4CTEO/fast-anything",
+   "stars": 3676,
+   "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+   "url": "https://github.com/EL4CTEO/fast-anything",
+   "delta": 413
   }
  ],
  "meta": {

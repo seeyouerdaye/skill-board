@@ -257,5 +257,8 @@
  "ericjujianzou/rederive": "Explain code that AI wrote for you, in an interview or at work. An open source Claude Code skill that asks how you would build each part of your repo, so you re-derive its design decisions yourself. It also works on open source repos you want to learn.",
  "supabase/agent-skills": "Agent Skills to help developers using AI agents with Supabase",
  "greensock/gsap-skills": "Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.",
- "caffeinelabs/skills": ""
+ "caffeinelabs/skills": "",
+ "google-gemini/demolab": "Skills, prompts, and scripts used to build and reproduce Gemini model demos",
+ "jwh3times/skills": "Agent skills shared across jwh3times repositories: one body per skill, tailored per repo through docs/agents/ settings.",
+ "skymavis/skills": "Reusable, self-contained agent skills"
 }
