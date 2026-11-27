@@ -1,53 +1,53 @@
 {
- "generated_at": "2026-11-26T11:55:08+08:00",
+ "generated_at": "2026-11-27T11:54:59+08:00",
  "skills": {
   "trending": [
+   {
+    "name": "ui-design",
+    "repo": "uxpilot-ai/frontend-design-skill",
+    "url": "https://www.skills.sh/uxpilot-ai/frontend-design-skill/ui-design",
+    "installs": "29.6K",
+    "installs_n": 29600,
+    "desc": "Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code"
+   },
    {
     "name": "ai-video-generation",
     "repo": "beltsh/superpowers",
     "url": "https://www.skills.sh/beltsh/superpowers/ai-video-generation",
-    "installs": "29.1K",
-    "installs_n": 29100,
+    "installs": "28.9K",
+    "installs_n": 28900,
     "desc": ""
-   },
-   {
-    "name": "design-mobile-apps",
-    "repo": "designed-by-ai/skills",
-    "url": "https://www.skills.sh/designed-by-ai/skills/design-mobile-apps",
-    "installs": "20.5K",
-    "installs_n": 20500,
-    "desc": "Agent skills"
-   },
-   {
-    "name": "agent-browser",
-    "repo": "vercel-labs/agent-browser",
-    "url": "https://www.skills.sh/vercel-labs/agent-browser/agent-browser",
-    "installs": "20.3K",
-    "installs_n": 20300,
-    "desc": "Browser automation CLI for AI agents"
    },
    {
     "name": "ui-taste",
     "repo": "uizze.sh",
     "url": "https://www.skills.sh/site/uizze.sh/ui-taste",
-    "installs": "19.2K",
-    "installs_n": 19200,
+    "installs": "20.3K",
+    "installs_n": 20300,
     "desc": ""
    },
    {
-    "name": "user-interview-guide",
-    "repo": "uxpilot-ai/user-interview-skill",
-    "url": "https://www.skills.sh/uxpilot-ai/user-interview-skill/user-interview-guide",
-    "installs": "18.9K",
-    "installs_n": 18900,
-    "desc": "Free agent skill that writes neutral 1:1 user interview guides for Claude Code, Codex and Cursor"
+    "name": "agent-browser",
+    "repo": "vercel-labs/agent-browser",
+    "url": "https://www.skills.sh/vercel-labs/agent-browser/agent-browser",
+    "installs": "20.0K",
+    "installs_n": 20000,
+    "desc": "Browser automation CLI for AI agents"
+   },
+   {
+    "name": "design-mobile-apps",
+    "repo": "designed-by-ai/skills",
+    "url": "https://www.skills.sh/designed-by-ai/skills/design-mobile-apps",
+    "installs": "19.9K",
+    "installs_n": 19900,
+    "desc": "Agent skills"
    },
    {
     "name": "find-skills",
     "repo": "vercel-labs/skills",
     "url": "https://www.skills.sh/vercel-labs/skills/find-skills",
-    "installs": "17.5K",
-    "installs_n": 17500,
+    "installs": "16.4K",
+    "installs_n": 16400,
     "desc": "The open agent skills tool - npx skills"
    },
    {
@@ -62,14 +62,6 @@
     "name": "ai-music",
     "repo": "gencraft-labs/skills",
     "url": "https://www.skills.sh/gencraft-labs/skills/ai-music",
-    "installs": "15.5K",
-    "installs_n": 15500,
-    "desc": ""
-   },
-   {
-    "name": "video-edit",
-    "repo": "gencraft-labs/skills",
-    "url": "https://www.skills.sh/gencraft-labs/skills/video-edit",
     "installs": "15.4K",
     "installs_n": 15400,
     "desc": ""
@@ -78,394 +70,402 @@
     "name": "reddit-automation",
     "repo": "flowkit-labs/skills",
     "url": "https://www.skills.sh/flowkit-labs/skills/reddit-automation",
-    "installs": "15.4K",
-    "installs_n": 15400,
+    "installs": "15.2K",
+    "installs_n": 15200,
+    "desc": ""
+   },
+   {
+    "name": "video-edit",
+    "repo": "gencraft-labs/skills",
+    "url": "https://www.skills.sh/gencraft-labs/skills/video-edit",
+    "installs": "15.2K",
+    "installs_n": 15200,
     "desc": ""
    },
    {
     "name": "hyperframes",
     "repo": "heygen-com/hyperframes",
     "url": "https://www.skills.sh/heygen-com/hyperframes/hyperframes",
-    "installs": "15.2K",
-    "installs_n": 15200,
-    "desc": "Write HTML. Render video. Built for agents."
-   },
-   {
-    "name": "ai-image-generation",
-    "repo": "gencraft-labs/skills",
-    "url": "https://www.skills.sh/gencraft-labs/skills/ai-image-generation",
-    "installs": "15.1K",
-    "installs_n": 15100,
-    "desc": ""
-   },
-   {
-    "name": "ai-video-generation",
-    "repo": "gencraft-labs/skills",
-    "url": "https://www.skills.sh/gencraft-labs/skills/ai-video-generation",
-    "installs": "15.1K",
-    "installs_n": 15100,
-    "desc": ""
-   },
-   {
-    "name": "image-to-video",
-    "repo": "gencraft-labs/skills",
-    "url": "https://www.skills.sh/gencraft-labs/skills/image-to-video",
-    "installs": "15.1K",
-    "installs_n": 15100,
-    "desc": ""
-   },
-   {
-    "name": "media-use",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/media-use",
-    "installs": "15.0K",
-    "installs_n": 15000,
+    "installs": "13.8K",
+    "installs_n": 13800,
     "desc": "Write HTML. Render video. Built for agents."
    },
    {
     "name": "uizze-ui",
     "repo": "uizze/uizze",
     "url": "https://www.skills.sh/uizze/uizze/uizze-ui",
-    "installs": "11.2K",
-    "installs_n": 11200,
+    "installs": "11.8K",
+    "installs_n": 11800,
     "desc": "Build better UI with coding agents. Free design skills, a PR finish gate, and MCP references from 800,000+ web and iOS screens."
    },
    {
     "name": "remotion-best-practices",
     "repo": "remotion-dev/skills",
     "url": "https://www.skills.sh/remotion-dev/skills/remotion-best-practices",
-    "installs": "9.5K",
-    "installs_n": 9500,
+    "installs": "9.6K",
+    "installs_n": 9600,
     "desc": "Agent Skills"
    },
    {
     "name": "ai-avatar-video",
     "repo": "qu-skills/superpowers",
     "url": "https://www.skills.sh/qu-skills/superpowers/ai-avatar-video",
-    "installs": "8.6K",
-    "installs_n": 8600,
+    "installs": "8.9K",
+    "installs_n": 8900,
     "desc": "Agent superpowers"
+   },
+   {
+    "name": "remotion-markup",
+    "repo": "remotion-dev/skills",
+    "url": "https://www.skills.sh/remotion-dev/skills/remotion-markup",
+    "installs": "8.9K",
+    "installs_n": 8900,
+    "desc": "Agent Skills"
    },
    {
     "name": "grilling",
     "repo": "mattpocock/skills",
     "url": "https://www.skills.sh/mattpocock/skills/grilling",
-    "installs": "7.1K",
-    "installs_n": 7100,
+    "installs": "6.8K",
+    "installs_n": 6800,
     "desc": "Skills for Real Engineers. Straight from my .agents directory."
    },
-   {
-    "name": "figma",
-    "repo": "heygen-com/hyperframes",
-    "url": "https://www.skills.sh/heygen-com/hyperframes/figma",
-    "installs": "6.5K",
-    "installs_n": 6500,
-    "desc": "Write HTML. Render video. Built for agents."
-   }
-  ],
-  "hot": [
    {
     "name": "user-interview-guide",
     "repo": "uxpilot-ai/user-interview-skill",
     "url": "https://www.skills.sh/uxpilot-ai/user-interview-skill/user-interview-guide",
-    "installs": "719",
-    "installs_n": 719,
+    "installs": "6.5K",
+    "installs_n": 6500,
     "desc": "Free agent skill that writes neutral 1:1 user interview guides for Claude Code, Codex and Cursor"
    },
+   {
+    "name": "grill-me",
+    "repo": "mattpocock/skills",
+    "url": "https://www.skills.sh/mattpocock/skills/grill-me",
+    "installs": "6.3K",
+    "installs_n": 6300,
+    "desc": "Skills for Real Engineers. Straight from my .agents directory."
+   },
+   {
+    "name": "agent-browser",
+    "repo": "beltsh/superpowers",
+    "url": "https://www.skills.sh/beltsh/superpowers/agent-browser",
+    "installs": "5.5K",
+    "installs_n": 5500,
+    "desc": ""
+   },
+   {
+    "name": "domain-modeling",
+    "repo": "mattpocock/skills",
+    "url": "https://www.skills.sh/mattpocock/skills/domain-modeling",
+    "installs": "5.3K",
+    "installs_n": 5300,
+    "desc": "Skills for Real Engineers. Straight from my .agents directory."
+   }
+  ],
+  "hot": [
    {
     "name": "ui-design",
     "repo": "uxpilot-ai/frontend-design-skill",
     "url": "https://www.skills.sh/uxpilot-ai/frontend-design-skill/ui-design",
-    "installs": "402",
-    "installs_n": 402,
+    "installs": "1.3K",
+    "installs_n": 1300,
     "desc": "Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code"
    },
    {
-    "name": "accessibility-audit",
-    "repo": "squirrelscan/skills",
-    "url": "https://www.skills.sh/squirrelscan/skills/accessibility-audit",
-    "installs": "69",
-    "installs_n": 69,
-    "desc": "Agent skills for squirrelscan, the website QA tool for your coding agent (360+ audit rules)."
+    "name": "archify",
+    "repo": "tt-a1i/archify",
+    "url": "https://www.skills.sh/tt-a1i/archify/archify",
+    "installs": "30",
+    "installs_n": 30,
+    "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more."
    },
    {
-    "name": "archify-pr",
-    "repo": "archify.si",
-    "url": "https://www.skills.sh/site/archify.si/archify-pr",
+    "name": "prisma-driver-adapter-implementation",
+    "repo": "prisma/skills",
+    "url": "https://www.skills.sh/prisma/skills/prisma-driver-adapter-implementation",
     "installs": "47",
     "installs_n": 47,
     "desc": ""
    },
    {
-    "name": "sentry-cli",
-    "repo": "sentry/dev",
-    "url": "https://www.skills.sh/sentry/dev/sentry-cli",
-    "installs": "59",
-    "installs_n": 59,
+    "name": "ci-cd-security",
+    "repo": "superagent-ai/skills",
+    "url": "https://www.skills.sh/superagent-ai/skills/ci-cd-security",
+    "installs": "14",
+    "installs_n": 14,
+    "desc": "A collection of security skills"
+   },
+   {
+    "name": "qws-zoom-out",
+    "repo": "qianwenflow/qwskill",
+    "url": "https://www.skills.sh/qianwenflow/qwskill/qws-zoom-out",
+    "installs": "14",
+    "installs_n": 14,
     "desc": ""
    },
    {
-    "name": "writing-changelogs",
-    "repo": "riekelt/technical-writer",
-    "url": "https://www.skills.sh/riekelt/technical-writer/writing-changelogs",
-    "installs": "21",
-    "installs_n": 21,
-    "desc": "Engineering writing skills for agents: specs, ADRs, changelogs, runbooks, migration guides, postmortems. Every claim sourced, no AI tells"
+    "name": "skill-security",
+    "repo": "superagent-ai/skills",
+    "url": "https://www.skills.sh/superagent-ai/skills/skill-security",
+    "installs": "14",
+    "installs_n": 14,
+    "desc": "A collection of security skills"
    },
    {
-    "name": "firecrawl-search",
-    "repo": "firecrawl/skills",
-    "url": "https://www.skills.sh/firecrawl/skills/firecrawl-search",
-    "installs": "12",
-    "installs_n": 12,
-    "desc": "Firecrawl agent skills for Claude Code, Codex and Cursor: web search, scraping, crawling and browser interaction. Firecrawl is the most complete web data API for AI agents."
-   },
-   {
-    "name": "qdrant-memory",
-    "repo": "cnkang/skills",
-    "url": "https://www.skills.sh/cnkang/skills/qdrant-memory",
-    "installs": "11",
-    "installs_n": 11,
-    "desc": "A collection of skills"
-   },
-   {
-    "name": "technical-writing",
-    "repo": "riekelt/technical-writer",
-    "url": "https://www.skills.sh/riekelt/technical-writer/technical-writing",
-    "installs": "21",
-    "installs_n": 21,
-    "desc": "Engineering writing skills for agents: specs, ADRs, changelogs, runbooks, migration guides, postmortems. Every claim sourced, no AI tells"
-   },
-   {
-    "name": "deepline-gtm",
-    "repo": "code.deepline.com",
-    "url": "https://www.skills.sh/site/code.deepline.com/deepline-gtm",
-    "installs": "17",
-    "installs_n": 17,
+    "name": "qws-interview",
+    "repo": "qianwenflow/qwskill",
+    "url": "https://www.skills.sh/qianwenflow/qwskill/qws-interview",
+    "installs": "14",
+    "installs_n": 14,
     "desc": ""
    },
    {
-    "name": "html-slides",
-    "repo": "claude-office-skills/skills",
-    "url": "https://www.skills.sh/claude-office-skills/skills/html-slides",
-    "installs": "12",
-    "installs_n": 12,
-    "desc": "A curated collection of practical Claude Skills for real-world office tasks"
+    "name": "qws",
+    "repo": "qianwenflow/qwskill",
+    "url": "https://www.skills.sh/qianwenflow/qwskill/qws",
+    "installs": "14",
+    "installs_n": 14,
+    "desc": ""
    },
    {
-    "name": "firecrawl-interact",
-    "repo": "firecrawl/skills",
-    "url": "https://www.skills.sh/firecrawl/skills/firecrawl-interact",
-    "installs": "11",
-    "installs_n": 11,
-    "desc": "Firecrawl agent skills for Claude Code, Codex and Cursor: web search, scraping, crawling and browser interaction. Firecrawl is the most complete web data API for AI agents."
+    "name": "prisma-cli",
+    "repo": "prisma/skills",
+    "url": "https://www.skills.sh/prisma/skills/prisma-cli",
+    "installs": "47",
+    "installs_n": 47,
+    "desc": ""
    },
    {
-    "name": "reviewing-technical-prose",
-    "repo": "riekelt/technical-writer",
-    "url": "https://www.skills.sh/riekelt/technical-writer/reviewing-technical-prose",
-    "installs": "21",
-    "installs_n": 21,
-    "desc": "Engineering writing skills for agents: specs, ADRs, changelogs, runbooks, migration guides, postmortems. Every claim sourced, no AI tells"
-   },
-   {
-    "name": "firecrawl-agent",
-    "repo": "firecrawl/skills",
-    "url": "https://www.skills.sh/firecrawl/skills/firecrawl-agent",
-    "installs": "11",
-    "installs_n": 11,
-    "desc": "Firecrawl agent skills for Claude Code, Codex and Cursor: web search, scraping, crawling and browser interaction. Firecrawl is the most complete web data API for AI agents."
-   },
-   {
-    "name": "vega-multi-tv-migration",
-    "repo": "amazonappdev/devices-agent-skills",
-    "url": "https://www.skills.sh/amazonappdev/devices-agent-skills/vega-multi-tv-migration",
-    "installs": "10",
-    "installs_n": 10,
-    "desc": "Collection of Amazon Devices Community Agent Skills"
-   },
-   {
-    "name": "firecrawl-company-directories",
-    "repo": "firecrawl/skills",
-    "url": "https://www.skills.sh/firecrawl/skills/firecrawl-company-directories",
-    "installs": "10",
-    "installs_n": 10,
-    "desc": "Firecrawl agent skills for Claude Code, Codex and Cursor: web search, scraping, crawling and browser interaction. Firecrawl is the most complete web data API for AI agents."
-   },
-   {
-    "name": "notion-api",
-    "repo": "intellectronica/agent-skills",
-    "url": "https://www.skills.sh/intellectronica/agent-skills/notion-api",
-    "installs": "46",
-    "installs_n": 46,
-    "desc": "@intellectronica's agent skills"
-   },
-   {
-    "name": "caveman-review",
+    "name": "caveman-stats",
     "repo": "juliusbrussee/caveman",
-    "url": "https://www.skills.sh/juliusbrussee/caveman/caveman-review",
-    "installs": "37",
-    "installs_n": 37,
+    "url": "https://www.skills.sh/juliusbrussee/caveman/caveman-stats",
+    "installs": "52",
+    "installs_n": 52,
     "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
    },
    {
-    "name": "deploy-to-vercel",
-    "repo": "vercel-labs/agent-skills",
-    "url": "https://www.skills.sh/vercel-labs/agent-skills/deploy-to-vercel",
-    "installs": "26",
-    "installs_n": 26,
-    "desc": "Vercel's official collection of agent skills"
+    "name": "prisma-client-api",
+    "repo": "prisma/skills",
+    "url": "https://www.skills.sh/prisma/skills/prisma-client-api",
+    "installs": "48",
+    "installs_n": 48,
+    "desc": ""
    },
    {
-    "name": "byted-ark-seedream-skill",
-    "repo": "kotot/byted-ark-seedream-skill",
-    "url": "https://www.skills.sh/kotot/byted-ark-seedream-skill/byted-ark-seedream-skill",
-    "installs": "18",
-    "installs_n": 18,
-    "desc": "豆包 Seedream AI 图片生成 Skill - 火山方舟 Agent Plan 专属版本：文生图/连贯组图/图生图、流式输出、提示词智能优化、联网搜索"
+    "name": "caveman-compress",
+    "repo": "juliusbrussee/caveman",
+    "url": "https://www.skills.sh/juliusbrussee/caveman/caveman-compress",
+    "installs": "54",
+    "installs_n": 54,
+    "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+   },
+   {
+    "name": "gh-axi",
+    "repo": "kunchenguid/gh-axi",
+    "url": "https://www.skills.sh/kunchenguid/gh-axi/gh-axi",
+    "installs": "9",
+    "installs_n": 9,
+    "desc": "GitHub CLI for agents — designed with AXI (Agent eXperience Interface)."
+   },
+   {
+    "name": "chrome-devtools-axi",
+    "repo": "kunchenguid/chrome-devtools-axi",
+    "url": "https://www.skills.sh/kunchenguid/chrome-devtools-axi/chrome-devtools-axi",
+    "installs": "9",
+    "installs_n": 9,
+    "desc": "The most agent-ergonomic browser automation"
+   },
+   {
+    "name": "opengame",
+    "repo": "nexu-io/opengame",
+    "url": "https://www.skills.sh/nexu-io/opengame/opengame",
+    "installs": "9",
+    "installs_n": 9,
+    "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more."
+   },
+   {
+    "name": "short-form-video",
+    "repo": "iart-ai/tiktok-video-skills",
+    "url": "https://www.skills.sh/iart-ai/tiktok-video-skills/short-form-video",
+    "installs": "12",
+    "installs_n": 12,
+    "desc": "Short-form video skills for Claude Code — engineer Reels, TikToks, and YouTube Shorts that survive the swipe."
+   },
+   {
+    "name": "no-mistakes",
+    "repo": "kunchenguid/no-mistakes",
+    "url": "https://www.skills.sh/kunchenguid/no-mistakes/no-mistakes",
+    "installs": "9",
+    "installs_n": 9,
+    "desc": "git push no-mistakes"
+   },
+   {
+    "name": "video-enhancement",
+    "repo": "beltsh/superpowers",
+    "url": "https://www.skills.sh/beltsh/superpowers/video-enhancement",
+    "installs": "8",
+    "installs_n": 8,
+    "desc": ""
+   },
+   {
+    "name": "differential-review",
+    "repo": "trailofbits/skills",
+    "url": "https://www.skills.sh/trailofbits/skills/differential-review",
+    "installs": "8",
+    "installs_n": 8,
+    "desc": "Trail of Bits skills for security research, vulnerability detection, and audit workflows"
+   },
+   {
+    "name": "ai-3d-generation",
+    "repo": "beltsh/superpowers",
+    "url": "https://www.skills.sh/beltsh/superpowers/ai-3d-generation",
+    "installs": "7",
+    "installs_n": 7,
+    "desc": ""
    }
   ]
  },
  "projects": [
   {
    "name": "stablyai/orca",
-   "stars": 138474,
+   "stars": 140787,
    "desc": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
    "url": "https://github.com/stablyai/orca",
-   "delta": 2001
-  },
-  {
-   "name": "pingdotgg/t3code",
-   "stars": 79706,
-   "desc": "The best way to control Claude Code, Codex and more from any computer or phone",
-   "url": "https://github.com/pingdotgg/t3code",
-   "delta": 1756
+   "delta": 2313
   },
   {
    "name": "4lwayz/portwatch-vi",
-   "stars": 4342,
+   "stars": 5959,
    "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
    "url": "https://github.com/4lwayz/portwatch-vi",
-   "delta": 1310
+   "delta": 1617
+  },
+  {
+   "name": "Belobug/VIctory-Belobug-AMD",
+   "stars": 3244,
+   "desc": "",
+   "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
+   "delta": 1576
+  },
+  {
+   "name": "pingdotgg/t3code",
+   "stars": 81124,
+   "desc": "The best way to control Claude Code, Codex and more from any computer or phone",
+   "url": "https://github.com/pingdotgg/t3code",
+   "delta": 1418
   },
   {
    "name": "morluto/rea",
-   "stars": 478643,
+   "stars": 479978,
    "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
    "url": "https://github.com/morluto/rea",
-   "delta": 1260
-  },
-  {
-   "name": "Marvisak/VIctory",
-   "stars": 12688,
-   "desc": "An attempt at running GTA VI on PC",
-   "url": "https://github.com/Marvisak/VIctory",
-   "delta": 1100
+   "delta": 1335
   },
   {
    "name": "firecrawl/firecrawl",
-   "stars": 210175,
+   "stars": 211061,
    "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
    "url": "https://github.com/firecrawl/firecrawl",
-   "delta": 1072
+   "delta": 886
   },
   {
-   "name": "fxceless/victory-fork",
-   "stars": 3110,
-   "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
-   "url": "https://github.com/fxceless/victory-fork",
-   "delta": 924
-  },
-  {
-   "name": "XinaTian/MROffice",
-   "stars": 4874,
-   "desc": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
-   "url": "https://github.com/XinaTian/MROffice",
-   "delta": 840
-  },
-  {
-   "name": "storytold/craft-anything",
-   "stars": 43602,
-   "desc": "Craft Anything: understand how any software works, and craft your own.",
-   "url": "https://github.com/storytold/craft-anything",
-   "delta": 631
-  },
-  {
-   "name": "heygen-com/hyperframes",
-   "stars": 90250,
-   "desc": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
-   "url": "https://github.com/heygen-com/hyperframes",
-   "delta": 559
-  },
-  {
-   "name": "AFK-surf/xnulinux",
-   "stars": 3988,
-   "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-   "url": "https://github.com/AFK-surf/xnulinux",
-   "delta": 499
+   "name": "boykopovar/AnyPS5",
+   "stars": 62338,
+   "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+   "url": "https://github.com/boykopovar/AnyPS5",
+   "delta": 801
   },
   {
    "name": "ersinkoc/phonebox",
-   "stars": 6579,
+   "stars": 7343,
    "desc": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
    "url": "https://github.com/ersinkoc/phonebox",
-   "delta": 491
+   "delta": 764
   },
   {
-   "name": "toeverything/AFFiNE",
-   "stars": 78566,
-   "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-   "url": "https://github.com/toeverything/AFFiNE",
-   "delta": 490
+   "name": "Marvisak/VIctory",
+   "stars": 13443,
+   "desc": "An attempt at running GTA VI on PC",
+   "url": "https://github.com/Marvisak/VIctory",
+   "delta": 755
   },
   {
-   "name": "mdiri-ai/SoduWork",
-   "stars": 8122,
-   "desc": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
-   "url": "https://github.com/mdiri-ai/SoduWork",
-   "delta": 451
+   "name": "heygen-com/hyperframes",
+   "stars": 90956,
+   "desc": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
+   "url": "https://github.com/heygen-com/hyperframes",
+   "delta": 706
   },
   {
-   "name": "pierridotite/mobile-agent-testers",
-   "stars": 2351,
-   "desc": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
-   "url": "https://github.com/pierridotite/mobile-agent-testers",
-   "delta": 447
+   "name": "Hut-hzf/ung220z-tool",
+   "stars": 5620,
+   "desc": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+   "url": "https://github.com/Hut-hzf/ung220z-tool",
+   "delta": 675
+  },
+  {
+   "name": "erkamyaman/rust-anything",
+   "stars": 10299,
+   "desc": "Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript, Python, Go, Ruby, Java, C, PHP, C#, Kotlin and PowerShell.",
+   "url": "https://github.com/erkamyaman/rust-anything",
+   "delta": 631
+  },
+  {
+   "name": "storytold/craft-anything",
+   "stars": 44222,
+   "desc": "Craft Anything: understand how any software works, and craft your own.",
+   "url": "https://github.com/storytold/craft-anything",
+   "delta": 620
   },
   {
    "name": "heydamir/unslop",
-   "stars": 21784,
+   "stars": 22262,
    "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
    "url": "https://github.com/heydamir/unslop",
-   "delta": 432
+   "delta": 478
   },
   {
-   "name": "anhao/ai-pose-gallery-zh",
-   "stars": 9243,
-   "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-   "url": "https://github.com/anhao/ai-pose-gallery-zh",
-   "delta": 432
-  },
-  {
-   "name": "Leonxlnx/taste-skill",
-   "stars": 121624,
-   "desc": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-   "url": "https://github.com/Leonxlnx/taste-skill",
-   "delta": 429
-  },
-  {
-   "name": "xcl-dev/xcl",
-   "stars": 8346,
-   "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
-   "url": "https://github.com/xcl-dev/xcl",
-   "delta": 408
+   "name": "toeverything/AFFiNE",
+   "stars": 79039,
+   "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+   "url": "https://github.com/toeverything/AFFiNE",
+   "delta": 473
   },
   {
    "name": "libracoder/kiri",
-   "stars": 13471,
+   "stars": 13869,
    "desc": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
    "url": "https://github.com/libracoder/kiri",
-   "delta": 393
+   "delta": 398
+  },
+  {
+   "name": "anefzaoui/misterdownloadmanager",
+   "stars": 18586,
+   "desc": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+   "url": "https://github.com/anefzaoui/misterdownloadmanager",
+   "delta": 361
+  },
+  {
+   "name": "JuneYaooo/rea-video",
+   "stars": 13730,
+   "desc": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
+   "url": "https://github.com/JuneYaooo/rea-video",
+   "delta": 307
+  },
+  {
+   "name": "NousResearch/hermes-agent",
+   "stars": 266440,
+   "desc": "The agent that grows with you",
+   "url": "https://github.com/NousResearch/hermes-agent",
+   "delta": 295
+  },
+  {
+   "name": "Eynnzerr/TelemetryCleaner",
+   "stars": 3368,
+   "desc": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+   "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+   "delta": 290
   }
  ],
  "meta": {

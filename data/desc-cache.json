@@ -264,5 +264,9 @@
  "uxpilot-ai/user-interview-skill": "Free agent skill that writes neutral 1:1 user interview guides for Claude Code, Codex and Cursor",
  "uxpilot-ai/frontend-design-skill": "Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code",
  "squirrelscan/skills": "Agent skills for squirrelscan, the website QA tool for your coding agent (360+ audit rules).",
- "riekelt/technical-writer": "Engineering writing skills for agents: specs, ADRs, changelogs, runbooks, migration guides, postmortems. Every claim sourced, no AI tells"
+ "riekelt/technical-writer": "Engineering writing skills for agents: specs, ADRs, changelogs, runbooks, migration guides, postmortems. Every claim sourced, no AI tells",
+ "superagent-ai/skills": "A collection of security skills",
+ "qianwenflow/qwskill": "",
+ "nexu-io/opengame": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+ "iart-ai/tiktok-video-skills": "Short-form video skills for Claude Code — engineer Reels, TikToks, and YouTube Shorts that survive the swipe."
 }
