@@ -268,5 +268,8 @@
  "superagent-ai/skills": "A collection of security skills",
  "qianwenflow/qwskill": "",
  "nexu-io/opengame": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
- "iart-ai/tiktok-video-skills": "Short-form video skills for Claude Code — engineer Reels, TikToks, and YouTube Shorts that survive the swipe."
+ "iart-ai/tiktok-video-skills": "Short-form video skills for Claude Code — engineer Reels, TikToks, and YouTube Shorts that survive the swipe.",
+ "udaysharmadev/gravitas": "Make Gemini code like Claude Models. Forces it to inspect files before editing, plan changes, test its work, and back up every “done” with actual evidence.",
+ "riekelt/multi-agent-review": "Review specs and plans before execution, not code: two model tiers per topic, a reasoning juror only on disagreement, a fail-closed verdict gate",
+ "zenggeai/zgskill": "曾哥开发的 AI 时代一人公司 Skills"
 }
